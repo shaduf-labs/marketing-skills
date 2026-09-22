@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "research-comparison-2026-09-22",
+      "changed_at": "2026-09-22T08:30:00.000Z",
+      "summary": "Added a five-skill comparison report, a practical chooser, and List, Table, and Calendar views for the permanent research library.",
+      "path": "/p/marketing-skills/research"
+    },
+    {
       "change_id": "bootstrap-catalogue",
       "changed_at": "2026-09-22T15:22:21.545Z",
       "summary": "Expanded the first marketing-skill catalogue with job browsing, a visible research library, and methods and limits pages.",

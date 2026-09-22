@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "For a cautious first trial, use a portable marketing skill for a bounded output—copy draft, content plan, competitor list, page audit, or campaign analysis—then inspect the original source and require human review before any consequential action.",
+  "current_answer": "Use a marketing skill for a bounded output—page draft, content plan, competitor list, public-page audit, or campaign-export analysis—then inspect the original source and require human review before any consequential action.",
   "catalogue_card": {
     "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
-    "text": "Start with a source-inspected skill matched to a concrete job. The initial five focus on draft, planning, research, audit, and analysis; none was independently tested or presented as an autonomous publishing, sending, deployment, or spend tool."
+    "text": "Match a source-inspected skill to a specific job. The first five cover drafting, planning, research, auditing, and analysis. They are not independently tested and are not presented as autonomous publishing, sending, deployment, or spend tools."
   },
   "summary": [
-    "Five source-inspected portable skills cover content drafting, content planning, competitor research, public-URL search audit, and ad-export analysis.",
-    "The catalogue now has job-based browsing, a research library, an evaluation guide, and a methods page so the source record is visible alongside the entries.",
-    "All entries are original-source linked and carry a human review boundary; compatibility is a maintainer statement, not an install test."
+    "A new comparison report explains which of the five source-inspected skills fits each bounded marketing job and when to exclude it.",
+    "The research library preserves both reports and provides List, Table, and Calendar views of the same collection.",
+    "Every route states access, data, and human-review limits; compatibility remains a maintainer statement, not an install result."
   ],
   "uncertainty": [
     "No selected skill was installed, security-reviewed, legal/privacy-reviewed, benchmarked, or tested for marketing outcomes.",
     "Repository branch links can change; no immutable commit or latest-update date was captured.",
-    "Host compatibility, model/runtime costs, and behavior vary and require a current host-specific check."
+    "Host compatibility, model/runtime costs, and behavior vary and need a current host-specific check."
   ],
-  "checked_at": "2026-09-22T15:22:21.545Z",
-  "meaningfully_updated_at": "2026-09-22T15:22:21.545Z",
-  "freshness_note": "The source files were inspected on 2026-09-22 UTC. The research library identifies the completed source-inspection run and the checks still needed before use."
+  "checked_at": "2026-09-22T08:30:00.000Z",
+  "meaningfully_updated_at": "2026-09-22T08:30:00.000Z",
+  "freshness_note": "The source files behind the five records were inspected on 2026-09-22 UTC. The comparison report on the same date reorganizes that evidence and adds no new inspection or test."
 }
