@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "change_id": "bootstrap-catalogue",
+      "changed_at": "2026-09-22T15:22:21.545Z",
+      "summary": "Expanded the first marketing-skill catalogue with job browsing, a visible research library, and methods and limits pages.",
+      "path": "/p/"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "runs": [
+    {
+      "run_id": "run:manual:e68e4ee9eb26a9983f2f28d4bda6dafd",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-22T01:28:49.296Z",
+      "completed_at": "2026-09-22T01:28:49.296Z",
+      "title": "Source-inspected portable marketing skills",
+      "summary": "Established a five-skill, source-linked first catalogue with explicit human-review boundaries and no independent testing claims. The public research library now makes this record directly reachable.",
+      "report_path": "/p/marketing-skills/research/run-1",
+      "entrypoint": "research/run-1/index.html"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0.0",
+  "default_page": "catalogue",
+  "meaningfully_updated_at": "2026-09-22T15:22:21.545Z",
+  "pages": [
+    {
+      "id": "catalogue",
+      "slug": "",
+      "label": "Skill catalogue",
+      "icon": "compass",
+      "group": "Explore",
+      "description": "Five source-inspected marketing skills organized by job and review boundary.",
+      "parent": null,
+      "entrypoint": "index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [
+        "/p/marketing-skills/catalogue/"
+      ],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "jobs",
+      "slug": "by-job",
+      "label": "Browse by job",
+      "icon": "grid-2x2",
+      "group": "Explore",
+      "description": "Choose a source-inspected skill by the marketing output you need.",
+      "parent": null,
+      "entrypoint": "by-job/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "research",
+      "slug": "research",
+      "label": "Research library",
+      "icon": "library",
+      "group": "Research",
+      "description": "Research notes, evidence status, and the next checks behind the catalogue.",
+      "parent": null,
+      "entrypoint": "research/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [
+        "/p/marketing-skills/research-library/"
+      ],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "choose",
+      "slug": "how-to-choose",
+      "label": "Review a skill",
+      "icon": "check-circle",
+      "group": "Use safely",
+      "description": "A quick evaluation guide before installing a marketing skill.",
+      "parent": null,
+      "entrypoint": "how-to-choose/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "methods",
+      "slug": "methods",
+      "label": "Methods & limits",
+      "icon": "shield-check",
+      "group": "Use safely",
+      "description": "What this catalogue checks, does not check, and how its evidence labels work.",
+      "parent": null,
+      "entrypoint": "methods/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    }
+  ]
+}

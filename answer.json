@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "status": "current",
+  "current_answer": "For a cautious first trial, use a portable marketing skill for a bounded output—copy draft, content plan, competitor list, page audit, or campaign analysis—then inspect the original source and require human review before any consequential action.",
+  "catalogue_card": {
+    "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
+    "text": "Start with a source-inspected skill matched to a concrete job. The initial five focus on draft, planning, research, audit, and analysis; none was independently tested or presented as an autonomous publishing, sending, deployment, or spend tool."
+  },
+  "summary": [
+    "Five source-inspected portable skills cover content drafting, content planning, competitor research, public-URL search audit, and ad-export analysis.",
+    "The catalogue now has job-based browsing, a research library, an evaluation guide, and a methods page so the source record is visible alongside the entries.",
+    "All entries are original-source linked and carry a human review boundary; compatibility is a maintainer statement, not an install test."
+  ],
+  "uncertainty": [
+    "No selected skill was installed, security-reviewed, legal/privacy-reviewed, benchmarked, or tested for marketing outcomes.",
+    "Repository branch links can change; no immutable commit or latest-update date was captured.",
+    "Host compatibility, model/runtime costs, and behavior vary and require a current host-specific check."
+  ],
+  "checked_at": "2026-09-22T15:22:21.545Z",
+  "meaningfully_updated_at": "2026-09-22T15:22:21.545Z",
+  "freshness_note": "The source files were inspected on 2026-09-22 UTC. The research library identifies the completed source-inspection run and the checks still needed before use."
+}

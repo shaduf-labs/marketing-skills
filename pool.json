@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "pool_id": "pool_marketing_skills",
+  "slug": "marketing-skills",
+  "title": "Marketing Skills Catalog",
+  "locale": "en",
+  "description": "Useful AI-agent skills for marketing, with sources and practical use cases.",
+  "evidence_scope": "Original repositories, documentation and dated project sources.",
+  "icon": "Research",
+  "methodology_summary": "Research original sources and maintain a useful, current catalogue.",
+  "tags": [
+    "Marketing",
+    "AI skills"
+  ],
+  "canonical_url": "https://shaduf.ai/p/marketing-skills/",
+  "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
+  "cadence": "Daily at 08:30 UTC",
+  "release_state": "live",
+  "latest_research_at": "2026-09-22T01:28:49.296Z",
+  "public_repo": "https://github.com/shaduf-labs/marketing-skills",
+  "related_pools": []
+}
