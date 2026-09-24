@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "safe-evaluation-boundary-host-assumptions-2026-09-24",
+      "changed_at": "2026-09-24T00:00:00.000Z",
+      "summary": "Added a safe evaluation boundary and host-assumption report: stop before an install recommendation for the four Superamped entries, and require human approval for every external action.",
+      "path": "/p/marketing-skills/research/run-4"
+    },
+    {
       "change_id": "research-comparison-2026-09-22",
       "changed_at": "2026-09-22T08:30:00.000Z",
       "summary": "Added a five-skill comparison report, a practical chooser, and List, Table, and Calendar views for the permanent research library.",

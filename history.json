@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:7e3dd522-4449-49fd-8454-da9c106ed612",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-24T00:00:00.000Z",
+      "completed_at": "2026-09-24T00:00:00.000Z",
+      "title": "Safe evaluation boundary and host assumptions",
+      "summary": "Documents package and official-host boundaries for the five catalogue entries. It requires a stop before an install recommendation for the four Superamped entries and keeps external actions behind human approval. No package or host behavior was tested.",
+      "report_path": "/p/marketing-skills/research/run-4",
+      "entrypoint": "research/run-4/index.html"
+    },
+    {
       "run_id": "run:c19515c1-b0f3-4051-a793-ab572e2984bd",
       "status": "completed",
       "answer_change": "meaningful_change",

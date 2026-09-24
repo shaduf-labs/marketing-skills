@@ -1,12 +1,175 @@
 {
-  "schema_version":"1.0.0",
-  "items":[
-    {"evidence_id":"core-copywriting","source_type":"original-repository-skill","source_url":"https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/SKILL.md","title":"Copywriting skill source","claim":"The package describes a draft-first workflow for marketing-page copy and includes an honesty rule about fabricated proof.","accessed_at":"2026-09-22T01:28:49.296Z","relation":"supports","publication_basis":"linked-summary"},
-    {"evidence_id":"core-install","source_type":"original-repository-readme","source_url":"https://github.com/coreyhaines31/marketingskills#installation","title":"Core Haines installation guidance","claim":"The maintainer states compatible agent hosts and collection installation or copy routes.","accessed_at":"2026-09-22T01:28:49.296Z","relation":"supports","publication_basis":"linked-summary"},
-    {"evidence_id":"super-content","source_type":"original-repository-skill","source_url":"https://github.com/superamped/ai-marketing-skills/blob/main/skills/content/content-strategy/SKILL.md","title":"Content Strategy skill source","claim":"The package describes content planning output and public-web research requirements.","accessed_at":"2026-09-22T01:28:49.296Z","relation":"supports","publication_basis":"linked-summary"},
-    {"evidence_id":"super-competitor","source_type":"original-repository-skill","source_url":"https://github.com/superamped/ai-marketing-skills/blob/main/skills/research/competitor-discovery/SKILL.md","title":"Competitor Discovery skill source","claim":"The package describes a public-web competitor workflow with a user confirmation step.","accessed_at":"2026-09-22T01:28:49.296Z","relation":"supports","publication_basis":"linked-summary"},
-    {"evidence_id":"super-search","source_type":"original-repository-skill","source_url":"https://github.com/superamped/ai-marketing-skills/blob/main/skills/search/search-page-audit/SKILL.md","title":"Search Page Audit skill source","claim":"The package describes a URL audit and public technical-file fetch scope rather than site deployment.","accessed_at":"2026-09-22T01:28:49.296Z","relation":"supports","publication_basis":"linked-summary"},
-    {"evidence_id":"super-ads","source_type":"original-repository-skill","source_url":"https://github.com/superamped/ai-marketing-skills/blob/main/skills/ads/ad-campaign-analyzer/SKILL.md","title":"Ad Campaign Analyzer skill source","claim":"The package describes export or pasted-data analysis and recommendations rather than ad-account operation.","accessed_at":"2026-09-22T01:28:49.296Z","relation":"supports","publication_basis":"linked-summary"},
-    {"evidence_id":"super-install","source_type":"original-repository-readme","source_url":"https://github.com/superamped/ai-marketing-skills#installation","title":"Superamped installation guidance","claim":"The maintainer describes compatible hosts and install or copy routes, but these were not independently tested.","accessed_at":"2026-09-22T01:28:49.296Z","relation":"limits","publication_basis":"linked-summary"}
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "evidence_id": "core-copywriting",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/SKILL.md",
+      "title": "Copywriting skill source",
+      "claim": "The package describes a draft-first workflow for marketing-page copy and includes an honesty rule about fabricated proof.",
+      "accessed_at": "2026-09-22T01:28:49.296Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "core-install",
+      "source_type": "original-repository-readme",
+      "source_url": "https://github.com/coreyhaines31/marketingskills#installation",
+      "title": "Core Haines installation guidance",
+      "claim": "The maintainer states compatible agent hosts and collection installation or copy routes.",
+      "accessed_at": "2026-09-22T01:28:49.296Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "super-content",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/content/content-strategy/SKILL.md",
+      "title": "Content Strategy skill source",
+      "claim": "The package describes content planning output and public-web research requirements.",
+      "accessed_at": "2026-09-22T01:28:49.296Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "super-competitor",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/research/competitor-discovery/SKILL.md",
+      "title": "Competitor Discovery skill source",
+      "claim": "The package describes a public-web competitor workflow with a user confirmation step.",
+      "accessed_at": "2026-09-22T01:28:49.296Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "super-search",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/search/search-page-audit/SKILL.md",
+      "title": "Search Page Audit skill source",
+      "claim": "The package describes a URL audit and public technical-file fetch scope rather than site deployment.",
+      "accessed_at": "2026-09-22T01:28:49.296Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "super-ads",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/ads/ad-campaign-analyzer/SKILL.md",
+      "title": "Ad Campaign Analyzer skill source",
+      "claim": "The package describes export or pasted-data analysis and recommendations rather than ad-account operation.",
+      "accessed_at": "2026-09-22T01:28:49.296Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "super-install",
+      "source_type": "original-repository-readme",
+      "source_url": "https://github.com/superamped/ai-marketing-skills#installation",
+      "title": "Superamped installation guidance",
+      "claim": "The maintainer describes compatible hosts and install or copy routes, but these were not independently tested.",
+      "accessed_at": "2026-09-22T01:28:49.296Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "claude-code-skills-2026-09-24",
+      "source_type": "official-host-documentation",
+      "source_url": "https://code.claude.com/docs/en/skills",
+      "title": "Claude Code Skills documentation",
+      "claim": "Documents Claude Code skill locations and SKILL.md structure; it does not test either package.",
+      "accessed_at": "2026-09-24T00:00:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-codex-skills-2026-09-24",
+      "source_type": "official-host-documentation",
+      "source_url": "https://developers.openai.com/codex/skills",
+      "title": "OpenAI Codex Skills documentation",
+      "claim": "Documents .agents/skills repository discovery; it does not document the selected packages’ third-party installer behavior.",
+      "accessed_at": "2026-09-24T00:00:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "cursor-skills-2026-09-24",
+      "source_type": "official-host-documentation",
+      "source_url": "https://cursor.com/docs/skills",
+      "title": "Cursor Agent Skills documentation",
+      "claim": "Documents supported skill layouts and compatible discovery paths; it does not test the selected packages.",
+      "accessed_at": "2026-09-24T00:00:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "windsurf-skills-2026-09-24",
+      "source_type": "official-host-documentation",
+      "source_url": "https://docs.windsurf.com/windsurf/cascade/skills",
+      "title": "Windsurf Cascade Skills documentation",
+      "claim": "The current official URL redirects to related Devin Desktop guidance for skills layouts and cross-agent discovery.",
+      "accessed_at": "2026-09-24T00:00:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "opencode-skills-2026-09-24",
+      "source_type": "official-host-documentation",
+      "source_url": "https://opencode.ai/docs/skills/",
+      "title": "OpenCode Agent Skills documentation",
+      "claim": "Documents OpenCode local skill layouts; it does not document the selected package installer behavior.",
+      "accessed_at": "2026-09-24T00:00:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "skills-cli-docs-2026-09-24",
+      "source_type": "maintainer-documentation",
+      "source_url": "https://www.skills.sh/docs",
+      "title": "skills CLI documentation",
+      "claim": "Documents the general npx skills add form, not exact per-host target selection for the five selected entries.",
+      "accessed_at": "2026-09-24T00:00:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "copywriting-selected-file-27cd947-2026-09-24",
+      "source_type": "original-repository-commit",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/commit/27cd9479a55188ed18910010c992a0caf5836234",
+      "title": "Copywriting selected-file commit",
+      "claim": "The direct selected-file commit record is 27cd9479a55188ed18910010c992a0caf5836234 dated 2026-08-23. It does not establish that current main is identical.",
+      "accessed_at": "2026-09-24T00:00:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "copywriting-release-v2-11-1-2026-09-24",
+      "source_type": "original-repository-release",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.11.1",
+      "title": "Marketing Skills v2.11.1 release",
+      "claim": "The direct release page dates v2.11.1 to 2026-09-05 and names the Copywriting 2.0.1 to 2.0.2 update.",
+      "accessed_at": "2026-09-24T00:00:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "superamped-root-history-2026-09-24",
+      "source_type": "original-repository-history",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/commits/main",
+      "title": "Superamped root history",
+      "claim": "Root history is not an attributable selected-file history for the four entries; this research does not use it as a selected-file provenance claim.",
+      "accessed_at": "2026-09-24T00:00:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "superamped-releases-2026-09-24",
+      "source_type": "original-repository-release",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/releases",
+      "title": "Superamped releases page",
+      "claim": "A repository releases page is not a direct selected-file provenance record for the four entries.",
+      "accessed_at": "2026-09-24T00:00:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Use a marketing skill for a bounded output—page draft, content plan, competitor list, public-page audit, or campaign-export analysis—then inspect the original source and require human review before any consequential action.",
+  "current_answer": "Use a marketing skill only for a bounded, reviewable output—page draft, content plan, competitor list, public-page audit, or campaign-export analysis. Inspect the current source, stop on unresolved provenance or unapproved access/data, and require human approval before an external action.",
   "catalogue_card": {
     "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
-    "text": "Match a source-inspected skill to a specific job. The first five cover drafting, planning, research, auditing, and analysis. They are not independently tested and are not presented as autonomous publishing, sending, deployment, or spend tools."
+    "text": "Match a source-inspected skill to a specific job and keep the first use reviewable. The five entries are not independently tested. The four Superamped entries have unresolved selected-file provenance, so stop before an install recommendation."
   },
   "summary": [
-    "A new comparison report explains which of the five source-inspected skills fits each bounded marketing job and when to exclude it.",
-    "The research library preserves both reports and provides List, Table, and Calendar views of the same collection.",
-    "Every route states access, data, and human-review limits; compatibility remains a maintainer statement, not an install result."
+    "Run 4 adds a practical stop procedure for unresolved provenance, credentials, cost, sensitive data, untrusted web content, and external actions.",
+    "Copywriting has a dated direct selected-file record; the four Superamped entries remain current mutable source links without selected-file provenance established in this research.",
+    "The research library now preserves all four reports in List, Table, and Calendar views."
   ],
   "uncertainty": [
-    "No selected skill was installed, security-reviewed, legal/privacy-reviewed, benchmarked, or tested for marketing outcomes.",
-    "Repository branch links can change; no immutable commit or latest-update date was captured.",
-    "Host compatibility, model/runtime costs, and behavior vary and need a current host-specific check."
+    "No selected skill, installer, plugin command, credential, account, customer or campaign data, or host behavior was tested.",
+    "The four Superamped selected-file SHAs/dates and tag findings remain unresolved. Copywriting’s dated selected-file record does not prove that current main is identical.",
+    "Official host documentation and maintainer installation statements do not establish compatibility, safety, legality, accuracy, or marketing outcomes."
   ],
-  "checked_at": "2026-09-22T08:30:00.000Z",
-  "meaningfully_updated_at": "2026-09-22T08:30:00.000Z",
-  "freshness_note": "The source files behind the five records were inspected on 2026-09-22 UTC. The comparison report on the same date reorganizes that evidence and adds no new inspection or test."
+  "checked_at": "2026-09-24T00:00:00.000Z",
+  "meaningfully_updated_at": "2026-09-24T00:00:00.000Z",
+  "freshness_note": "Checked 2026-09-24 UTC. Copywriting has a dated selected-file record from 2026-08-23; recheck the intended source. The four Superamped entries remain stop-before-install-recommendation records until selected-file provenance is rechecked."
 }
