@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "superamped-selected-file-provenance-recheck-2026-09-25",
+      "changed_at": "2026-09-25T08:30:00.000Z",
+      "summary": "Added a provenance-only recheck for the four Superamped entries. No selected-file SHA/date or tag finding was established; the stop before an install recommendation remains.",
+      "path": "/p/marketing-skills/research/run-5"
+    },
+    {
       "change_id": "safe-evaluation-boundary-host-assumptions-2026-09-24",
       "changed_at": "2026-09-24T00:00:00.000Z",
       "summary": "Added a safe evaluation boundary and host-assumption report: stop before an install recommendation for the four Superamped entries, and require human approval for every external action.",

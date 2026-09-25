@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:f6e24aa8-d9f7-4314-ad83-3b88140be633",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-25T08:30:00.000Z",
+      "completed_at": "2026-09-25T08:30:00.000Z",
+      "title": "Superamped selected-file provenance recheck",
+      "summary": "Rechecked the four named Superamped selected files. No selected-file SHA/date or tag finding was established; releases have no direct coverage and the stop before an install recommendation remains. No package, installer, host, or behavior was tested.",
+      "report_path": "/p/marketing-skills/research/run-5",
+      "entrypoint": "research/run-5/index.html"
+    },
+    {
       "run_id": "run:7e3dd522-4449-49fd-8454-da9c106ed612",
       "status": "completed",
       "answer_change": "meaningful_change",

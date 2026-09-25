@@ -4,19 +4,19 @@
   "current_answer": "Use a marketing skill only for a bounded, reviewable output—page draft, content plan, competitor list, public-page audit, or campaign-export analysis. Inspect the current source, stop on unresolved provenance or unapproved access/data, and require human approval before an external action.",
   "catalogue_card": {
     "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
-    "text": "Match a source-inspected skill to a specific job and keep the first use reviewable. The five entries are not independently tested. The four Superamped entries have unresolved selected-file provenance, so stop before an install recommendation."
+    "text": "Match a source-inspected skill to a specific job and keep the first use reviewable. The five entries are not independently tested. The 25 September provenance recheck did not establish selected-file SHA/date or tag findings for the four Superamped entries; stop before an install recommendation."
   },
   "summary": [
-    "Run 4 adds a practical stop procedure for unresolved provenance, credentials, cost, sensitive data, untrusted web content, and external actions.",
-    "Copywriting has a dated direct selected-file record; the four Superamped entries remain current mutable source links without selected-file provenance established in this research.",
-    "The research library now preserves all four reports in List, Table, and Calendar views."
+    "Run 5 rechecked selected-file provenance for the four Superamped entries. It did not obtain selected-file SHA/date or tag attribution for any of them.",
+    "The releases page says the repository has no releases, but it provides no direct coverage for a selected file. The prior stop before an install recommendation remains.",
+    "The permanent research library now includes four reports, including the provenance recheck."
   ],
   "uncertainty": [
     "No selected skill, installer, plugin command, credential, account, customer or campaign data, or host behavior was tested.",
-    "The four Superamped selected-file SHAs/dates and tag findings remain unresolved. Copywriting’s dated selected-file record does not prove that current main is identical.",
-    "Official host documentation and maintainer installation statements do not establish compatibility, safety, legality, accuracy, or marketing outcomes."
+    "The four Superamped selected-file SHAs/dates and tag findings remain unavailable in this research. “Unavailable” is not evidence that no commit or tag exists.",
+    "Copywriting’s dated selected-file record does not prove that current main is identical. Official host documentation and maintainer installation statements do not establish compatibility, safety, legality, accuracy, or marketing outcomes."
   ],
-  "checked_at": "2026-09-24T00:00:00.000Z",
-  "meaningfully_updated_at": "2026-09-24T00:00:00.000Z",
-  "freshness_note": "Checked 2026-09-24 UTC. Copywriting has a dated selected-file record from 2026-08-23; recheck the intended source. The four Superamped entries remain stop-before-install-recommendation records until selected-file provenance is rechecked."
+  "checked_at": "2026-09-25T08:30:00.000Z",
+  "meaningfully_updated_at": "2026-09-25T08:30:00.000Z",
+  "freshness_note": "Checked 25 September 2026 UTC. The provenance recheck did not establish selected-file SHA/date or tag findings for the four Superamped entries. Do not make an immutable install-pin claim or an install recommendation for them from this research."
 }

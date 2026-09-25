@@ -27,7 +27,7 @@
       "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/content/content-strategy/SKILL.md",
       "title": "Content Strategy skill source",
       "claim": "The package describes content planning output and public-web research requirements.",
-      "accessed_at": "2026-09-22T01:28:49.296Z",
+      "accessed_at": "2026-09-25T08:30:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -37,7 +37,7 @@
       "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/research/competitor-discovery/SKILL.md",
       "title": "Competitor Discovery skill source",
       "claim": "The package describes a public-web competitor workflow with a user confirmation step.",
-      "accessed_at": "2026-09-22T01:28:49.296Z",
+      "accessed_at": "2026-09-25T08:30:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -47,7 +47,7 @@
       "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/search/search-page-audit/SKILL.md",
       "title": "Search Page Audit skill source",
       "claim": "The package describes a URL audit and public technical-file fetch scope rather than site deployment.",
-      "accessed_at": "2026-09-22T01:28:49.296Z",
+      "accessed_at": "2026-09-25T08:30:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -57,7 +57,7 @@
       "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/ads/ad-campaign-analyzer/SKILL.md",
       "title": "Ad Campaign Analyzer skill source",
       "claim": "The package describes export or pasted-data analysis and recommendations rather than ad-account operation.",
-      "accessed_at": "2026-09-22T01:28:49.296Z",
+      "accessed_at": "2026-09-25T08:30:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -152,23 +152,73 @@
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "superamped-root-history-2026-09-24",
+      "evidence_id": "superamped-root-history-2026-09-25",
       "source_type": "original-repository-history",
       "source_url": "https://github.com/superamped/ai-marketing-skills/commits/main",
       "title": "Superamped root history",
-      "claim": "Root history is not an attributable selected-file history for the four entries; this research does not use it as a selected-file provenance claim.",
-      "accessed_at": "2026-09-24T00:00:00.000Z",
+      "claim": "Root history lists d6f66439359e5dd07073a989f3fc14036981ff8e dated 2026-08-18, but it is not an attributable selected-file history for the four entries.",
+      "accessed_at": "2026-09-25T08:30:00.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "superamped-releases-2026-09-24",
+      "evidence_id": "superamped-releases-2026-09-25",
       "source_type": "original-repository-release",
       "source_url": "https://github.com/superamped/ai-marketing-skills/releases",
       "title": "Superamped releases page",
-      "claim": "A repository releases page is not a direct selected-file provenance record for the four entries.",
-      "accessed_at": "2026-09-24T00:00:00.000Z",
+      "claim": "The repository releases page says there are no releases. It provides no direct coverage for any of the four selected files.",
+      "accessed_at": "2026-09-25T08:30:00.000Z",
       "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "super-content-provenance-2026-09-25",
+      "source_type": "original-repository-path-history",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/commits/main/skills/content/content-strategy/SKILL.md",
+      "title": "Content Strategy selected-path history",
+      "claim": "The requested selected-path history did not yield an attributable commit/date record in this research environment. No selected-file SHA/date is established.",
+      "accessed_at": "2026-09-25T08:30:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "super-competitor-provenance-2026-09-25",
+      "source_type": "original-repository-path-history",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/commits/main/skills/research/competitor-discovery/SKILL.md",
+      "title": "Competitor Discovery selected-path history",
+      "claim": "The requested selected-path history did not yield an attributable commit/date record in this research environment. No selected-file SHA/date is established.",
+      "accessed_at": "2026-09-25T08:30:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "super-search-provenance-2026-09-25",
+      "source_type": "original-repository-path-history",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/commits/main/skills/search/search-page-audit/SKILL.md",
+      "title": "Search Page Audit selected-path history",
+      "claim": "The requested selected-path history did not yield an attributable commit/date record in this research environment. No selected-file SHA/date is established.",
+      "accessed_at": "2026-09-25T08:30:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "super-ads-provenance-2026-09-25",
+      "source_type": "original-repository-path-history",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/commits/main/skills/ads/ad-campaign-analyzer/SKILL.md",
+      "title": "Ad Campaign Analyzer selected-path history",
+      "claim": "The requested selected-path history did not yield an attributable commit/date record in this research environment. No selected-file SHA/date is established.",
+      "accessed_at": "2026-09-25T08:30:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "superamped-tags-2026-09-25",
+      "source_type": "original-repository-tags",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/tags",
+      "title": "Superamped tags page",
+      "claim": "The tags view did not load in this research environment. Tag status is unavailable; this is not evidence that no tags exist.",
+      "accessed_at": "2026-09-25T08:30:00.000Z",
+      "relation": "unresolved",
       "publication_basis": "linked-summary"
     }
   ]
