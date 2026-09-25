@@ -9,7 +9,7 @@
   "summary": [
     "Run 5 rechecked selected-file provenance for the four Superamped entries. It did not obtain selected-file SHA/date or tag attribution for any of them.",
     "The releases page says the repository has no releases, but it provides no direct coverage for a selected file. The prior stop before an install recommendation remains.",
-    "The permanent research library now includes four reports, including the provenance recheck."
+    "The permanent research library now includes five reports, including the 23 September pinned-provenance recheck and the latest provenance recheck."
   ],
   "uncertainty": [
     "No selected skill, installer, plugin command, credential, account, customer or campaign data, or host behavior was tested.",

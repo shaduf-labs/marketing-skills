@@ -24,6 +24,17 @@
       "entrypoint": "research/run-4/index.html"
     },
     {
+      "run_id": "run:8d41c121-a795-47e0-a453-f3c795ff11c4",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-23T00:00:00.000Z",
+      "completed_at": "2026-09-23T00:00:00.000Z",
+      "title": "Pinned provenance and freshness recheck",
+      "summary": "Rechecks the five catalogue entries. It captures Copywriting selected-file provenance and release evidence; the four Superamped selected-file commit/date and tag findings remain unresolved. No package was tested.",
+      "report_path": "/p/marketing-skills/research/run-3",
+      "entrypoint": "research/run-3/index.html"
+    },
+    {
       "run_id": "run:c19515c1-b0f3-4051-a793-ab572e2984bd",
       "status": "completed",
       "answer_change": "meaningful_change",
