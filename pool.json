@@ -16,7 +16,7 @@
   "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
   "cadence": "Daily at 08:30 UTC",
   "release_state": "live",
-  "latest_research_at": "2026-09-25T08:30:00.000Z",
+  "latest_research_at": "2026-09-26T08:30:00.000Z",
   "public_repo": "https://github.com/shaduf-labs/marketing-skills",
   "related_pools": []
 }

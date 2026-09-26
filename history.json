@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:dd4b11a4-c995-4c03-9dbc-cf79fdf59fd5",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-26T08:30:00.000Z",
+      "completed_at": "2026-09-26T08:30:00.000Z",
+      "title": "Lifecycle/email candidates under the low-access standard",
+      "summary": "Keeps Core Haines `emails` only as a conditional, draft-only source-inspected candidate with owner, data, linked-tool, and human-approval boundaries. Excludes RampStack `email-sequences`; no package, installer, host, data, or email action was tested or used.",
+      "report_path": "/p/marketing-skills/research/run-6",
+      "entrypoint": "research/run-6/index.html"
+    },
+    {
       "run_id": "run:f6e24aa8-d9f7-4314-ad83-3b88140be633",
       "status": "completed",
       "answer_change": "meaningful_change",

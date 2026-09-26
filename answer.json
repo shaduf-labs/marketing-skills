@@ -1,22 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Use a marketing skill only for a bounded, reviewable output—page draft, content plan, competitor list, public-page audit, or campaign-export analysis. Inspect the current source, stop on unresolved provenance or unapproved access/data, and require human approval before an external action.",
+  "current_answer": "Use a marketing skill only for a bounded, reviewable output—page draft, content plan, competitor list, public-page audit, campaign-export analysis, or a conditional lifecycle-email sequence draft. For the email draft, use an owner-approved non-personal brief, do not load local product context without authorization or follow linked tools, and require human approval before any configuration, test, schedule, or send.",
   "catalogue_card": {
     "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
-    "text": "Match a source-inspected skill to a specific job and keep the first use reviewable. The five entries are not independently tested. The 25 September provenance recheck did not establish selected-file SHA/date or tag findings for the four Superamped entries; stop before an install recommendation."
+    "text": "Match a source-inspected skill to a specific job and keep the first use reviewable. The six entries are not independently tested. The 26 September email review adds Core Haines `emails` only as a conditional, draft-only candidate; RampStack `email-sequences` is excluded. The four Superamped provenance caveats and their stop before an install recommendation remain."
   },
   "summary": [
-    "Run 5 rechecked selected-file provenance for the four Superamped entries. It did not obtain selected-file SHA/date or tag attribution for any of them.",
-    "The releases page says the repository has no releases, but it provides no direct coverage for a selected file. The prior stop before an install recommendation remains.",
-    "The permanent research library now includes five reports, including the 23 September pinned-provenance recheck and the latest provenance recheck."
+    "Run 6 inspected two lifecycle/email source files and keeps Core Haines `emails` only as a conditional, draft-only candidate for a future catalogue addition.",
+    "A first use requires an authorized owner, a non-personal brief, no unapproved local product context or linked tool route, and human approval before any configuration, scheduling, test, publication, or send.",
+    "RampStack `email-sequences` is excluded because its inspected workflow includes email-service-provider configuration, self-send, broadcast scheduling, and measurement routes.",
+    "The four Superamped selected-file provenance caveats are unchanged: no selected-file SHA/date or tag finding was established, and the stop before an install recommendation remains."
   ],
   "uncertainty": [
-    "No selected skill, installer, plugin command, credential, account, customer or campaign data, or host behavior was tested.",
+    "No selected skill, installer, plugin command, credential, account, connector, customer system, customer or campaign data, local product-context file, host behavior, or external action was used or tested.",
+    "The Core `emails` selected file is version 2.0.0, but this run did not establish a selected-file SHA/date. Its mutable main link and maintainer installation statements do not establish installation, compatibility, safety, privacy, cost, or outcomes.",
     "The four Superamped selected-file SHAs/dates and tag findings remain unavailable in this research. “Unavailable” is not evidence that no commit or tag exists.",
-    "Copywriting’s dated selected-file record does not prove that current main is identical. Official host documentation and maintainer installation statements do not establish compatibility, safety, legality, accuracy, or marketing outcomes."
+    "No security, privacy, permission, legal/compliance, consent, deliverability, accessibility, model/cost, accuracy, or marketing-performance property was tested or established."
   ],
-  "checked_at": "2026-09-25T08:30:00.000Z",
-  "meaningfully_updated_at": "2026-09-25T08:30:00.000Z",
-  "freshness_note": "Checked 25 September 2026 UTC. The provenance recheck did not establish selected-file SHA/date or tag findings for the four Superamped entries. Do not make an immutable install-pin claim or an install recommendation for them from this research."
+  "checked_at": "2026-09-26T08:30:00.000Z",
+  "meaningfully_updated_at": "2026-09-26T08:30:00.000Z",
+  "freshness_note": "Checked 26 September 2026 UTC. Core Haines `emails` is a conditional, draft-only source-inspected candidate with no selected-file SHA/date established. Do not use local product context without authorization or linked integration tools; a human must separately approve any import, configuration, scheduling, test, publication, or send. The four Superamped provenance caveats and their stop before an install recommendation remain."
 }
