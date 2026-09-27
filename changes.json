@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "six-entry-source-package-surface-recheck-2026-09-27",
+      "changed_at": "2026-09-27T08:30:00.000Z",
+      "summary": "Added Run 7 source and package-surface recheck. No substantive catalogue claim changed; all six selected-directory listings lacked current-day verification, and two selected file pages plus the Superamped README were stale. The four Superamped install-stop caveats and conditional, draft-only email boundary remain.",
+      "path": "/p/marketing-skills/research/run-7"
+    },
+    {
       "change_id": "lifecycle-email-candidates-low-access-2026-09-26",
       "changed_at": "2026-09-26T08:30:00.000Z",
       "summary": "Added a conditional, draft-only Core Haines `emails` candidate for a future lifecycle/email catalogue entry. It requires an owner-approved non-personal brief and human approval before any email-system action; RampStack `email-sequences` is excluded. The four Superamped provenance caveats remain unchanged.",

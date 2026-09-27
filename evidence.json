@@ -270,6 +270,126 @@
       "accessed_at": "2026-09-26T08:30:00.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run7-directory-copywriting",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/copywriting",
+      "title": "copywriting directory listing",
+      "claim": "Returned listing displayed SKILL.md, references/, evals/ but was crawled about two weeks earlier. Current-day enumeration was unavailable; later additions or changes cannot be ruled out.",
+      "accessed_at": "2026-09-27T08:30:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run7-directory-content-strategy",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/tree/main/skills/content/content-strategy",
+      "title": "content-strategy directory listing",
+      "claim": "Returned listing displayed SKILL.md only but was crawled about five months earlier. Current-day enumeration was unavailable; later additions or changes cannot be ruled out.",
+      "accessed_at": "2026-09-27T08:30:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run7-directory-competitor-discovery",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/tree/main/skills/research/competitor-discovery",
+      "title": "competitor-discovery directory listing",
+      "claim": "Returned listing displayed SKILL.md only but was crawled about two months earlier. Current-day enumeration was unavailable; later additions or changes cannot be ruled out.",
+      "accessed_at": "2026-09-27T08:30:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run7-directory-search-page-audit",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/tree/main/skills/search/search-page-audit",
+      "title": "search-page-audit directory listing",
+      "claim": "Returned listing displayed SKILL.md only but was crawled about one month earlier. Current-day enumeration was unavailable; later additions or changes cannot be ruled out.",
+      "accessed_at": "2026-09-27T08:30:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run7-directory-ad-campaign-analyzer",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/tree/main/skills/ads/ad-campaign-analyzer",
+      "title": "ad-campaign-analyzer directory listing",
+      "claim": "Returned listing displayed SKILL.md only but was crawled about five months earlier. Current-day enumeration was unavailable; later additions or changes cannot be ruled out.",
+      "accessed_at": "2026-09-27T08:30:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run7-directory-emails",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/emails",
+      "title": "emails directory listing",
+      "claim": "Returned listing displayed SKILL.md, references/, evals/ but was crawled about two weeks earlier. Current-day enumeration was unavailable; later additions or changes cannot be ruled out.",
+      "accessed_at": "2026-09-27T08:30:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run7-competitor-file-stale",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/research/competitor-discovery/SKILL.md",
+      "title": "Competitor Discovery selected file",
+      "claim": "Returned page still supported v1.0 public-web classification and user confirmation, but was crawled five days earlier. Current-day file-tip verification was unavailable.",
+      "accessed_at": "2026-09-27T08:30:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run7-ads-file-stale",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/ads/ad-campaign-analyzer/SKILL.md",
+      "title": "Ad Campaign Analyzer selected file",
+      "claim": "Returned page still supported v1.0 export analysis and recommendations, but was crawled two days earlier. Current-day file-tip verification was unavailable.",
+      "accessed_at": "2026-09-27T08:30:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run7-superamped-readme-stale",
+      "source_type": "original-repository-readme",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/README.md#installation",
+      "title": "Superamped README installation section",
+      "claim": "Returned page still described CLI, plugin, and clone/copy routes, but was crawled three days earlier. No route or host behavior was tested.",
+      "accessed_at": "2026-09-27T08:30:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run7-core-license",
+      "source_type": "original-repository-license",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/LICENSE",
+      "title": "Core Haines root LICENSE",
+      "claim": "Returned page crawled today displayed MIT text and Corey Haines copyright. This is repository-level license presence, not a dependency or legal review.",
+      "accessed_at": "2026-09-27T08:30:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run7-superamped-license",
+      "source_type": "original-repository-license",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/LICENSE",
+      "title": "Superamped root LICENSE",
+      "claim": "Returned page crawled today displayed MIT-form grant and warranty text with SUPERAMPED LTD copyright. This is repository-level license presence, not legal advice.",
+      "accessed_at": "2026-09-27T08:30:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run7-core-readme",
+      "source_type": "original-repository-readme",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/README.md#installation",
+      "title": "Core Haines README installation section",
+      "claim": "Returned page crawled today still documented CLI, plugin, clone/copy, submodule, fork, and SkillKit routes. These are owner instructions, not tested installations.",
+      "accessed_at": "2026-09-27T08:30:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

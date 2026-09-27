@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:66d51685-5126-4797-89e7-6dfb93069118",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-27T08:30:00.000Z",
+      "completed_at": "2026-09-27T08:30:00.000Z",
+      "title": "Six-entry source and package-surface recheck",
+      "summary": "Accessible original file, README, and license pages support the existing six jobs and boundaries; no substantive claim change was evidenced. All six current-day directory listings were unavailable because returned listings were cached. Two selected file pages and the Superamped README were also stale. No package or host was tested.",
+      "report_path": "/p/marketing-skills/research/run-7",
+      "entrypoint": "research/run-7/index.html"
+    },
+    {
       "run_id": "run:dd4b11a4-c995-4c03-9dbc-cf79fdf59fd5",
       "status": "completed",
       "answer_change": "meaningful_change",
