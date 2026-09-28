@@ -390,6 +390,76 @@
       "accessed_at": "2026-09-27T08:30:00.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run8-monthly-report-format",
+      "source_type": "community-question",
+      "source_url": "https://www.reddit.com/r/DigitalMarketing/comments/1rbqhlb/whats_the_industry_standard_for_monthly_client/",
+      "title": "Monthly client report format question",
+      "claim": "A February 2026 agency question and replies show a qualitative report-format and interpretation decision across Google Ads, GA4, and Meta. The discussion is not representative.",
+      "accessed_at": "2026-09-28T08:40:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run8-manual-assembly",
+      "source_type": "practitioner-self-report",
+      "source_url": "https://www.reddit.com/r/DigitalMarketing/comments/1s1k8gw/spent_4_hours_making_a_client_report_last_week/",
+      "title": "Manual report assembly post",
+      "claim": "A March 2026 self-report describes manual assembly of Search Console, GA4, and rank data and a wish for automatic pulling and delivery; the time claim is not independently measured.",
+      "accessed_at": "2026-09-28T08:40:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run8-short-note",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/agency/comments/1vkvnhu/how_does_client_reporting_actually_work_at_your/",
+      "title": "Agency reporting discussion",
+      "claim": "An August 2026 self-selected discussion includes comments favoring short narrative notes and client calls; it provides no measured readership or retention evidence.",
+      "accessed_at": "2026-09-28T08:40:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run8-connected-counterexample",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/marketingagency/comments/1q4r6fu/agency_owners_how_do_you_handle_client_reporting/",
+      "title": "Connected report counterexample",
+      "claim": "A January 2026 operator describes connected AgencyAnalytics reports without AI; the thread is unverified and includes promotion.",
+      "accessed_at": "2026-09-28T08:40:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run8-agencyanalytics-guide",
+      "source_type": "vendor-guide",
+      "source_url": "https://agencyanalytics.com/blog/marketing-reporting",
+      "title": "AgencyAnalytics marketing reporting guide",
+      "claim": "The vendor describes connected templates, dashboards, and automated delivery as alternatives. Its prevalence and time-saving claims are not adopted as independent evidence.",
+      "accessed_at": "2026-09-28T08:40:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run8-google-ads-discrepancy",
+      "source_type": "official-product-documentation",
+      "source_url": "https://support.google.com/google-ads/answer/7457111?hl=en-AU",
+      "title": "Google Ads discrepancy guidance",
+      "claim": "Google Ads describes conversion delay, attribution, count, lookback, and processing differences that can explain mismatched figures.",
+      "accessed_at": "2026-09-28T08:40:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run8-ga4-modeling",
+      "source_type": "official-product-documentation",
+      "source_url": "https://support.google.com/analytics/answer/10710245?hl=en",
+      "title": "GA4 modeling documentation",
+      "claim": "Google says channel-attributed conversion data may be updated for up to 12 days; this is a product-specific caution, not a universal source-of-truth rule.",
+      "accessed_at": "2026-09-28T08:40:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

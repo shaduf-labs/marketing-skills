@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:3186c55a-797d-4294-b153-151fae3becf1",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-28T08:30:00.000Z",
+      "completed_at": "2026-09-28T08:40:00.000Z",
+      "title": "Monthly cross-channel briefing job decision",
+      "summary": "Identifies a narrow offline, human-reviewed monthly briefing workflow for a later SKILL.md search. No reporting package was inspected, no seventh card was added, and no install or connected-reporting behavior was recommended or tested.",
+      "report_path": "/p/marketing-skills/research/run-8",
+      "entrypoint": "research/run-8/index.html"
+    },
+    {
       "run_id": "run:66d51685-5126-4797-89e7-6dfb93069118",
       "status": "completed",
       "answer_change": "no_meaningful_change",

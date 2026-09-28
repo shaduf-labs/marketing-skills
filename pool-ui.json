@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "default_page": "catalogue",
-  "meaningfully_updated_at": "2026-09-27T08:30:00.000Z",
+  "meaningfully_updated_at": "2026-09-28T08:40:00.000Z",
   "pages": [
     {
       "id": "catalogue",
@@ -41,7 +41,7 @@
       "label": "Research library",
       "icon": "library",
       "group": "Research",
-      "description": "Seven dated research notes with evidence status, source-page ages, and the next checks behind the six-entry catalogue.",
+      "description": "Eight dated research notes, including a bounded monthly briefing job hypothesis; six-entry catalogue unchanged.",
       "parent": null,
       "entrypoint": "research/index.html",
       "entrypoint_type": "html_fragment",

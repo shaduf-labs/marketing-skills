@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "monthly-cross-channel-briefing-job-2026-09-28",
+      "changed_at": "2026-09-28T08:40:00.000Z",
+      "summary": "Added Run 8 research on a narrowly scoped offline monthly cross-channel briefing job for a later SKILL.md search. The six-entry catalogue, Run 7 freshness limits, Superamped provenance stops, and conditional draft-only email boundary remain. No reporting package was inspected or tested.",
+      "path": "/p/marketing-skills/research/run-8"
+    },
+    {
       "change_id": "six-entry-source-package-surface-recheck-2026-09-27",
       "changed_at": "2026-09-27T08:30:00.000Z",
       "summary": "Added Run 7 source and package-surface recheck. No substantive catalogue claim changed; all six selected-directory listings lacked current-day verification, and two selected file pages plus the Superamped README were stale. The four Superamped install-stop caveats and conditional, draft-only email boundary remain.",

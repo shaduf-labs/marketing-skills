@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Use a marketing skill only for a bounded, reviewable output—page draft, content plan, competitor list, public-page audit, campaign-export analysis, or a conditional lifecycle-email sequence draft. For the email draft, use an owner-approved non-personal brief, do not load local product context without authorization or follow linked tools, and require human approval before any configuration, test, schedule, or send.",
+  "current_answer": "Use one of the six source-inspected marketing-skill candidates only for a bounded, reviewable output, with the existing provenance and approval limits. Run 8 identifies a separate offline monthly cross-channel briefing job for a later SKILL.md search, not a seventh card or install recommendation. It would draft a sourced brief from approved aggregate exports for human sign-off, without account access or automatic sending.",
   "catalogue_card": {
     "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
-    "text": "Match a source-inspected skill to a specific job and keep the first use reviewable. The six entries are not independently tested. Run 7 found no evidenced substantive claim change, but could not confirm any selected directory by a current-day listing. Core Haines `emails` stays conditional and draft-only; the four Superamped provenance caveats and stop before an install recommendation remain."
+    "text": "Match a source-inspected skill to a specific job and keep the first use reviewable. The catalogue remains at six entries, including conditional, draft-only emails; none was independently tested. Run 7 did not confirm current-day selected-directory listings, and the four Superamped provenance caveats still require a stop before an install recommendation. Run 8 proposes only a narrow future search for an offline monthly cross-channel briefing skill."
   },
   "summary": [
-    "Run 7 found no evidenced substantive claim change across the six selected file pages and owner README/license surfaces returned by the research browser. This is not a byte-for-byte or current branch-tip verification.",
-    "All six selected-directory listings were cached from about two weeks to five months earlier, so current-day package contents were not confirmed. Competitor Discovery and Ad Campaign Analyzer file pages, and the Superamped README, were also older cached pages.",
-    "Core Haines `emails` remains a conditional, owner-gated draft-only candidate; no send or system action is authorized. RampStack `email-sequences` remains excluded and was outside this recheck.",
-    "The four Superamped selected-file SHA/date and tag-attribution caveats remain unresolved. Stop before an install recommendation."
+    "Run 8 identifies a bounded offline monthly cross-channel briefing job for a later SKILL.md search, not a catalogue entry or install recommendation.",
+    "The proposed first use is a local draft from owner-approved, non-sensitive aggregate channel exports, with period/metric definitions, source-to-claim mapping, arithmetic and discrepancy checks, and human approval before distribution.",
+    "Qualitative community posts suggest report-design and manual-assembly friction but also show demand for connected automation, which this offline job would not satisfy. No market prevalence, time saving, user preference, or outcome is established.",
+    "The six entries and their Run 7 caveats remain: no current-day directory enumeration; four Superamped selected-file SHA/date and tag gaps; conditional draft-only emails; no tested package or host behavior."
   ],
   "uncertainty": [
-    "Cached returned directory pages are not a current-day enumeration. Earlier selected-file reports lack full snapshots or hashes, so no byte-for-byte identity or selected-file branch-tip verification is claimed.",
-    "No selected-file SHA/date or tag attribution was established for the four Superamped entries, and the Core Haines `emails` selected-file SHA/date remains unavailable.",
-    "No package, installer, plugin, credential, account, connector, customer system, selected directory, reference file, host, or external action was installed, run, connected, accessed, or tested.",
-    "No security, privacy, permission, legal/compliance, consent, deliverability, accessibility, model/cost, accuracy, compatibility, installability, marketing-performance, or outcome property was tested or established."
+    "No reporting SKILL.md package was sought or inspected. The job hypothesis has not been tested in interviews or a workflow test; a template, generic prompt, or connected platform may already fit better.",
+    "Community posts are self-selected and partly promotional; the vendor guide is sales material. No first-party pool analytics, representative sample, measured time saving, or client outcome is available.",
+    "Run 7 could not establish current-day selected-directory listings for the six entries. The four Superamped selected-file SHA/date and tag attributions and the emails selected-file SHA/date remain unresolved; Copywriting’s dated selected-file record is not a current-branch guarantee.",
+    "No package, installer, plugin, host, connector, credential, account, report sender, customer system, campaign, or reporting workflow was installed, run, accessed, connected, or tested."
   ],
-  "checked_at": "2026-09-27T08:30:00.000Z",
-  "meaningfully_updated_at": "2026-09-26T08:30:00.000Z",
-  "freshness_note": "Source pages rechecked 27 September 2026 UTC. Current-day directory enumeration was not confirmed for any of the six selected packages; two selected file pages and the Superamped README were also older cached pages. No substantive claim change was evidenced, and this is not a current package-surface, installability, compatibility, or safety verification. The four Superamped provenance caveats and stop before an install recommendation remain; `emails` remains conditional and draft-only."
+  "checked_at": "2026-09-28T08:40:00.000Z",
+  "meaningfully_updated_at": "2026-09-28T08:40:00.000Z",
+  "freshness_note": "Run 8 job evidence was checked 28 September 2026 UTC; it did not recheck the six package surfaces. Their most recent limited source-page recheck is Run 7 (27 September), which could not confirm current-day selected-directory listings. No new package was inspected, no reporting behavior was tested, and the catalogue remains at six."
 }
