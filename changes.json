@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "monthly-briefing-skill-shortlist-2026-09-29",
+      "changed_at": "2026-09-29T08:40:41.000Z",
+      "summary": "Added Run 9 source-text comparison of Anthropic performance-report and Skill Me agency-monthly-report for the fixed offline briefing job. Neither meets the traceability, reconciliation and approval gates; no seventh card, install recommendation, test, or recheck of the six existing entries.",
+      "path": "/p/marketing-skills/research/run-9"
+    },
+    {
       "change_id": "monthly-cross-channel-briefing-job-2026-09-28",
       "changed_at": "2026-09-28T08:40:00.000Z",
       "summary": "Added Run 8 research on a narrowly scoped offline monthly cross-channel briefing job for a later SKILL.md search. The six-entry catalogue, Run 7 freshness limits, Superamped provenance stops, and conditional draft-only email boundary remain. No reporting package was inspected or tested.",

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:5c7b7e13-6ed8-492e-bb99-f4f9f23f5682",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-29T08:30:00.000Z",
+      "completed_at": "2026-09-29T08:40:41.000Z",
+      "title": "Monthly briefing skill source shortlist",
+      "summary": "Inspected two original monthly-report SKILL.md files for the fixed Run 8 offline brief. Anthropic is a pasted-data search lead but lacks mandatory audit and approval gates; Skill Me has an explicit send endpoint. Further research; no seventh card, install, execution, connected data, or six-entry recheck.",
+      "report_path": "/p/marketing-skills/research/run-9",
+      "entrypoint": "research/run-9/index.html"
+    },
+    {
       "run_id": "run:3186c55a-797d-4294-b153-151fae3becf1",
       "status": "completed",
       "answer_change": "meaningful_change",

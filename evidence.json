@@ -460,6 +460,66 @@
       "accessed_at": "2026-09-28T08:40:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run9-anthropic-skill",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/anthropics/knowledge-work-plugins/blob/main/marketing/skills/performance-report/SKILL.md",
+      "title": "Anthropic performance-report selected file",
+      "claim": "Accepts pasted or shared metrics and offers a monthly marketing report; lacks mandatory row-level provenance, reconciliation, discrepancy stop and human release gate. Selected file offers connected analytics when available.",
+      "accessed_at": "2026-09-29T08:40:41.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run9-anthropic-plugin",
+      "source_type": "original-repository-plugin-configuration",
+      "source_url": "https://github.com/anthropics/knowledge-work-plugins/blob/main/marketing/.mcp.json",
+      "title": "Anthropic marketing plugin MCP configuration",
+      "claim": "Surrounding plugin lists external MCP endpoints including Supermetrics and Amplitude; this broader connector surface was not installed or permission-tested.",
+      "accessed_at": "2026-09-29T08:40:41.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run9-anthropic-connectors",
+      "source_type": "original-repository-documentation",
+      "source_url": "https://github.com/anthropics/knowledge-work-plugins/blob/main/marketing/CONNECTORS.md",
+      "title": "Anthropic marketing connector map",
+      "claim": "Maps marketing and product analytics placeholders to connected tools; selected file also has a no-connector pasted-data route.",
+      "accessed_at": "2026-09-29T08:40:41.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run9-anthropic-history",
+      "source_type": "original-repository-commit",
+      "source_url": "https://github.com/anthropics/knowledge-work-plugins/commit/0835fae45b2c7e7dd98b732c67a899c2bedc9b20",
+      "title": "Anthropic selected-path historical commit",
+      "claim": "18 March 2026 commit visibly changes the selected path for a Supermetrics option; not a current selected-file pin or tag attribution.",
+      "accessed_at": "2026-09-29T08:40:41.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run9-skillme-skill",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/SkillMedev/skills/blob/main/skills/agency-monthly-report/SKILL.md",
+      "title": "Skill Me agency-monthly-report selected file",
+      "claim": "Asks for monthly platform numbers and gives a results-first template, but Step 5 instructs sending through the contracted channel without mandatory arithmetic, source-to-claim or human-release audit.",
+      "accessed_at": "2026-09-29T08:40:41.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run9-skillme-history",
+      "source_type": "original-repository-commit",
+      "source_url": "https://github.com/SkillMedev/skills/commit/a28c4ce9366b5a8540577bed8f70b6a60f8fde27",
+      "title": "Skill Me selected-path historical change",
+      "claim": "July 2026 commit includes the selected path, but does not pin today’s main file; selected-directory and path-history fetches failed.",
+      "accessed_at": "2026-09-29T08:40:41.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }
