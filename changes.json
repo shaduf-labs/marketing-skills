@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "provenance-first-reporting-search-2026-09-30",
+      "changed_at": "2026-09-30T20:31:35.000Z",
+      "summary": "Added Run 10 bounded source-text review of ClawFu report-generator and Digital Marketing Pro analytics-insights. Neither meets the offline briefing audit, trace, low-access and authorized-owner approval gates. Search closed for now; no seventh card, synthetic test, or recheck of six existing entries.",
+      "path": "/p/marketing-skills/research/run-10"
+    },
+    {
       "change_id": "monthly-briefing-skill-shortlist-2026-09-29",
       "changed_at": "2026-09-29T08:40:41.000Z",
       "summary": "Added Run 9 source-text comparison of Anthropic performance-report and Skill Me agency-monthly-report for the fixed offline briefing job. Neither meets the traceability, reconciliation and approval gates; no seventh card, install recommendation, test, or recheck of the six existing entries.",

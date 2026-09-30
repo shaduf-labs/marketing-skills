@@ -520,6 +520,136 @@
       "accessed_at": "2026-09-29T08:40:41.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-clawfu-skill",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/guia-matthieu/clawfu-skills/blob/main/skills/automation/report-generator/SKILL.md",
+      "title": "ClawFu report-generator selected file",
+      "claim": "Describes PDF/HTML marketing reporting but instructs pip dependencies and python scripts/main.py; does not require export identity, reconciliation, claim trace or authorized-owner approval.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-clawfu-directory",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/guia-matthieu/clawfu-skills/tree/main/skills/automation/report-generator",
+      "title": "ClawFu report-generator directory",
+      "claim": "Cached selected directory showed SKILL.md and scripts/; it does not verify today’s inventory.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-clawfu-script",
+      "source_type": "original-repository-script",
+      "source_url": "https://github.com/guia-matthieu/clawfu-skills/blob/main/skills/automation/report-generator/scripts/main.py",
+      "title": "ClawFu report-generator script",
+      "claim": "Referenced script page could not be fetched; behavior was not inspected or executed.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-clawfu-readme",
+      "source_type": "original-repository-readme",
+      "source_url": "https://github.com/guia-matthieu/clawfu-skills",
+      "title": "ClawFu README",
+      "claim": "Offers MCP, clone and copy routes; generic Markdown-context description does not override selected-file install and script instructions.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-clawfu-license",
+      "source_type": "original-repository-license",
+      "source_url": "https://github.com/guia-matthieu/clawfu-skills/blob/main/LICENSE",
+      "title": "ClawFu root license",
+      "claim": "Root license displays MIT and copyright 2026 Guia; not a dependency or legal review.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-dmp-skill",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/indranilbanerjee/digital-marketing-pro/blob/main/skills/analytics-insights/SKILL.md",
+      "title": "Digital Marketing Pro analytics-insights selected file",
+      "claim": "Requests KPI definition/source and data quality, compares months and channels, and checks tracking faults and delays; also directs local brand-profile reads and a campaign-history Python script. No full export-row and claim audit or owner release gate.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-dmp-templates",
+      "source_type": "original-repository-reference",
+      "source_url": "https://github.com/indranilbanerjee/digital-marketing-pro/blob/main/skills/analytics-insights/reporting-templates.md",
+      "title": "Digital Marketing Pro reporting templates",
+      "claim": "Contains cross-channel table, budget-versus-spend reconciliation, source-of-truth validation, teammate review and scheduled send guidance; these do not establish cross-platform definition reconciliation or authorized-owner sign-off.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-dmp-directory",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/analytics-insights",
+      "title": "Digital Marketing Pro analytics-insights directory",
+      "claim": "Cached listing showed ten Markdown references besides SKILL.md; it does not verify today’s inventory.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-dmp-root",
+      "source_type": "original-repository-readme",
+      "source_url": "https://github.com/indranilbanerjee/digital-marketing-pro",
+      "title": "Digital Marketing Pro root repository",
+      "claim": "Includes agents, commands, scripts and connector examples; a connector was not shown mandatory for the selected file.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-dmp-license",
+      "source_type": "original-repository-license",
+      "source_url": "https://github.com/indranilbanerjee/digital-marketing-pro/blob/main/LICENSE",
+      "title": "Digital Marketing Pro root license",
+      "claim": "Root license displays MIT and copyright 2026 Digital Marketing Pro; not a dependency or legal review.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-live-dashboard-scope",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/indranilbanerjee/digital-marketing-pro/blob/main/skills/live-dashboard/SKILL.md",
+      "title": "Live-dashboard scope screen",
+      "claim": "Scope-screened as a live-dashboard job, not fully audited for the offline cross-channel brief.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-ads-analytics-scope",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/rampstackco/claude-skills/blob/main/skills/ads-performance-analytics/SKILL.md",
+      "title": "Paid-ad analytics scope screen",
+      "claim": "Scope-screened as paid-ad analytics, not fully audited for the offline cross-channel brief.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run10-dashboard-design-scope",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/asgard-ai-platform/skills/blob/main/data-dashboard-design/SKILL.md",
+      "title": "Dashboard-design scope screen",
+      "claim": "Scope-screened as dashboard design, not fully audited for the offline cross-channel brief.",
+      "accessed_at": "2026-09-30T20:31:35.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

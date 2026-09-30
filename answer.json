@@ -1,24 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The six source-inspected marketing-skill candidates remain bounded, reviewable choices with existing provenance and approval limits. Run 9 inspected two original monthly-report SKILL.md files against Run 8’s offline cross-channel brief and found neither meets the required input, reconciliation, traceability, draft, and human-approval protocol. Further research is needed; there is no seventh catalogue card, install recommendation, or tested reporting result.",
+  "current_answer": "The catalogue remains at six source-inspected, bounded marketing-skill candidates with their existing caveats. Run 10 closes the search for a provenance-first monthly reporting skill for now: two newly inspected original SKILL.md files do not require the fixed offline input, reconciliation, calculation, traceability, draft and authorized-owner approval protocol. Neither earns a seventh card or a synthetic test. This is a bounded source-text decision, not proof that no suitable skill exists.",
   "catalogue_card": {
     "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
-    "text": "Match a source-inspected skill to a specific job and keep first use reviewable. The catalogue remains at six entries, including conditional, draft-only emails; none was independently tested. Run 9 found two monthly-report source files near the proposed offline briefing job but neither met its audit and approval gates. The four Superamped provenance stops and Run 7 freshness limits remain."
+    "text": "Match a source-inspected skill to a specific job and keep first use reviewable. Six entries remain, including conditional, draft-only emails; none was independently tested. Run 10 closed the bounded reporting-skill search for now after two more files failed source-text gates. The four Superamped provenance stops, Run 7 freshness limits, and owner approval before external action remain."
   },
   "summary": [
-    "Run 9 inspected original Anthropic performance-report and Skill Me agency-monthly-report SKILL.md files against the Run 8 offline monthly cross-channel brief. Neither qualifies as a seventh entry; the decision is further research.",
-    "Anthropic accepts pasted or shared metrics and offers monthly cross-channel reporting, but its selected file omits mandatory source-row mapping, reconciliation, discrepancy halt, and human-release approval. The broader plugin also offers connected analytics routes; these were not used or tested.",
-    "Skill Me asks for monthly client numbers and offers a template, but explicitly instructs a send through the contracted channel and lacks a source and arithmetic audit. This conflicts with the draft-only brief.",
-    "The six existing entries and caveats remain unchanged: no new six-entry recheck; four Superamped selected-file SHA/date and tag gaps; conditional, draft-only emails without a selected-file pin; Copywriting’s older dated pin is not a current-branch guarantee."
+    "Run 10 inspected ClawFu report-generator and Digital Marketing Pro analytics-insights against Run 8’s fixed offline monthly cross-channel brief. Both fail mandatory source-text gates; the search is closed for now, with no seventh card and no synthetic mismatch test.",
+    "ClawFu describes report generation but instructs dependency installation and a Python script. Its script behavior was not fetched or run; the selected file lacks export, reconciliation, claim-trail and owner-release requirements.",
+    "Digital Marketing Pro requests KPI source/definition, quality checks, monthly comparisons, source-of-truth validation and teammate review. Those are not full cross-platform metric reconciliation, independent claim recomputation, or authorized-owner approval of the exact release; its default route reads local context and invokes a script.",
+    "The next research job is a human-reviewed two-channel campaign launch brief, not a new card. The six catalogue entries were not rechecked and retain all provenance, freshness and draft-only caveats."
   ],
   "uncertainty": [
-    "This is a package-fit decision from inspected source text, not a runtime test or proof that no suitable reporting skill exists. No first-use synthetic mismatch exercise was run.",
-    "Anthropic’s selected-directory listing and path history were cached; its March path changes do not pin today’s selected file. Skill Me’s selected directory and path history were unavailable; its July commit does not pin today’s file.",
-    "No reporting package, plugin, installer, host, connector, script, credential, account, report sender, customer system, or workflow was installed, copied, executed, connected, or tested; no data, accuracy, safety, compatibility or outcome claim was validated.",
-    "The six catalogue entries were not rechecked in Run 9. Their prior provenance and freshness caveats still apply."
+    "This was a bounded source-text search, not an exhaustive search or runtime test. Neither file passed the fixed gates, so no synthetic mismatch walkthrough was run.",
+    "ClawFu’s script page and both selected-path histories could not be fetched. Directory and main pages were cached at different ages; no current file inventory, selected-file SHA/date, pin or tag is claimed.",
+    "Digital Marketing Pro’s teammate review and source-of-truth validation are real instructions but are not a named owner sign-off or an export-row/claim audit. Its reporting reference discusses sending on schedule; automatic sending was not established.",
+    "No package, plugin, installer, clone, script, connector, host, customer account or customer data was installed, copied, executed, connected or used. No security, compatibility, calculation accuracy, privacy, causal, time-saving or marketing outcome was tested or established.",
+    "The six existing catalogue entries were not rechecked. Four Superamped provenance stops, conditional draft-only emails without a selected-file pin, Copywriting’s non-current dated pin, and Run 7 freshness limits still apply."
   ],
-  "checked_at": "2026-09-29T08:40:41.000Z",
-  "meaningfully_updated_at": "2026-09-29T08:40:41.000Z",
-  "freshness_note": "Run 9 source-text shortlist checked 29 September 2026 UTC; neither reporting file qualified for the fixed Run 8 brief. This did not recheck the six catalogue entries. Their latest limited source-page recheck was Run 7 on 27 September, without current-day selected-directory verification. No package or reporting behavior was tested."
+  "checked_at": "2026-09-30T20:31:35.000Z",
+  "meaningfully_updated_at": "2026-09-30T20:31:35.000Z",
+  "freshness_note": "Run 10 source-text search checked 30 September 2026 UTC and closed the reporting search for now after two more files failed the Run 8 gates. This did not recheck the six catalogue entries; their latest limited source-page recheck was Run 7 on 27 September, not current-day package verification. No package or reporting behavior was tested."
 }
