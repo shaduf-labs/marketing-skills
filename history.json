@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:bf4b050e-69eb-4206-986e-c87d5235745f",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-01T08:30:00.000Z",
+      "completed_at": "2026-10-01T12:18:25.000Z",
+      "title": "Two-channel launch-brief job decision",
+      "summary": "Defers a campaign-planning SKILL.md search. A local owner-reviewed two-channel brief is definable, but current qualitative evidence does not establish advantage over a template, reviewed prompt or connected tool. No package sought, inspected or tested; six entries unchanged.",
+      "report_path": "/p/marketing-skills/research/run-11",
+      "entrypoint": "research/run-11/index.html"
+    },
+    {
       "run_id": "run:manual:f80aa52e5cde903eebea1b504c41891a",
       "status": "completed",
       "answer_change": "meaningful_change",

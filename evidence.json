@@ -650,6 +650,86 @@
       "accessed_at": "2026-09-30T20:31:35.000Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run11-solo-marketer",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/marketingagency/comments/1we5yo1/solo_marketers_what_foundations_do_you_actually/",
+      "title": "Solo marketer foundations",
+      "claim": "A September reply recommends a one-page brief with audience, question, action, measure, assets and sign-off owner; self-selected comments do not establish unmet skill demand.",
+      "accessed_at": "2026-10-01T12:18:25.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run11-notion-template",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/MarketingMentor/comments/1rmjjg5/what_tools_or_workflows_actually_help_you_save/",
+      "title": "Campaign workflow discussion",
+      "claim": "A respondent reports using a Notion campaign template; claimed time savings are unverified self-report.",
+      "accessed_at": "2026-10-01T12:18:25.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run11-creative-brief",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/advertising/comments/1mway50/whats_your_goto_format_for_creativemarketing/",
+      "title": "Creative brief formats",
+      "claim": "A living one-page document and kickoff are described; formats differ by role.",
+      "accessed_at": "2026-10-01T12:18:25.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run11-ai-marketing",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/DigitalMarketing/comments/1qv2inb/is_anyone_actually_happy_with_their_ai_marketing/",
+      "title": "AI marketing trust discussion",
+      "claim": "A poster describes cross-checking AI campaign briefs and fabricated research concerns, without isolating this job or requesting a skill.",
+      "accessed_at": "2026-10-01T12:18:25.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run11-agent-paid-ads",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/MarketingAutomation/comments/1wh5f35/using_ai_agents_to_manage_paid_ads/",
+      "title": "Paid-ads agent discussion",
+      "claim": "The discussion asks about agent actions under human strategy and budget control; it supports a permission boundary, not demand for an offline skill.",
+      "accessed_at": "2026-10-01T12:18:25.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run11-asana-template",
+      "source_type": "vendor-template",
+      "source_url": "https://asana.com/templates/campaign-management",
+      "title": "Asana campaign management template",
+      "claim": "Vendor describes intake, audience, assets, channels, assignment and dashboard workflow; no independently tested outcome is claimed.",
+      "accessed_at": "2026-10-01T12:18:25.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run11-asana-brief",
+      "source_type": "vendor-guide",
+      "source_url": "https://asana.com/resources/how-write-creative-brief-examples-template",
+      "title": "Asana creative brief guide",
+      "claim": "Vendor provides a ready brief structure for goals, audience, message, deliverables and distribution.",
+      "accessed_at": "2026-10-01T12:18:25.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run11-ppc-qa",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/PPC/comments/1vuadjo/how_many_are_automating_gads_setup/",
+      "title": "PPC setup QA discussion",
+      "claim": "Comments describe manual pre-spend checks and mixed views on automation; reported time or pass rates are unverified.",
+      "accessed_at": "2026-10-01T12:18:25.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "two-channel-launch-brief-job-deferred-2026-10-01",
+      "changed_at": "2026-10-01T12:18:25.000Z",
+      "summary": "Added Run 11 decision to defer a search for a two-channel launch-brief skill. Practitioner evidence supports brief-making but not unmet need for a portable package over templates, reviewed prompts or connected tools. Defined a low-access first use and next prelaunch-QA question. Six cards unchanged; no package sought or tested.",
+      "path": "/p/marketing-skills/research/run-11"
+    },
+    {
       "change_id": "provenance-first-reporting-search-2026-09-30",
       "changed_at": "2026-09-30T20:31:35.000Z",
       "summary": "Added Run 10 bounded source-text review of ClawFu report-generator and Digital Marketing Pro analytics-insights. Neither meets the offline briefing audit, trace, low-access and authorized-owner approval gates. Search closed for now; no seventh card, synthetic test, or recheck of six existing entries.",

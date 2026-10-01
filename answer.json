@@ -1,25 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The catalogue remains at six source-inspected, bounded marketing-skill candidates with their existing caveats. Run 10 closes the search for a provenance-first monthly reporting skill for now: two newly inspected original SKILL.md files do not require the fixed offline input, reconciliation, calculation, traceability, draft and authorized-owner approval protocol. Neither earns a seventh card or a synthetic test. This is a bounded source-text decision, not proof that no suitable skill exists.",
+  "current_answer": "The catalogue remains at six source-inspected, bounded marketing-skill candidates with existing caveats. Run 11 defers a search for a portable two-channel launch-brief skill. A local, owner-reviewed brief is definable, but the available practitioner and alternative evidence does not establish that a SKILL.md solves a distinct unmet need beyond a one-page template, reviewed prompt or connected campaign tool. No package was sought, inspected or tested for this job.",
   "catalogue_card": {
     "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
-    "text": "Match a source-inspected skill to a specific job and keep first use reviewable. Six entries remain, including conditional, draft-only emails; none was independently tested. Run 10 closed the bounded reporting-skill search for now after two more files failed source-text gates. The four Superamped provenance stops, Run 7 freshness limits, and owner approval before external action remain."
+    "text": "Match a source-inspected skill to a specific job and keep first use reviewable. Six entries remain, including conditional, draft-only emails; none was independently tested. Run 11 deferred a launch-brief skill search because simpler alternatives remain viable and demand for a portable skill is unproven. Four Superamped provenance stops and Run 7 freshness limits remain."
   },
   "summary": [
-    "Run 10 inspected ClawFu report-generator and Digital Marketing Pro analytics-insights against Run 8’s fixed offline monthly cross-channel brief. Both fail mandatory source-text gates; the search is closed for now, with no seventh card and no synthetic mismatch test.",
-    "ClawFu describes report generation but instructs dependency installation and a Python script. Its script behavior was not fetched or run; the selected file lacks export, reconciliation, claim-trail and owner-release requirements.",
-    "Digital Marketing Pro requests KPI source/definition, quality checks, monthly comparisons, source-of-truth validation and teammate review. Those are not full cross-platform metric reconciliation, independent claim recomputation, or authorized-owner approval of the exact release; its default route reads local context and invokes a script.",
-    "The next research job is a human-reviewed two-channel campaign launch brief, not a new card. The six catalogue entries were not rechecked and retain all provenance, freshness and draft-only caveats."
+    "Run 11 defines a low-access, owner-reviewed brief for one approved offer and two named channels but defers a SKILL.md search. A distinct output does not by itself establish a distinct skill-selection job.",
+    "Practitioner discussions describe one-page and template-based briefs; Asana describes a connected campaign workflow. These sources do not measure unmet need, relative performance, time saved or marketing outcomes.",
+    "The proposed brief would separate approved facts from drafts and unknowns, check caps, consent, destinations and measurements, and stop before account or spend action. These are hypothetical validation rules, not a tested package capability.",
+    "The next research question is prelaunch QA and UTM/naming governance from an approved brief, compared with a spreadsheet checklist or connected platform QA. No seventh card was added."
   ],
   "uncertainty": [
-    "This was a bounded source-text search, not an exhaustive search or runtime test. Neither file passed the fixed gates, so no synthetic mismatch walkthrough was run.",
-    "ClawFu’s script page and both selected-path histories could not be fetched. Directory and main pages were cached at different ages; no current file inventory, selected-file SHA/date, pin or tag is claimed.",
-    "Digital Marketing Pro’s teammate review and source-of-truth validation are real instructions but are not a named owner sign-off or an export-row/claim audit. Its reporting reference discusses sending on schedule; automatic sending was not established.",
-    "No package, plugin, installer, clone, script, connector, host, customer account or customer data was installed, copied, executed, connected or used. No security, compatibility, calculation accuracy, privacy, causal, time-saving or marketing outcome was tested or established.",
-    "The six existing catalogue entries were not rechecked. Four Superamped provenance stops, conditional draft-only emails without a selected-file pin, Copywriting’s non-current dated pin, and Run 7 freshness limits still apply."
+    "The practitioner sources are self-selected and the Asana material is vendor-authored. No pool analytics, owner interviews, observed brief artifacts or non-synthetic alternative comparison were available.",
+    "No campaign-planning package was sought, opened, installed or run. The defined first-use workflow is a specification, not a validated skill or marketing result.",
+    "The six existing entries were not rechecked. Four Superamped selected-file SHA/date and tag findings remain unresolved; emails remains conditional and draft-only without a selected-file pin; Copywriting’s earlier dated record is not a current-branch guarantee; Run 7 did not verify current-day selected-directory listings."
   ],
-  "checked_at": "2026-09-30T20:31:35.000Z",
-  "meaningfully_updated_at": "2026-09-30T20:31:35.000Z",
-  "freshness_note": "Run 10 source-text search checked 30 September 2026 UTC and closed the reporting search for now after two more files failed the Run 8 gates. This did not recheck the six catalogue entries; their latest limited source-page recheck was Run 7 on 27 September, not current-day package verification. No package or reporting behavior was tested."
+  "checked_at": "2026-10-01T12:18:25.000Z",
+  "meaningfully_updated_at": "2026-10-01T12:18:25.000Z",
+  "freshness_note": "Run 11 assessed the brief job on 1 October 2026 UTC, not the six catalogue packages. The latest limited source-page recheck for those entries was Run 7 on 27 September and did not verify current-day directory inventories, installability or compatibility. No package or campaign behavior was tested."
 }
