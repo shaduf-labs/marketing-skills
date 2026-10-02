@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "prelaunch-qa-utm-governance-deferred-2026-10-02",
+      "changed_at": "2026-10-02T08:41:46Z",
+      "summary": "Added Run 12 decision to defer a prelaunch setup-QA skill search and keep cross-channel UTM governance separate. A local approved-brief-to-setup comparison can surface draft discrepancies, not live launch readiness. No seventh card, package search, connection or test.",
+      "path": "/p/marketing-skills/research/run-12"
+    },
+    {
       "change_id": "two-channel-launch-brief-job-deferred-2026-10-01",
       "changed_at": "2026-10-01T12:18:25.000Z",
       "summary": "Added Run 11 decision to defer a search for a two-channel launch-brief skill. Practitioner evidence supports brief-making but not unmet need for a portable package over templates, reviewed prompts or connected tools. Defined a low-access first use and next prelaunch-QA question. Six cards unchanged; no package sought or tested.",

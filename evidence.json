@@ -730,6 +730,116 @@
       "accessed_at": "2026-10-01T12:18:25.000Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run12-ppc-qa",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/PPC/comments/1vuadjo/how_many_are_automating_gads_setup/",
+      "title": "PPC setup QA discussion",
+      "claim": "Manual QC and possible hidden mismatches reported; time and pass-rate claims unverified.",
+      "accessed_at": "2026-10-02T08:41:46Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run12-location-exclusions",
+      "source_type": "official-platform-documentation",
+      "source_url": "https://support.google.com/google-ads/answer/1722040?hl=en",
+      "title": "Google Ads location exclusions",
+      "claim": "Explains why location inclusion/exclusion conflicts can matter; does not prove a defect in an observed account.",
+      "accessed_at": "2026-10-02T08:41:46Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run12-ga4-join",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/GoogleAnalytics/comments/1t72yyf/need_advice_on_scalable_utm_structure_for_paid/",
+      "title": "Scalable UTM structure question",
+      "claim": "Asks whether reused ad names could make joins ambiguous; prospective concern, not a verified error.",
+      "accessed_at": "2026-10-02T08:41:46Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run12-utm-variants",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/GoogleAnalytics/comments/1sjp3xg/how_do_you_deal_with_inconsistent_utm_naming_in/",
+      "title": "Inconsistent UTM naming report",
+      "claim": "Reports fb/facebook and cpc/paid variants fragmenting GA4 reports; unverified self-report.",
+      "accessed_at": "2026-10-02T08:41:46Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run12-url-builder",
+      "source_type": "official-platform-documentation",
+      "source_url": "https://support.google.com/analytics/answer/10917952?hl=en",
+      "title": "Google Analytics URL-builder guidance",
+      "claim": "Parameter values are case-sensitive; source, medium and campaign are recommended and consistency matters.",
+      "accessed_at": "2026-10-02T08:41:46Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run12-utm-spreadsheet",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/PPC/comments/1sjp2b7/how_do_you_keep_utms_consistent_when_running/",
+      "title": "UTM consistency discussion",
+      "claim": "A locked spreadsheet builder is proposed; a product-promoting reply argues for rejecting off-list values.",
+      "accessed_at": "2026-10-02T08:41:46Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run12-utm-enforcement",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/GoogleAnalytics/comments/1va6k30/how_are_you_enforcing_consistent_utm_naming_or/",
+      "title": "UTM governance approaches",
+      "claim": "Reports Sheets, generators, dedicated tools and capture concerns; no comparative outcome.",
+      "accessed_at": "2026-10-02T08:41:46Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run12-editor-check",
+      "source_type": "official-platform-documentation",
+      "source_url": "https://support.google.com/google-ads/editor/answer/56370?hl=en",
+      "title": "Google Ads Editor check changes",
+      "claim": "Editor can check changes before posting and flag some errors or warnings.",
+      "accessed_at": "2026-10-02T08:41:46Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run12-editor-limit",
+      "source_type": "official-platform-documentation",
+      "source_url": "https://support.google.com/google-ads/editor/answer/30576?hl=en-uk",
+      "title": "Google Ads Editor limits",
+      "claim": "Editor cannot flag every editorial violation.",
+      "accessed_at": "2026-10-02T08:41:46Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run12-url-test",
+      "source_type": "official-platform-documentation",
+      "source_url": "https://support.google.com/google-ads/answer/6328603?hl=en",
+      "title": "Google Ads URL test",
+      "claim": "Documents landing-page and tracking URL test with exceptions; not a local offline check.",
+      "accessed_at": "2026-10-02T08:41:46Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run12-ad-review",
+      "source_type": "official-platform-documentation",
+      "source_url": "https://support.google.com/google-ads/answer/1722120/about-the-ad-review-process",
+      "title": "Google Ads ad-review process",
+      "claim": "Policy review is a platform-side step distinct from local record comparison.",
+      "accessed_at": "2026-10-02T08:41:46Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

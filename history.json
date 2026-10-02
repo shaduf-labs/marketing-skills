@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:93d0161b-7012-4129-8b41-36b043bfb995",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-02T08:30:00.000Z",
+      "completed_at": "2026-10-02T08:41:46Z",
+      "title": "Prelaunch setup QA and UTM governance decision",
+      "summary": "Defers a portable-skill search for prelaunch QA. Approved-brief-to-proposed-setup comparison is distinct from ongoing UTM taxonomy governance. Local discrepancies require live human verification; six entries unchanged and no package sought or tested.",
+      "report_path": "/p/marketing-skills/research/run-12",
+      "entrypoint": "research/run-12/index.html"
+    },
+    {
       "run_id": "run:bf4b050e-69eb-4206-986e-c87d5235745f",
       "status": "completed",
       "answer_change": "meaningful_change",
