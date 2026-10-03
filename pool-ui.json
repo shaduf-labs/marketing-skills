@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "default_page": "catalogue",
-  "meaningfully_updated_at": "2026-10-02T08:41:46Z",
+  "meaningfully_updated_at": "2026-10-03T08:39:00Z",
   "pages": [
     {
       "id": "catalogue",
@@ -9,7 +9,7 @@
       "label": "Skill catalogue",
       "icon": "compass",
       "group": "Explore",
-      "description": "Six source-inspected marketing skills by job and review boundary; Run 12 defers a prelaunch-QA skill search.",
+      "description": "Six source-inspected marketing skills by job and review boundary; Run 13 defers a competitor-change brief skill search.",
       "parent": null,
       "entrypoint": "index.html",
       "entrypoint_type": "html_fragment",
@@ -41,7 +41,7 @@
       "label": "Research library",
       "icon": "library",
       "group": "Research",
-      "description": "Twelve dated research reports; Run 12 separates prelaunch QA from UTM governance. Six catalogue cards unchanged.",
+      "description": "Thirteen dated research reports; Run 13 defers a competitor messaging-change brief skill search. Six catalogue cards unchanged.",
       "parent": null,
       "entrypoint": "research/index.html",
       "entrypoint_type": "html_fragment",

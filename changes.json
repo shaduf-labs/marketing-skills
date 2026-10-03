@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "competitor-messaging-change-brief-deferred-2026-10-03",
+      "changed_at": "2026-10-03T08:39:00Z",
+      "summary": "Added Run 13 decision to defer a competitor messaging-change brief skill search. A dated, authorized source-paired review is coherent, but saved diffs, a versioned sheet, reviewed prompt and page monitors remain credible alternatives. No seventh card, package search or monitor test.",
+      "path": "/p/marketing-skills/research/run-13"
+    },
+    {
       "change_id": "prelaunch-qa-utm-governance-deferred-2026-10-02",
       "changed_at": "2026-10-02T08:41:46Z",
       "summary": "Added Run 12 decision to defer a prelaunch setup-QA skill search and keep cross-channel UTM governance separate. A local approved-brief-to-setup comparison can surface draft discrepancies, not live launch readiness. No seventh card, package search, connection or test.",

@@ -840,6 +840,86 @@
       "accessed_at": "2026-10-02T08:41:46Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run13-saas-marketing",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/SaaSMarketing/comments/1u9pww3/looking_for_tools_for_competitor_analysis_that/",
+      "title": "Competitor analysis monitoring discussion",
+      "claim": "Reports manual pricing, landing-page and messaging checks; a reply distinguishes meaningful changes from rotating imagery or navigation. Anecdotal, not measured demand.",
+      "accessed_at": "2026-10-03T08:39:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run13-saas-pricing-packaging",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/SaaS/comments/1qkhjui/how_do_you_track_competitor_pricing_and_packaging/",
+      "title": "Competitor pricing and packaging question",
+      "claim": "Names plan, tier, contact-sales and audience-copy changes of interest while reporting noisy generic page alerts. Prospective workflow account, not a verified defect rate.",
+      "accessed_at": "2026-10-03T08:39:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run13-seo-page-changes",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/bigseo/comments/1puh2uw/how_are_you_tracking_competitor_page_changes/",
+      "title": "Competitor page-change tracking question",
+      "claim": "Describes manual screenshots and spot checks and asks about visual or DOM diffs at scale; does not prove a skill gap.",
+      "accessed_at": "2026-10-03T08:39:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run13-product-marketing",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/ProductMarketing/comments/1sipvhz/how_are_b2b_saas_pmms_actually_tracking/",
+      "title": "Product marketing competitor-tracking discussion",
+      "claim": "Replies describe periodic manual review, Sales/CS signals and immaterial automated updates; question author disclosed commercial interest.",
+      "accessed_at": "2026-10-03T08:39:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run13-pricing-sheet",
+      "source_type": "community-discussion",
+      "source_url": "https://www.reddit.com/r/SaaS/comments/1mo1z2e/how_do_you_keep_track_of_competitor_pricing/",
+      "title": "Competitor pricing sheet discussion",
+      "claim": "A respondent describes a simple biweekly sheet with prices, caps, discounts and screenshots; an unverified simpler-process counterexample.",
+      "accessed_at": "2026-10-03T08:39:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run13-visualping-help",
+      "source_type": "vendor-documentation",
+      "source_url": "https://help.visualping.io/en/articles/4438913",
+      "title": "Visualping monitoring help",
+      "claim": "Vendor describes scheduled page or element monitoring and before/after visual, text and code comparisons with AI summaries; not an independent performance test.",
+      "accessed_at": "2026-10-03T08:39:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run13-visualping-ai",
+      "source_type": "vendor-documentation",
+      "source_url": "https://visualping.io/blog/visualping-ai",
+      "title": "Visualping AI monitoring explanation",
+      "claim": "Vendor acknowledges alert noise from dynamic page content and describes region selection and filtering; reliability was not independently tested.",
+      "accessed_at": "2026-10-03T08:39:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run13-changedetection",
+      "source_type": "vendor-documentation",
+      "source_url": "https://changedetection.io/tutorial/how-monitor-website-new-content",
+      "title": "changedetection.io page-monitoring tutorial",
+      "claim": "Vendor describes scheduled version comparison and text filters and cautions that added/replaced classification depends on similarity; service not tested.",
+      "accessed_at": "2026-10-03T08:39:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }
