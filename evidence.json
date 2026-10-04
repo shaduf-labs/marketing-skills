@@ -2,6 +2,76 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run14-copywriting-current",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/SKILL.md",
+      "title": "Current Copywriting source",
+      "claim": "Current main displays metadata 2.1.0 and directions for a landing-page brief, one CTA, draft alternatives and proof-gap flags; numeric conversion assertions are unverified package claims.",
+      "accessed_at": "2026-10-04T08:40:43Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run14-copywriting-release",
+      "source_type": "original-repository-release",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.11.7",
+      "title": "Copywriting version-change release",
+      "claim": "The 2 October v2.11.7 release records Copywriting 2.0.2→2.1.0; it does not establish today’s full selected-file SHA/date or directory inventory.",
+      "accessed_at": "2026-10-04T08:40:43Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run14-copywriting-readme",
+      "source_type": "original-repository-readme",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/README.md",
+      "title": "Marketing Skills README",
+      "claim": "The maintainer describes CLI, plugin and copy installation routes and host compatibility; no route was tested.",
+      "accessed_at": "2026-10-04T08:40:43Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run14-claude-projects",
+      "source_type": "official-product-documentation",
+      "source_url": "https://support.claude.com/en/articles/9519177-how-can-i-create-and-manage-projects",
+      "title": "Claude Projects help",
+      "claim": "Project knowledge and instructions are documented; no project or privacy setting was tested.",
+      "accessed_at": "2026-10-04T08:40:43Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run14-claude-custom-skills",
+      "source_type": "official-product-documentation",
+      "source_url": "https://support.claude.com/en/articles/12512198-how-to-create-custom-skills",
+      "title": "Claude custom-skills help",
+      "claim": "Owner-built repeatable instruction packages are described; code execution must be enabled for this feature.",
+      "accessed_at": "2026-10-04T08:40:43Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run14-webflow-roles",
+      "source_type": "official-product-documentation",
+      "source_url": "https://help.webflow.com/hc/en-us/articles/46651804072467-Create-and-manage-custom-roles",
+      "title": "Webflow custom roles",
+      "claim": "Review and publishing permissions are separable on eligible plans; no service was connected or tested.",
+      "accessed_at": "2026-10-04T08:40:43Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run14-zapier-approval",
+      "source_type": "official-product-documentation",
+      "source_url": "https://help.zapier.com/hc/en-us/articles/38731463206029-Request-approval-to-keep-your-workflow-running-with-Human-in-the-Loop",
+      "title": "Zapier Human in the Loop",
+      "claim": "Approval pauses are described, but decline/timeout options can continue; fail-closed behavior needs deliberate configuration and was not tested.",
+      "accessed_at": "2026-10-04T08:40:43Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "core-copywriting",
       "source_type": "original-repository-skill",
       "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/SKILL.md",

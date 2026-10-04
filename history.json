@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:ba734407-a2e2-4f39-b26d-1cf141cc2032",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-04T08:30:00Z",
+      "completed_at": "2026-10-04T08:40:43Z",
+      "title": "Approved landing-page copy: skill or simpler route?",
+      "summary": "A maintained brief/template and reviewed prompt are the first route for one authorized local draft. Copywriting source displays 2.1.0, but current selected-file pin and directory inventory are unavailable, numeric assertions unverified, and no install or quality test occurred. Six cards unchanged.",
+      "report_path": "/p/marketing-skills/research/run-14",
+      "entrypoint": "research/run-14/index.html"
+    },
+    {
       "run_id": "run:97391eee-1ad0-42f3-a905-89383ff628ab",
       "status": "completed",
       "answer_change": "meaningful_change",
