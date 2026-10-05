@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "six-entry-route-first-chooser-2026-10-05",
+      "changed_at": "2026-10-05T08:45:00Z",
+      "summary": "Added Run 15 full report and one library record across List, Table and Calendar. Route-first choice and six-row decision/access/review matrix now precede six unchanged, untested cards. Corrected mutable emails source badge to 2.1.1 viewed 5 Oct; pin/inventory unknown; historical Copywriting 2.0.2 pin qualified. No seventh card or package test.",
+      "path": "/p/marketing-skills/research/run-15"
+    },
+    {
       "change_id": "landing-page-copy-route-choice-2026-10-04",
       "changed_at": "2026-10-04T08:40:43Z",
       "summary": "Added Run 14 full report and one Research library record across List, Table and Calendar. For one approved local landing-page draft, a maintained brief/template and reviewed prompt are first; third-party Copywriting 2.1.0 is conditional, with current pin/inventory, numeric assertions, installation and quality unverified. Six cards and 13 prior report URLs retained.",

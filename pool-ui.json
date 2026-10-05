@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "default_page": "catalogue",
-  "meaningfully_updated_at": "2026-10-04T08:40:43Z",
+  "meaningfully_updated_at": "2026-10-05T08:45:00Z",
   "pages": [
     {
       "id": "catalogue",
@@ -9,7 +9,7 @@
       "label": "Skill catalogue",
       "icon": "compass",
       "group": "Explore",
-      "description": "Six source-inspected marketing skills; Run 14 favors a brief and reviewed prompt for one approved landing-page draft, with Copywriting 2.1.0 source caveats.",
+      "description": "Route-first marketing decision guide and six source-inspected, untested candidates; emails mutable source displayed 2.1.1 on 5 Oct.",
       "parent": null,
       "entrypoint": "index.html",
       "entrypoint_type": "html_fragment",
@@ -41,7 +41,7 @@
       "label": "Research library",
       "icon": "library",
       "group": "Research",
-      "description": "Fourteen dated reports; Run 14 compares four routes for one local landing-page copy draft. Six catalogue cards unchanged.",
+      "description": "Fifteen dated reports, including Run 15 route-first chooser and six-entry decision/access/review matrix.",
       "parent": null,
       "entrypoint": "research/index.html",
       "entrypoint_type": "html_fragment",
@@ -58,7 +58,7 @@
       "label": "Review a skill",
       "icon": "check-circle",
       "group": "Use safely",
-      "description": "Choose a bounded marketing job and compare a simpler brief/prompt route before third-party installation.",
+      "description": "Compare four routes before six conditional package candidates and check source, data, host and human stops.",
       "parent": null,
       "entrypoint": "how-to-choose/index.html",
       "entrypoint_type": "html_fragment",

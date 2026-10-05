@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:22842b67-a852-42f0-8503-e361b12f5487",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-05T08:30:00Z",
+      "completed_at": "2026-10-05T08:45:00Z",
+      "title": "Choose a route before the six skills",
+      "summary": "Four-route decision before six conditional candidates; six-row decision/access/review matrix and mutable emails 2.1.1 correction. No current pin/inventory, seventh card, installation or outcome test.",
+      "report_path": "/p/marketing-skills/research/run-15",
+      "entrypoint": "research/run-15/index.html"
+    },
+    {
       "run_id": "run:ba734407-a2e2-4f39-b26d-1cf141cc2032",
       "status": "completed",
       "answer_change": "meaningful_change",
