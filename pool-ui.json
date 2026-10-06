@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "default_page": "catalogue",
-  "meaningfully_updated_at": "2026-10-05T08:45:00Z",
+  "meaningfully_updated_at": "2026-10-06T08:45:00Z",
   "pages": [
     {
       "id": "catalogue",
@@ -9,7 +9,7 @@
       "label": "Skill catalogue",
       "icon": "compass",
       "group": "Explore",
-      "description": "Route-first marketing decision guide and six source-inspected, untested candidates; emails mutable source displayed 2.1.1 on 5 Oct.",
+      "description": "Route-first decision guide and six source-inspected, untested candidates; Run 16 distinguishes file-attributable changes from current pins.",
       "parent": null,
       "entrypoint": "index.html",
       "entrypoint_type": "html_fragment",
@@ -41,7 +41,7 @@
       "label": "Research library",
       "icon": "library",
       "group": "Research",
-      "description": "Fifteen dated reports, including Run 15 route-first chooser and six-entry decision/access/review matrix.",
+      "description": "Sixteen dated reports, including Run 16 Core Haines changed-source check.",
       "parent": null,
       "entrypoint": "research/index.html",
       "entrypoint_type": "html_fragment",

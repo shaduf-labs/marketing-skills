@@ -2,6 +2,96 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run16-copywriting-file-change",
+      "source_type": "original-repository-commit",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/commit/12188f1e3d3d8538fd32a96c925a8f6d7641827e",
+      "title": "Copywriting selected-file 2.1.0 change",
+      "claim": "Commit directly lists Copywriting SKILL.md, new ai-tells.md and related references/eval; VERSIONS diff records 2.0.2 to 2.1.0 on 2 October. It is not verified latest main selected-file pin.",
+      "accessed_at": "2026-10-06T08:45:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run16-copywriting-current",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/SKILL.md",
+      "title": "Copywriting mutable selected text",
+      "claim": "Viewed 6 October displaying 2.1.0; still drafts page copy from authorized brief/context and adds AI-tells self-check. No CMS publish instruction in selected text; efficacy assertions not independently verified.",
+      "accessed_at": "2026-10-06T08:45:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run16-copywriting-ai-tells",
+      "source_type": "original-repository-reference",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/references/ai-tells.md",
+      "title": "Copywriting AI-tells reference",
+      "claim": "Current mutable reference page was opened and describes blacklist, rewrite and self-check rules; not a complete package review. Cached reference listing omits this later file.",
+      "accessed_at": "2026-10-06T08:45:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run16-emails-file-change",
+      "source_type": "original-repository-commit",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/commit/26f7342b26670e5581b48cd64e9dba3eb8a0c3aa",
+      "title": "Emails selected-file 2.1.0 change",
+      "claim": "Commit directly lists emails SKILL.md, eval and sequence-template reference for 2.0.0 to 2.1.0 AI-tell change. It is not a verified 2.1.1 selected-file pin.",
+      "accessed_at": "2026-10-06T08:45:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run16-emails-current",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/emails/SKILL.md",
+      "title": "Emails mutable selected text",
+      "claim": "Viewed 6 October displaying 2.1.1; describes Markdown sequence fields, Copywriting AI-tells cross-skill reference and absolute mutable implementation-tool links. No send/configuration required in inspected selected text for draft.",
+      "accessed_at": "2026-10-06T08:45:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run16-emails-211-release",
+      "source_type": "original-repository-release",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/releases/tag/v2.11.12",
+      "title": "Emails patch release",
+      "claim": "Release reports portable-tool-link patch bump on 2 October; its repository commit diff was inaccessible, so selected-file 2.1.1 SHA/date and full delta are not established.",
+      "accessed_at": "2026-10-06T08:45:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run16-emails-template",
+      "source_type": "original-repository-reference",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/emails/references/sequence-templates.md",
+      "title": "Emails sequence template",
+      "claim": "Week-old mutable page displayed a seven-email welcome example; five emails remains the pool proposed subset, not a source requirement or current-template verification.",
+      "accessed_at": "2026-10-06T08:45:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run16-copywriting-directory",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/copywriting",
+      "title": "Copywriting selected directory",
+      "claim": "Directory page was cached about three weeks, not a current complete inventory. Later AI-tells file is missing from cached references listing.",
+      "accessed_at": "2026-10-06T08:45:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run16-emails-directory",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/emails",
+      "title": "Emails selected directory",
+      "claim": "Directory page was cached about three weeks, not a current complete inventory.",
+      "accessed_at": "2026-10-06T08:45:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run15-emails-mutable-source",
       "source_type": "original-repository-skill",
       "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/emails/SKILL.md",
