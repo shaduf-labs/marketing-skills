@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "ad-campaign-analyzer-decision-boundary-2026-10-07",
+      "changed_at": "2026-10-07T08:45:00Z",
+      "summary": "Added Run 17 and one Research-library record across List, Table and Calendar. Removed Ad Campaign Analyzer from active cards/chooser because its selected source gives immediate stop/scale instructions with unsupported profit and significance claims. Five active candidates remain, including conditional draft-only emails. Earlier report URLs and dated records are retained; no install, export, account or outcome test.",
+      "path": "/p/marketing-skills/research/run-17"
+    },
+    {
       "change_id": "core-haines-changed-source-check-2026-10-06",
       "changed_at": "2026-10-06T08:45:00Z",
       "summary": "Added Run 16 and one Research-library record across List, Table and Calendar. Copywriting and emails have selected-file-attributable 2.1.0 change commits, not verified latest main pins. Emails 2.1.1 file SHA/date, full diff and current inventories remain open; AI-tells cross-skill and tool-link boundaries disclosed. Six cards and previous URLs retained; no install or action test.",

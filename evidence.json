@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run17-ad-selected",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/ads/ad-campaign-analyzer/SKILL.md",
+      "title": "Ad Campaign Analyzer mutable selected text",
+      "claim": "Obtained 7 October, metadata 1.0. Requires export metrics, target CPA and AOV; directs immediate stop/scale and 20%/48h plan, labels AOV minus ad CPA profit and ten conversions generally statistically significant without test or required full costs/attribution. No direct account action stated.",
+      "accessed_at": "2026-10-07T08:45:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run17-ad-directory",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/tree/main/skills/ads/ad-campaign-analyzer",
+      "title": "Ad Campaign Analyzer stale directory listing",
+      "claim": "Returned listing about five months old; does not establish current package inventory, selected-file SHA/date or tag.",
+      "accessed_at": "2026-10-07T08:45:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run17-google-value",
+      "source_type": "official-documentation",
+      "source_url": "https://support.google.com/google-ads/answer/13405059",
+      "title": "Google Ads conversion value per cost",
+      "claim": "Reported value/cost uses conversion value and cost; source AOV/CPA is only a conditional proxy under matching values and counted populations.",
+      "accessed_at": "2026-10-07T08:45:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run17-google-roi",
+      "source_type": "official-documentation",
+      "source_url": "https://support.google.com/google-ads/answer/1722066",
+      "title": "Google Ads ROI",
+      "claim": "Profitability must account for costs beyond media; source AOV minus ad CPA omits those costs.",
+      "accessed_at": "2026-10-07T08:45:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run17-google-lag",
+      "source_type": "official-documentation",
+      "source_url": "https://support.google.com/google-ads/answer/9347141",
+      "title": "Google Ads conversion lag",
+      "claim": "Recent reporting can undercount delayed conversions and distort apparent CPA/ROAS.",
+      "accessed_at": "2026-10-07T08:45:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run16-copywriting-file-change",
       "source_type": "original-repository-commit",
       "source_url": "https://github.com/coreyhaines31/marketingskills/commit/12188f1e3d3d8538fd32a96c925a8f6d7641827e",

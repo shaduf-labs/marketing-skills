@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:4dfd6566-8063-4acc-9fc7-e31b5cdd5d72",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-07T08:30:00Z",
+      "completed_at": "2026-10-07T08:45:00Z",
+      "title": "Ad Campaign Analyzer decision boundary",
+      "summary": "Removes Ad Campaign Analyzer from active choice after original-source audit found unsupported profit/significance claims in immediate stop/scale workflow. Five candidates remain; no install, export, account or outcome test.",
+      "report_path": "/p/marketing-skills/research/run-17",
+      "entrypoint": "research/run-17/index.html"
+    },
+    {
       "run_id": "run:612649ba-64e7-4bc9-a959-1171d5d66af8",
       "status": "completed",
       "answer_change": "meaningful_change",
