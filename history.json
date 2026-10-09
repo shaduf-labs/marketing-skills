@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:e8211320-9bf8-42e0-bebb-2806032c7a25",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-09T08:30:00Z",
+      "completed_at": "2026-10-09T08:39:03Z",
+      "title": "Content Strategy priority and evidence-claim audit",
+      "summary": "Retains Content Strategy only as a conditional draft-planning scaffold; weighted X/10 score, stage modifiers and sampled gaps are hypotheses. Use a versioned brief/template first for one approved content month. Four active candidates; no install, plan or outcome test.",
+      "report_path": "/p/marketing-skills/research/run-19",
+      "entrypoint": "research/run-19/index.html"
+    },
+    {
       "run_id": "run:13e73693-70ea-41b8-893f-10e42c3c121e",
       "status": "completed",
       "answer_change": "meaningful_change",

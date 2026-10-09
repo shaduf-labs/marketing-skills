@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "content-strategy-priority-boundary-2026-10-09",
+      "changed_at": "2026-10-09T08:39:03Z",
+      "summary": "Added Run 19 public report and one library record in List, Table and Calendar. Retained four active cards while narrowing Content Strategy to a conditional draft scaffold: X/10 weights, stage labels and gaps are hypotheses. A versioned brief/template comes first for one approved content month. Run 18 page-audit correction and all prior URLs remain. No install, plan or outcome test.",
+      "path": "/p/marketing-skills/research/run-19"
+    },
+    {
       "change_id": "search-page-audit-score-boundary-2026-10-08",
       "changed_at": "2026-10-08T08:40:00Z",
       "summary": "Added Run 18 full public report and one Research-library record in List, Table and Calendar. Removed Search Page Audit from active cards/chooser because mandatory X/38, ratings and fixed priorities are unvalidated decision labels. Added an owner-maintained unscored one-URL checklist route, linked historical rows to their superseding audit, and retained all prior report URLs. Four active candidates remain; Run 17 paid-media decision and conditional draft-only emails are unchanged. No install, page crawl, deployment or outcome test.",
