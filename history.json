@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:13e73693-70ea-41b8-893f-10e42c3c121e",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-08T08:30:00Z",
+      "completed_at": "2026-10-08T08:40:00Z",
+      "title": "Search Page Audit score and action-claim audit",
+      "summary": "Removes Search Page Audit from active choice after source-claim audit found mandatory X/38, ratings and fixed priorities are unvalidated search or AI-citation measures. Four candidates remain; an unscored owner checklist replaces the one-URL route. No package, live page, host or outcome test.",
+      "report_path": "/p/marketing-skills/research/run-18",
+      "entrypoint": "research/run-18/index.html"
+    },
+    {
       "run_id": "run:4dfd6566-8063-4acc-9fc7-e31b5cdd5d72",
       "status": "completed",
       "answer_change": "meaningful_change",

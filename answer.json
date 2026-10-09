@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose the smallest authorized route: approved brief/template plus reviewed prompt for one local artifact; host-native instructions for repeated private context; a third-party SKILL.md only after documented omissions and full source, host, data and human-review gates; governed connected products only for authorized live work. Five active source-inspected candidates remain untested, including conditional draft-only emails. Paid-media export analysis has no recommended skill: Ad Campaign Analyzer was removed after its selected text was found to direct immediate stop/scale action with unsupported profit and significance rules. Use a governed worksheet and named paid-media owner; no install, account or spend action is authorized.",
+  "current_answer": "Choose the smallest authorized route: a maintained brief/template and reviewed prompt for one local artifact; host-native instructions for repeated private context; a third-party SKILL.md only after documented omissions and full source, host, data and human-review gates; governed connected products only for authorized live work. Four active source-inspected candidates remain untested, including conditional draft-only emails. Search Page Audit is not recommended: its mandatory X/38 score, ratings and fixed priorities are not validated search-quality, AI-citation or ranking measures. Use an owner-maintained, unscored checklist for one authorized public URL. Paid-media export analysis also has no recommended skill; use a governed worksheet and named paid-media owner. No install, deployment, account or spend action is authorized.",
   "catalogue_card": {
     "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
-    "text": "Choose a route before a package. Five active source-inspected candidates remain untested, including conditional draft-only emails. Paid-media export analysis has no recommended skill here; use a governed worksheet and named analyst. Keep source, install and action stops."
+    "text": "Choose a route before a package. Four active source-inspected candidates remain untested, including conditional draft-only emails. For one public-page audit, use an owner-maintained unscored checklist; for paid-media exports, use a governed worksheet. Named owners review findings and separately approve action. No installation recommendation."
   },
   "summary": [
-    "Run 17 removes Ad Campaign Analyzer from active choice while retaining its dated source record and prior report URLs. Its selected source instructs immediate stop/scale action using AOV minus ad CPA as profit and ten conversions as a significance cue without required economics or attribution checks.",
-    "The active catalogue has five source-inspected, untested candidates; emails remains conditional and draft-only. Paid-media export triage uses an authorized export in a governed worksheet and separate named-owner action approval.",
-    "The selected ad file was obtained on 7 October, but SHA/date, tag attribution and current package inventory remain unresolved; a five-month-old directory listing is not current inventory. No package, export, account, host or outcome was tested."
+    "Run 18 removes Search Page Audit from the active catalogue. Its selected file requires binary X/38 scoring, four ratings and fixed priorities without validation for Google Search quality, AI citation or ranking impact; several universal checks conflict with current Google guidance.",
+    "Four active source-inspected, untested candidates remain, including conditional draft-only emails. An owner-maintained, unscored checklist is the route for one authorized public URL. Run 17 paid-media nonrecommendation and governed worksheet remain in force.",
+    "The selected Search Page Audit file was read via a mutable GitHub page on 8 October, returned crawled six days earlier. Raw file and directory listings were older; selected-file SHA/date, tag and complete current inventory remain unverified. No page, package, host, ranking or outcome test occurred."
   ],
   "uncertainty": [
-    "Ad Campaign Analyzer selected-file SHA/date, tag attribution and present package inventory remain unresolved; no installation advice or spend advice follows from the source audit.",
-    "The remaining three Superamped active cards retain selected-file provenance gaps and pre-install stops. Copywriting and emails 2.1.0 file-attributable changes are not latest selected-file pins; emails 2.1.1 SHA/date, full diff and inventory remain open.",
-    "No installer, host, connected account, private export, security/privacy, quality, statistical decision, compatibility or marketing outcome test was performed."
+    "Search Page Audit selected-file SHA/date, attributable tag, immutable current file and complete current directory inventory remain unresolved; no installation advice follows.",
+    "Google-specific guidance limits the source claims but does not establish behavior of all AI systems, package efficacy, or the effect of a page change on rankings or citation.",
+    "The two active Superamped cards retain provenance and pre-install stops. Copywriting and emails 2.1.0 file-attributable changes are not latest pins; emails 2.1.1 SHA/date, full diff and inventory remain open. No installer, host, account, private data, security/privacy, quality, compatibility or marketing outcome test was performed."
   ],
-  "checked_at": "2026-10-07T08:45:00Z",
-  "meaningfully_updated_at": "2026-10-07T08:45:00Z",
-  "freshness_note": "Run 17 obtained the mutable Ad Campaign Analyzer selected file on 7 October and found unsupported decision rules. Its selected-file SHA/date, tag attribution and current inventory remain unknown. Other active candidates were not rechecked; prior provenance and draft/action stops remain."
+  "checked_at": "2026-10-08T08:40:00Z",
+  "meaningfully_updated_at": "2026-10-08T08:40:00Z",
+  "freshness_note": "Run 18 audited the mutable Search Page Audit selected text and directly relevant Google Search guidance on 8 October; source crawl ages vary and exact file provenance remains open. Other active candidates were not rechecked. Four active source-inspected entries retain draft, install and action stops."
 }

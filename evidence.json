@@ -2,6 +2,146 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run18-selected",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/search/search-page-audit/SKILL.md",
+      "title": "Search Page Audit selected text",
+      "claim": "Returned complete selected file on 8 October, crawled six days earlier. Requires 38 binary checks, four ratings and fixed top-five priorities; includes uncited 35% table AI-extractability claim. This is mutable source text, not an immutable pin.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-raw",
+      "source_type": "original-repository-skill",
+      "source_url": "https://raw.githubusercontent.com/superamped/ai-marketing-skills/main/skills/search/search-page-audit/SKILL.md",
+      "title": "Stale raw selected file",
+      "claim": "Returned crawled four months earlier with differing frontmatter; not a verified current tip or basis for today’s selected-file claim audit.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-directory",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/tree/main/skills/search/search-page-audit",
+      "title": "Stale selected-directory listing",
+      "claim": "Returned crawled last month and showed SKILL.md only then; does not establish current complete inventory or selected-file SHA/date.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-readme",
+      "source_type": "original-repository-readme",
+      "source_url": "https://raw.githubusercontent.com/superamped/ai-marketing-skills/main/README.md",
+      "title": "Superamped owner README",
+      "claim": "Returned crawled four days earlier; calls the package a 38-point report, lists installation routes and says skills are instructions rather than autonomous agents.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-license",
+      "source_type": "original-repository-license",
+      "source_url": "https://raw.githubusercontent.com/superamped/ai-marketing-skills/main/LICENSE",
+      "title": "Superamped MIT license",
+      "claim": "Returned crawled today and states MIT license; license does not validate score or safety.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-google-ai",
+      "source_type": "official-documentation",
+      "source_url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+      "title": "Google Search generative AI guide",
+      "claim": "Google-specific guidance says llms.txt has no Search visibility benefit and no special schema or content chunking is needed for AI features; indexing/serving are not guaranteed. Does not test the skill or all AI systems.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-google-starter",
+      "source_type": "official-documentation",
+      "source_url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+      "title": "Google SEO starter guide",
+      "claim": "Google says heading order is not a Google Search requirement in the source’s pass/fail sense and E-E-A-T is not itself a ranking factor.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-google-helpful",
+      "source_type": "official-documentation",
+      "source_url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "title": "Google helpful-content guidance",
+      "claim": "E-E-A-T is a conceptual self-assessment, not a specific ranking factor; superficial date changes are discouraged.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-google-title",
+      "source_type": "official-documentation",
+      "source_url": "https://developers.google.com/search/docs/appearance/title-link",
+      "title": "Google title-link guidance",
+      "claim": "No fixed title-character requirement; display may truncate by device width.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-google-snippet",
+      "source_type": "official-documentation",
+      "source_url": "https://developers.google.com/search/docs/appearance/snippet",
+      "title": "Google snippet guidance",
+      "claim": "No fixed meta-description length requirement; Google can select page text instead.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-google-data",
+      "source_type": "official-documentation",
+      "source_url": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data",
+      "title": "Google structured-data introduction",
+      "claim": "Relevant valid markup can support eligible features; JSON-LD is recommended but not the only accepted syntax, and markup does not guarantee appearance.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-google-updates",
+      "source_type": "official-documentation",
+      "source_url": "https://developers.google.com/search/updates",
+      "title": "Google Search updates",
+      "claim": "June 2026 notes no llms.txt Google visibility/ranking effect and removal of FAQ rich-result documentation after feature cessation.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-google-sitemap",
+      "source_type": "official-documentation",
+      "source_url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview",
+      "title": "Google sitemap overview",
+      "claim": "Small well-linked sites may not need a sitemap, and a sitemap does not guarantee crawling or indexing.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run18-google-js",
+      "source_type": "official-documentation",
+      "source_url": "https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics",
+      "title": "Google JavaScript SEO basics",
+      "claim": "Google renders JavaScript with limitations; non-static HTML is not automatically uncrawlable.",
+      "accessed_at": "2026-10-08T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run17-ad-selected",
       "source_type": "original-repository-skill",
       "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/ads/ad-campaign-analyzer/SKILL.md",
