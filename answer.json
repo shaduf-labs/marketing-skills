@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose the smallest authorized route. Four active source-inspected candidates remain untested. Content Strategy is a conditional draft-planning scaffold, not a validated prioritizer: its weighted X/10 score and buyer-stage or gap labels need dated evidence and content-owner review. For one approved content month, begin with a versioned brief/template. Search Page Audit and Ad Campaign Analyzer are not recommended; use an unscored owner checklist for one authorized public URL and a governed worksheet for paid-media exports. No installation, publication, account, deployment or spend action is authorized.",
+  "current_answer": "Choose the smallest authorized route. Four active source-inspected candidates remain untested. For one approved product and audience, begin with a versioned competitor sheet and reviewed public-web search. Competitor Discovery may draft a dated, sampled set of possible direct and adjacent competitors, with tangential results normally excluded; its required query-frequency rank is not verified threat or action priority. A named owner confirms identities, provisional types and dated claims. Content Strategy remains a conditional draft scaffold, not a validated prioritizer. Search Page Audit and Ad Campaign Analyzer are not recommended. No installation or external action is authorized.",
   "catalogue_card": {
     "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
-    "text": "Four active source-inspected candidates remain untested. Content Strategy is draft-only; its X/10 priorities and gap/stage labels are hypotheses. A versioned brief/template is first for one approved content month. Page audit and paid-media export jobs use owner-reviewed non-skill routes. No install recommendation."
+    "text": "Four active source-inspected candidates remain untested. Competitor Discovery is only a dated, sampled, human-confirmed starting set; tangential results are normally dropped, and query-frequency rank is not threat priority. A versioned sheet comes first. Content Strategy is draft-only; page and campaign audits have non-skill routes. No install recommendation."
   },
   "summary": [
-    "Run 19 narrows but retains Content Strategy. Its 40/30/20/10 weights and X/10 priority labels, buyer-stage modifiers, sampled gaps and broad outcome assertions are not validated demand, traffic, conversion or return measures.",
-    "For one approved first-month content plan, start with an owner-maintained versioned brief/template and dated, authorized inputs. A named content lead reviews the order and separately approves briefs and publication. No plan or route was tested.",
-    "Run 18 Search Page Audit and Run 17 Ad Campaign Analyzer remain removed from active choice. Four cards remain. Content Strategy selected-file SHA/date and complete current directory inventory remain unverified, so no installation advice follows."
+    "Run 20 retains Competitor Discovery with narrower language: possible direct and adjacent competitors in a sampled public-web starting set, with tangential entries normally excluded. The source mandates frequency ranking, but that is not verified threat or action priority.",
+    "For one approved product and audience, a versioned owner sheet and reviewed web search come first. Record identity, site statement, source date, query, market, provisional type, ambiguity and exclusions; a named owner confirms the set and separately approves claims or actions. Neither route was executed.",
+    "Run 19 Content Strategy correction remains; four active cards remain. Competitor Discovery selected-file SHA/date, tag and current inventory are unknown. No install, security, host, live-target, quality or marketing-outcome test occurred."
   ],
   "uncertainty": [
-    "Content Strategy was read from mutable main on 9 October; the directory listing was five months old. Selected-file SHA/date and complete current inventory remain unknown. Its scoring factors lack rubrics, missing-data treatment and outcome validation.",
-    "No content plan, comparison, installation, host, security, privacy or marketing outcome test occurred. No customer records, target site or analytics account was accessed.",
-    "Run 18 page-audit and Run 17 paid-media nonrecommendations remain. Other active candidates were not re-audited this run; existing provenance, data and action stops remain."
+    "Competitor Discovery selected GitHub file returned crawled yesterday, raw file two weeks ago, and directory two months ago as observed 10 October. Crawler age is not a file-update date; selected-file SHA/date, tag and complete current inventory remain unknown.",
+    "No live competitor search, versioned-sheet route, same-task comparison, installation, execution, security review, host test or marketing outcome test occurred. Source-site one-liners and frequency order cannot establish identity, market coverage, threat or next-action priority.",
+    "Other active candidates were not re-audited in Run 20. Run 19 draft-only Content Strategy and Run 18/17 removals remain; all data and external-action approvals remain separate."
   ],
-  "checked_at": "2026-10-09T08:39:03Z",
-  "meaningfully_updated_at": "2026-10-09T08:39:03Z",
-  "freshness_note": "Run 19 inspected mutable Content Strategy source returned crawled today on 9 October; a five-month-old directory listing cannot prove current inventory. Other active candidates were not rechecked. Four cards retain draft, install and action stops."
+  "checked_at": "2026-10-10T08:37:15Z",
+  "meaningfully_updated_at": "2026-10-10T08:37:15Z",
+  "freshness_note": "Run 20 inspected mutable Competitor Discovery source on 10 October. The directory view was two months old, so current inventory and selected-file pin remain unknown. Four active cards retain install and action stops."
 }

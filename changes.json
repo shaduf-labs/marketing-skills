@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "competitor-discovery-ranking-boundary-2026-10-10",
+      "changed_at": "2026-10-10T08:37:15Z",
+      "summary": "Added Run 20 full report and one library record in List, Table and Calendar. Retained four active cards while narrowing Competitor Discovery to a sampled, human-confirmed public-web starting set: tangential entries are normally excluded, and required search-frequency order is not threat or action priority. Versioned owner sheet first; dated evidence, identity and provisional type checks before claims. Run 19 correction and all prior URLs remain. No skill or simpler route was executed or tested.",
+      "path": "/p/marketing-skills/research/run-20"
+    },
+    {
       "change_id": "content-strategy-priority-boundary-2026-10-09",
       "changed_at": "2026-10-09T08:39:03Z",
       "summary": "Added Run 19 public report and one library record in List, Table and Calendar. Retained four active cards while narrowing Content Strategy to a conditional draft scaffold: X/10 weights, stage labels and gaps are hypotheses. A versioned brief/template comes first for one approved content month. Run 18 page-audit correction and all prior URLs remain. No install, plan or outcome test.",

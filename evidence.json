@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run20-selected",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/research/competitor-discovery/SKILL.md",
+      "title": "Competitor Discovery selected file",
+      "claim": "Returned crawled yesterday on 10 October. The source requests 4–6 queries, 8–12 candidates, homepage visits and site-derived one-liners; normally excludes tangential candidates, requires search-frequency ranking and human confirmation. It does not require claim-level dated citations or a verified threat/priority rubric. Mutable main, not a selected-file pin.",
+      "accessed_at": "2026-10-10T08:37:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run20-raw",
+      "source_type": "original-repository-skill",
+      "source_url": "https://raw.githubusercontent.com/superamped/ai-marketing-skills/main/skills/research/competitor-discovery/SKILL.md",
+      "title": "Competitor Discovery raw file",
+      "claim": "Accessible but returned crawled two weeks ago; not evidence of current selected-file SHA/date or complete package.",
+      "accessed_at": "2026-10-10T08:37:15Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run20-directory",
+      "source_type": "original-repository-directory",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/tree/main/skills/research/competitor-discovery",
+      "title": "Competitor Discovery directory listing",
+      "claim": "Returned crawled two months ago and showed SKILL.md only then; not a complete current inventory or tag finding.",
+      "accessed_at": "2026-10-10T08:37:15Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run20-readme",
+      "source_type": "original-repository-readme",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/README.md",
+      "title": "Superamped owner README",
+      "claim": "Returned crawled today. Describes maintainer skill library, but does not establish selected-file pin, skill performance or host safety.",
+      "accessed_at": "2026-10-10T08:37:15Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run20-license",
+      "source_type": "original-repository-license",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/LICENSE",
+      "title": "Superamped MIT license",
+      "claim": "Returned crawled yesterday and states MIT; license is not proof of verification, installation compatibility or marketing outcome.",
+      "accessed_at": "2026-10-10T08:37:15Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run19-selected",
       "source_type": "original-repository-skill",
       "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/content/content-strategy/SKILL.md",
