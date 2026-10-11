@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "welcome-email-draft-boundary-2026-10-11",
+      "changed_at": "2026-10-11T20:42:38Z",
+      "summary": "Added Run 21 and one record each in library List, Table and Calendar. Narrowed conditional emails card to our five-email post-signup welcome draft: owner template first, timing/exits/metrics hypotheses, approved proof and exact CTA URL, separate recipient-policy and ESP approval. Mutable selected text 2.1.3 observed, not pinned. Four active cards and prior stops remain; no draft, install or send test.",
+      "path": "/p/marketing-skills/research/run-21"
+    },
+    {
       "change_id": "competitor-discovery-ranking-boundary-2026-10-10",
       "changed_at": "2026-10-10T08:37:15Z",
       "summary": "Added Run 20 full report and one library record in List, Table and Calendar. Retained four active cards while narrowing Competitor Discovery to a sampled, human-confirmed public-web starting set: tangential entries are normally excluded, and required search-frequency order is not threat or action priority. Versioned owner sheet first; dated evidence, identity and provisional type checks before claims. Run 19 correction and all prior URLs remain. No skill or simpler route was executed or tested.",

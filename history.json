@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:9bf36a41-b565-40fb-a9c7-3eded226ce10",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-11T08:30:00Z",
+      "completed_at": "2026-10-11T20:42:38Z",
+      "title": "Lifecycle-email welcome-brief decision boundary",
+      "summary": "Retains emails only for our five-email post-signup welcome draft hypothesis. Owner template first; timing, exits and metrics not verified settings or targets. Named proof and CTA review, separate ESP authorization; mutable 2.1.3 observation is not a file pin. No route, host or send test.",
+      "report_path": "/p/marketing-skills/research/run-21",
+      "entrypoint": "research/run-21/index.html"
+    },
+    {
       "run_id": "run:18c01761-f6f5-47e2-9a49-57b42acbf2d7",
       "status": "completed",
       "answer_change": "meaningful_change",
