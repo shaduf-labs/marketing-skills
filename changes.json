@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "cross-card-decision-consistency-2026-10-13",
+      "changed_at": "2026-10-13T08:41:00Z",
+      "summary": "Carries forward the Run 22 Copywriting claim/proof candidate after the last published welcome-email release, and adds Run 23 cross-card consistency report with one record in each Research library view. Corrects standalone answer to name both historical nonrecommendations and their simpler routes; corrects dated emails evidence so the pool’s five-email subset is not presented as source-mandated. Four conditional active cards, prior URLs, provenance and separate action stops remain. No package source was reopened or route tested.",
+      "path": "/p/marketing-skills/research/run-23"
+    },
+    {
+      "change_id": "copywriting-claim-proof-boundary-2026-10-12",
+      "changed_at": "2026-10-12T08:41:27Z",
+      "summary": "Added Run 22 and one research-library record in List, Table and Calendar. Retained but narrowed Copywriting: owner template first, AI-tells as optional style rather than detection, source efficacy figures and 3× example unsupported by checkable study in inspected passages, pool-proposed claim/proof holds and separate rendered-page/publication decision. Four active cards and prior URLs remain; no route, install or outcome test.",
+      "path": "/p/marketing-skills/research/run-22"
+    },
+    {
       "change_id": "welcome-email-draft-boundary-2026-10-11",
       "changed_at": "2026-10-11T20:42:38Z",
       "summary": "Added Run 21 and one record each in library List, Table and Calendar. Narrowed conditional emails card to our five-email post-signup welcome draft: owner template first, timing/exits/metrics hypotheses, approved proof and exact CTA URL, separate recipient-policy and ESP approval. Mutable selected text 2.1.3 observed, not pinned. Four active cards and prior stops remain; no draft, install or send test.",

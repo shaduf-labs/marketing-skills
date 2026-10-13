@@ -2,6 +2,76 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run22-selected",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/SKILL.md",
+      "title": "Copywriting selected file",
+      "claim": "Mutable main selected text displayed 2.1.0 on 12 October. Requests page/action, audience, offer/proof, traffic and voice; describes sectioned copy and alternatives. Gives unsupported efficacy figures and missing-proof marker. No latest file pin or full package inventory established.",
+      "accessed_at": "2026-10-12T08:41:27Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run22-frameworks",
+      "source_type": "original-repository-reference",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/references/copy-frameworks.md",
+      "title": "Copy frameworks",
+      "claim": "Mutable reference repeats numeric efficacy claims and roughly 3× SavvyCal example without checkable underlying study in returned passage; templates also include illustrative metrics, comparisons and guarantees.",
+      "accessed_at": "2026-10-12T08:41:27Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run22-ai-tells",
+      "source_type": "original-repository-reference",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/references/ai-tells.md",
+      "title": "AI-tells reference",
+      "claim": "Mutable reference gives pattern and style self-check and asserts buyer rejection, but does not validate individual-page AI detection, buyer-response or conversion effects.",
+      "accessed_at": "2026-10-12T08:41:27Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run22-transitions",
+      "source_type": "original-repository-reference",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/references/natural-transitions.md",
+      "title": "Natural transitions",
+      "claim": "Mutable reference contains generic evidence-attribution phrases; these are not actual citations or permission to imply unsupported causal proof.",
+      "accessed_at": "2026-10-12T08:41:27Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run22-kobak",
+      "source_type": "primary-research-paper",
+      "source_url": "https://arxiv.org/abs/2406.07016",
+      "title": "Kobak et al. vocabulary study",
+      "claim": "Studies biomedical abstract vocabulary; not landing-page checklist detection or buyer response.",
+      "accessed_at": "2026-10-12T08:41:27Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run22-juzek",
+      "source_type": "primary-research-paper",
+      "source_url": "https://aclanthology.org/2025.coling-main.426/",
+      "title": "Juzek and Ward lexical study",
+      "claim": "Studies lexical overrepresentation and an exploratory online component; not validation of this page-copy checklist or conversion claim.",
+      "accessed_at": "2026-10-12T08:41:27Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run22-paech",
+      "source_type": "primary-research-paper",
+      "source_url": "https://arxiv.org/abs/2510.15061",
+      "title": "Paech et al. Antislop",
+      "claim": "Studies model-output pattern suppression and evaluations, not buyer rejection or a validated individual-page AI detector.",
+      "accessed_at": "2026-10-12T08:41:27Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run21-selected",
       "source_type": "original-repository-skill",
       "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/emails/SKILL.md",
@@ -706,7 +776,7 @@
       "source_type": "original-repository-skill",
       "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/emails/SKILL.md",
       "title": "Core Haines emails skill source",
-      "claim": "The selected file identifies `emails` version 2.0.0 and describes lifecycle-email drafts, including a five-email welcome-sequence brief format. This is a mutable main-link observation; no selected-file SHA/date was established.",
+      "claim": "The selected file displayed `emails` version 2.0.0 on 26 September and described lifecycle-email drafts and welcome examples. The five-email brief is the pool’s proposed bounded use, not a source-mandated format. This mutable main observation did not establish a selected-file SHA/date or current inventory.",
       "accessed_at": "2026-09-26T08:30:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"

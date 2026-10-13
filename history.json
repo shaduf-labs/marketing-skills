@@ -2,6 +2,28 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:d8555130-e9dd-4dc8-8d4a-a10e18ccfec3",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-13T08:30:00Z",
+      "completed_at": "2026-10-13T08:41:00Z",
+      "title": "Cross-card decision-consistency audit",
+      "summary": "Retains four conditional active cards and two historical nonrecommendations. Corrects standalone answer omissions and a dated emails evidence claim that blurred source examples with the pool’s five-email subset. Saved-record audit only; no new package decision, source recheck, install or action test.",
+      "report_path": "/p/marketing-skills/research/run-23",
+      "entrypoint": "research/run-23/index.html"
+    },
+    {
+      "run_id": "run:85f8fe1d-7f09-45c4-b72f-2068a8196407",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-12T08:30:00Z",
+      "completed_at": "2026-10-12T08:41:27Z",
+      "title": "Copywriting claim-to-proof boundary for one local landing-page draft",
+      "summary": "Retains Copywriting only as a conditional draft scaffold, owner template first. AI-tells is optional style review, not detection; source efficacy figures and 3× example lack checkable study in inspected passages. Pool-proposed claim/proof holds and separate publication approval; no route, host or quality test.",
+      "report_path": "/p/marketing-skills/research/run-22",
+      "entrypoint": "research/run-22/index.html"
+    },
+    {
       "run_id": "run:9bf36a41-b565-40fb-a9c7-3eded226ce10",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -1,22 +1,21 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose the smallest authorized route. Four active source-inspected candidates remain untested. For one post-signup welcome draft, start with an owner-maintained template and reviewed prompt; the conditional emails skill may only draft our five-email hypothesis from approved non-personal input. Timing, exits and metrics are not verified settings or targets. A named owner approves proof, terms and CTA URL, and the ESP owner separately approves any system action. No install or external action is authorized.",
+  "current_answer": "Choose the smallest authorized route. Four active source-inspected candidates remain untested: Copywriting, Content Strategy, Competitor Discovery and `emails`. Use an owner-maintained brief/template and reviewed prompt before a conditional local draft or sampled research set. A named owner verifies claims, proof, rights and exact action destinations; publication, sending and other external actions require separate approval. Search Page Audit and Ad Campaign Analyzer are not recommended: use an unscored, owner-reviewed checklist for one authorized public URL or a governed descriptive worksheet for an authorized campaign export instead. Separate approval is required before deployment or spend changes. No install or external action is authorized.",
   "catalogue_card": {
     "question": "Which AI-agent skills are useful for marketing, and how can marketers use them?",
-    "text": "Four active source-inspected candidates remain untested. The emails card is a conditional five-email post-signup welcome draft, not a flow: owner template first, timing/exits/metrics as hypotheses, named proof and CTA review, separate ESP approval. Competitor Discovery remains a sampled human-confirmed starting set; Content Strategy is draft-only. No install advice."
+    "text": "Four active source-inspected candidates remain untested: Copywriting, Content Strategy, Competitor Discovery and emails. Start with an owner-maintained brief/template or sheet and reviewed prompt; keep outputs draft-only or a sampled research set. No recommended skill for page-audit scoring or paid-media stop/scale; use an owner-reviewed unscored checklist or governed descriptive worksheet. Named review and separate external-action approval are required. No install advice."
   },
   "summary": [
-    "Run 21 retains conditional emails only for our proposed five-email post-signup welcome Markdown draft. An owner-maintained brief/template and reviewed prompt are first for one approved local draft.",
-    "Mutable selected text displayed 2.1.3 on 11 October. Latest selected-file SHA/date, full 2.1.1→2.1.3 diff and complete current reference inventory are unverified.",
-    "Timing, exits and metric fields are draft hypotheses. Unsupported result, urgency, guarantee and promise are omitted or held; a named owner checks approved proof, terms and exact CTA URL. Recipient-policy and ESP owners separately authorize implementation. Four active cards and prior page-audit and ad-campaign stops remain."
+    "Run 23 cross-checked six saved card decisions and current surfaces. Four cards remain active and conditional; Search Page Audit and Ad Campaign Analyzer remain historical nonrecommendations. No new package, status or install decision follows.",
+    "The standalone answer now names both removed packages and the simpler owner-reviewed alternatives. A 26 September emails evidence record now distinguishes source welcome examples from the pool’s proposed five-email subset.",
+    "Copywriting remains an approved local page-draft scaffold only; Content Strategy a draft month scaffold; Competitor Discovery a sampled public-web starting set; emails a proposed five-message Markdown hypothesis. Named reviewers check facts and separately authorize publication, sending, deployment or account/spend action."
   ],
   "uncertainty": [
-    "No route was executed or compared for quality. No real audience, consent basis, list, URL, account, performance data, local product context, ESP, installation or send was used.",
-    "The opened welcome and copy references are mutable, cached pages; the Copywriting AI-tells cross-skill reference and tool registry were not reviewed. The selected-file pin and full package inventory remain unknown.",
-    "No efficacy, conversion, deliverability, legal, privacy, safety, host or performance conclusion is established."
+    "This was a consistency audit of saved Runs 17–22 and local public files. No original package page was reopened, and no new package or real brief, page, export, list, account, host, skill, template or prompt was run or compared.",
+    "All six selected revisions/current inventories remain unresolved for present install advice. Saved source dates are not fresh 13 October verification. No safety, quality, compatibility, conversion, ranking, email or campaign outcome is established."
   ],
-  "checked_at": "2026-10-11T20:42:38Z",
-  "meaningfully_updated_at": "2026-10-11T20:42:38Z",
-  "freshness_note": "Run 21 inspected mutable emails selected text and two routed references on 11 October. Selected text displayed 2.1.3; latest file pin, full diff and current inventory remain unknown. Four active cards remain; install and action stops apply."
+  "checked_at": "2026-10-13T08:41:00Z",
+  "meaningfully_updated_at": "2026-10-13T08:41:00Z",
+  "freshness_note": "Run 23 checked saved Runs 17–22 against local current public surfaces on 13 October. It did not reverify live package sources. Four conditional active cards and two historical nonrecommendations remain; no install or external-action approval follows."
 }
