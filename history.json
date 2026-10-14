@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "runs": [
     {
-      "run_id": "run:d8555130-e9dd-4dc8-8d4a-a10e18ccfec3",
+      "run_id": "report-e682be134f6dd32e674f181f",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-13T08:30:00Z",
@@ -13,7 +13,7 @@
       "entrypoint": "research/run-23/index.html"
     },
     {
-      "run_id": "run:85f8fe1d-7f09-45c4-b72f-2068a8196407",
+      "run_id": "report-53489a5fd918adc72e63ff63",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-12T08:30:00Z",
@@ -24,7 +24,7 @@
       "entrypoint": "research/run-22/index.html"
     },
     {
-      "run_id": "run:9bf36a41-b565-40fb-a9c7-3eded226ce10",
+      "run_id": "report-50582d591d20b499332ec183",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-11T08:30:00Z",
@@ -35,7 +35,7 @@
       "entrypoint": "research/run-21/index.html"
     },
     {
-      "run_id": "run:18c01761-f6f5-47e2-9a49-57b42acbf2d7",
+      "run_id": "report-394cc818fd1ffc7cd1f8d82e",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-10T08:30:00Z",
@@ -46,7 +46,7 @@
       "entrypoint": "research/run-20/index.html"
     },
     {
-      "run_id": "run:e8211320-9bf8-42e0-bebb-2806032c7a25",
+      "run_id": "report-7ff4b50337555a75cfcceef6",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-09T08:30:00Z",
@@ -57,7 +57,7 @@
       "entrypoint": "research/run-19/index.html"
     },
     {
-      "run_id": "run:13e73693-70ea-41b8-893f-10e42c3c121e",
+      "run_id": "report-a1f0121ae9f3b0290a5a25a9",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-08T08:30:00Z",
@@ -68,7 +68,7 @@
       "entrypoint": "research/run-18/index.html"
     },
     {
-      "run_id": "run:4dfd6566-8063-4acc-9fc7-e31b5cdd5d72",
+      "run_id": "report-132c79a9982aff0943d29d7c",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-07T08:30:00Z",
@@ -79,7 +79,7 @@
       "entrypoint": "research/run-17/index.html"
     },
     {
-      "run_id": "run:612649ba-64e7-4bc9-a959-1171d5d66af8",
+      "run_id": "report-eef5acf0c2ca57a9b816c12e",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-06T08:30:00Z",
@@ -90,7 +90,7 @@
       "entrypoint": "research/run-16/index.html"
     },
     {
-      "run_id": "run:22842b67-a852-42f0-8503-e361b12f5487",
+      "run_id": "report-ed57be71eabfe2d93361386d",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-05T08:30:00Z",
@@ -101,7 +101,7 @@
       "entrypoint": "research/run-15/index.html"
     },
     {
-      "run_id": "run:ba734407-a2e2-4f39-b26d-1cf141cc2032",
+      "run_id": "report-d2cb846c2016b0c63bdcedb2",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-04T08:30:00Z",
@@ -112,7 +112,7 @@
       "entrypoint": "research/run-14/index.html"
     },
     {
-      "run_id": "run:97391eee-1ad0-42f3-a905-89383ff628ab",
+      "run_id": "report-6125ac13cb811828a8d1413e",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-03T08:30:00.000Z",
@@ -123,7 +123,7 @@
       "entrypoint": "research/run-13/index.html"
     },
     {
-      "run_id": "run:93d0161b-7012-4129-8b41-36b043bfb995",
+      "run_id": "report-0888322b8c878337094e8021",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-02T08:30:00.000Z",
@@ -134,7 +134,7 @@
       "entrypoint": "research/run-12/index.html"
     },
     {
-      "run_id": "run:bf4b050e-69eb-4206-986e-c87d5235745f",
+      "run_id": "report-9b0863c8c04cf264d1efd14d",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-01T08:30:00.000Z",
@@ -145,7 +145,7 @@
       "entrypoint": "research/run-11/index.html"
     },
     {
-      "run_id": "run:manual:f80aa52e5cde903eebea1b504c41891a",
+      "run_id": "report-460b253d406fc817fb84499f",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-30T20:25:39.375Z",
@@ -156,7 +156,7 @@
       "entrypoint": "research/run-10/index.html"
     },
     {
-      "run_id": "run:5c7b7e13-6ed8-492e-bb99-f4f9f23f5682",
+      "run_id": "report-0a05065217e56521a341d951",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-29T08:30:00.000Z",
@@ -167,7 +167,7 @@
       "entrypoint": "research/run-9/index.html"
     },
     {
-      "run_id": "run:3186c55a-797d-4294-b153-151fae3becf1",
+      "run_id": "report-1519f9b368cc60aace9924ec",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-28T08:30:00.000Z",
@@ -178,7 +178,7 @@
       "entrypoint": "research/run-8/index.html"
     },
     {
-      "run_id": "run:66d51685-5126-4797-89e7-6dfb93069118",
+      "run_id": "report-99bda94ba7fe8f1b82b69d3d",
       "status": "completed",
       "answer_change": "no_meaningful_change",
       "started_at": "2026-09-27T08:30:00.000Z",
@@ -189,7 +189,7 @@
       "entrypoint": "research/run-7/index.html"
     },
     {
-      "run_id": "run:dd4b11a4-c995-4c03-9dbc-cf79fdf59fd5",
+      "run_id": "report-6eda4798b390aa51b7882a6b",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-26T08:30:00.000Z",
@@ -200,7 +200,7 @@
       "entrypoint": "research/run-6/index.html"
     },
     {
-      "run_id": "run:f6e24aa8-d9f7-4314-ad83-3b88140be633",
+      "run_id": "report-51217b100cf9b0f06e2db606",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-25T08:30:00.000Z",
@@ -211,7 +211,7 @@
       "entrypoint": "research/run-5/index.html"
     },
     {
-      "run_id": "run:7e3dd522-4449-49fd-8454-da9c106ed612",
+      "run_id": "report-ee713e36fef438b770d4a143",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-24T00:00:00.000Z",
@@ -222,7 +222,7 @@
       "entrypoint": "research/run-4/index.html"
     },
     {
-      "run_id": "run:8d41c121-a795-47e0-a453-f3c795ff11c4",
+      "run_id": "report-7e411026e62ee71a12968bc8",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-23T00:00:00.000Z",
@@ -233,7 +233,7 @@
       "entrypoint": "research/run-3/index.html"
     },
     {
-      "run_id": "run:c19515c1-b0f3-4051-a793-ab572e2984bd",
+      "run_id": "report-594455ca823090f7e20fc08c",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-22T08:30:00.000Z",
@@ -244,7 +244,7 @@
       "entrypoint": "research/run-2/index.html"
     },
     {
-      "run_id": "run:manual:e68e4ee9eb26a9983f2f28d4bda6dafd",
+      "run_id": "report-7cb651745e26268fd489d117",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-22T01:28:49.296Z",
