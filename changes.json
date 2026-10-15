@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "emails-linked-route-boundary-2026-10-14",
+      "changed_at": "2026-10-14T08:41:00Z",
+      "summary": "Adds Run 24 selected-email link trace and one Research library record in List, Table and Calendar. Corrects current email wording from unreviewed to source-read on 14 October; cross-skill style and separate account, recipient-data and send guides remain outside the conditional five-message Markdown draft. Single-skill inclusion, host/provider behavior, latest pin and full diff remain unknown. Four active cards, two historical nonrecommendations, owner-template-first route and no-install/send stops remain; no workflow test.",
+      "path": "/p/marketing-skills/research/run-24"
+    },
+    {
       "change_id": "cross-card-decision-consistency-2026-10-13",
       "changed_at": "2026-10-13T08:41:00Z",
       "summary": "Carries forward the Run 22 Copywriting claim/proof candidate after the last published welcome-email release, and adds Run 23 cross-card consistency report with one record in each Research library view. Corrects standalone answer to name both historical nonrecommendations and their simpler routes; corrects dated emails evidence so the pool’s five-email subset is not presented as source-mandated. Four conditional active cards, prior URLs, provenance and separate action stops remain. No package source was reopened or route tested.",

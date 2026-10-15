@@ -2,6 +2,136 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run24-selected",
+      "source_type": "original-repository-skill",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/emails/SKILL.md",
+      "title": "Selected emails file",
+      "claim": "Mutable selected text displayed 2.1.3 when returned crawled 14 October. It describes a Markdown draft and linked resources; latest file SHA/date, full diff and install inventory are not established.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run24-sequence",
+      "source_type": "original-repository-reference",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/emails/references/sequence-templates.md",
+      "title": "Sequence templates",
+      "claim": "Read 14 October. Seven-message post-signup sequence is an example, not the pool five-message requirement; claims and offers need owner proof.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run24-types",
+      "source_type": "original-repository-reference",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/emails/references/email-types.md",
+      "title": "Email types",
+      "claim": "Read 14 October. Lifecycle audit and implementation guidance can involve customer data and ESP operations; not required for a narrow welcome draft.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run24-copy",
+      "source_type": "original-repository-reference",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/emails/references/copy-guidelines.md",
+      "title": "Email copy guidelines",
+      "claim": "Read 14 October. Merge fields and metrics suggestions are not consent rules or pool performance targets; personal usage data requires authorization.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run24-ai-tells",
+      "source_type": "original-repository-reference",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/copywriting/references/ai-tells.md",
+      "title": "Cross-skill AI-tells reference",
+      "claim": "Read 14 October. Style guidance outside emails; not validated AI detection or evidence of inclusion in an emails-only install.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run24-registry",
+      "source_type": "original-repository-reference",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/tools/REGISTRY.md",
+      "title": "Tool registry",
+      "claim": "Read 14 October. Implementation discovery leads outside the skill directory to account and send guides; no route was used.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run24-setup",
+      "source_type": "original-repository-reference",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/tools/SETUP.md",
+      "title": "Tool setup",
+      "claim": "Read 14 October. Discusses account choice, credentials and authorized reads, not a prerequisite for a Markdown draft.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run24-customer-io",
+      "source_type": "original-repository-reference",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/tools/integrations/customer-io.md",
+      "title": "Customer.io guide",
+      "claim": "Read 14 October from three-week-old broker copy. Describes customer reads/writes and sends; provider behavior unverified.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run24-mailchimp",
+      "source_type": "original-repository-reference",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/tools/integrations/mailchimp.md",
+      "title": "Mailchimp guide",
+      "claim": "Read 14 October from three-week-old broker copy. Describes audience/member writes, campaign and send routes; provider behavior unverified.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run24-resend",
+      "source_type": "original-repository-reference",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/tools/integrations/resend.md",
+      "title": "Resend guide",
+      "claim": "Read 14 October from same-day broker copy. Describes key, sends and domain route; provider behavior unverified.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run24-kit",
+      "source_type": "original-repository-reference",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/tools/integrations/kit.md",
+      "title": "Kit guide",
+      "claim": "Read 14 October from month-old broker copy. Describes subscriber reads/writes and broadcast creation; provider behavior unverified.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run24-nitrosend",
+      "source_type": "original-repository-reference",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/nitrosend.md",
+      "title": "Nitrosend guide",
+      "claim": "Read 14 October from month-old blob; raw copy was three months old. Repository describes sequence/timing/send route, not tested MCP/provider behavior.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run24-sendgrid",
+      "source_type": "original-repository-reference",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/sendgrid.md",
+      "title": "SendGrid guide",
+      "claim": "Raw URL returned Internal Error. Readable two-week-old blob describes key, sends and contact data; current provider behavior and single-skill inclusion unverified.",
+      "accessed_at": "2026-10-14T08:41:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run22-selected",
       "source_type": "original-repository-skill",
       "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/SKILL.md",

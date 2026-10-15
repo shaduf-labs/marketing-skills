@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-ad87694e4ac4e664e77f3eec",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-14T08:30:00Z",
+      "completed_at": "2026-10-14T08:41:00Z",
+      "title": "Welcome-email linked-reference and implementation-route boundary",
+      "summary": "Retains conditional five-message Markdown draft, owner template first. Reads selected and linked source pages while separating cross-skill style reference from external account, recipient-data and send guides. Single-skill inclusion and host/provider behavior unverified; no install, account or send test. Four active cards and two historical nonrecommendations remain.",
+      "report_path": "/p/marketing-skills/research/run-24",
+      "entrypoint": "research/run-24/index.html"
+    },
+    {
       "run_id": "report-e682be134f6dd32e674f181f",
       "status": "completed",
       "answer_change": "meaningful_change",
