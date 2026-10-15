@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run25-core-readme",
+      "source_type": "original-repository-readme",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/README.md",
+      "title": "Core Haines repository README",
+      "claim": "Documents specific-skill CLI selection and full-library plugin/clone routes; no command or installation was executed.",
+      "accessed_at": "2026-10-15T08:43:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run25-installer-readme",
+      "source_type": "original-installer-documentation",
+      "source_url": "https://raw.githubusercontent.com/vercel-labs/skills/main/README.md",
+      "title": "Skills installer README",
+      "claim": "Defines --skill named selection, --list non-installing enumeration, and project/global plus symlink/copy methods; does not verify Core Haines payload or host resolution.",
+      "accessed_at": "2026-10-15T08:43:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run25-zip-design",
+      "source_type": "original-repository-documentation",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/docs/skill-release-packaging.md",
+      "title": "Single-skill ZIP design",
+      "claim": "Says one ZIP includes named skill authored resources and license, excludes other skills and rest of repository, and does not add CLI/MCP/credentials/context. Actual archive and manifest were not inspected; live upload is unverified.",
+      "accessed_at": "2026-10-15T08:43:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run25-copywriting",
+      "source_type": "original-repository-skill",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/copywriting/SKILL.md",
+      "title": "Copywriting selected text",
+      "claim": "Mutable selected text displayed 2.2.0 on 15 October, directs supportable claims and a pre-handoff AI-tells self-check; latest SHA/date, full delta and inventory are unverified.",
+      "accessed_at": "2026-10-15T08:43:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run25-emails",
+      "source_type": "original-repository-skill",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/emails/SKILL.md",
+      "title": "Emails selected text",
+      "claim": "Mutable selected text displayed 2.1.3, names in-folder resources, cross-skill AI-tells and separate tools registry; local Markdown draft passages do not require account connection or send.",
+      "accessed_at": "2026-10-15T08:43:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run25-tools-registry",
+      "source_type": "original-repository-reference",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/tools/REGISTRY.md",
+      "title": "Tool registry",
+      "claim": "Outside emails skill folder; linked guides are implementation routes, not proven contents of a one-skill payload or required local-draft steps.",
+      "accessed_at": "2026-10-15T08:43:03Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run24-selected",
       "source_type": "original-repository-skill",
       "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/emails/SKILL.md",

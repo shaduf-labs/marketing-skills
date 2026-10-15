@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-542057e993a1b6217c083141",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-15T08:30:00Z",
+      "completed_at": "2026-10-15T08:43:03Z",
+      "title": "One-skill install documentation boundary",
+      "summary": "Documents named-skill CLI selection and a one-skill ZIP design without claiming actual payload or host behavior. Copywriting mutable selected text displayed 2.2.0 and directs AI-tells self-check; this catalogue treats it as optional style-only review. Four conditional active cards, two historical nonrecommendations, owner template first and no-install/action stops remain.",
+      "report_path": "/p/marketing-skills/research/run-25",
+      "entrypoint": "research/run-25/index.html"
+    },
+    {
       "run_id": "report-ad87694e4ac4e664e77f3eec",
       "status": "completed",
       "answer_change": "meaningful_change",

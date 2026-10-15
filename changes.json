@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "single-skill-install-documentation-boundary-2026-10-15",
+      "changed_at": "2026-10-15T08:43:03Z",
+      "summary": "Adds Run 25 and one Research library entry in List, Table and Calendar. Separates named-skill CLI and ZIP documentation from untested payload, cross-skill and tools resolution. Updates current Copywriting selected-text freshness to 2.2.0 and distinguishes its source-directed AI-tells self-check from optional style-only catalogue treatment. Four conditional cards, two historical nonrecommendations, owner-template-first and no-install/action stops remain.",
+      "path": "/p/marketing-skills/research/run-25"
+    },
+    {
       "change_id": "emails-linked-route-boundary-2026-10-14",
       "changed_at": "2026-10-14T08:41:00Z",
       "summary": "Adds Run 24 selected-email link trace and one Research library record in List, Table and Calendar. Corrects current email wording from unreviewed to source-read on 14 October; cross-skill style and separate account, recipient-data and send guides remain outside the conditional five-message Markdown draft. Single-skill inclusion, host/provider behavior, latest pin and full diff remain unknown. Four active cards, two historical nonrecommendations, owner-template-first route and no-install/send stops remain; no workflow test.",
