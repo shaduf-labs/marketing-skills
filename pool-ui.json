@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "default_page": "catalogue",
-  "meaningfully_updated_at": "2026-10-15T08:43:03Z",
+  "meaningfully_updated_at": "2026-10-16T08:35:55Z",
   "pages": [
     {
       "id": "catalogue",
@@ -9,7 +9,7 @@
       "label": "Skill catalogue",
       "icon": "compass",
       "group": "Explore",
-      "description": "Four active untested candidates; Copywriting 2.2.0 observed, with a conditional landing-page draft and claim/proof holds.",
+      "description": "Four active untested candidates; Copywriting mutable 2.3.1 observed 16 October, with input-dependent drafting/editing and claim/proof holds.",
       "parent": null,
       "entrypoint": "index.html",
       "entrypoint_type": "html_fragment",
@@ -41,7 +41,7 @@
       "label": "Research library",
       "icon": "library",
       "group": "Research",
-      "description": "Twenty-five dated reports, including one-skill documentation versus untested payload and Copywriting 2.2.0 freshness.",
+      "description": "Twenty-six dated reports, including Copywriting 2.1.0→observed 2.3.1 endpoint comparison and partial 2.1.0→2.2.0 delta.",
       "parent": null,
       "entrypoint": "research/index.html",
       "entrypoint_type": "html_fragment",

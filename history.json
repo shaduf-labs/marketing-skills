@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-1f9a546ebcc19a4588ae52c9",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-16T08:30:00Z",
+      "completed_at": "2026-10-16T08:35:55Z",
+      "title": "Copywriting source-delta decision boundary",
+      "summary": "Mutable Copywriting selected text displayed 2.3.1 on 16 October; 2.2.0 remains a dated 15 October observation. Full 2.1.0 and observed 2.3.1 endpoints compared, but the exact full intermediate 2.1.0→2.2.0 delta remains partial. Current source allows input-dependent page draft or narrow point edit; its claim-support instructions do not replace the pool’s proof, rights, CTA, rendered-page and publication gates. Four conditional active cards and two historical nonrecommendations remain; no install or host test.",
+      "report_path": "/p/marketing-skills/research/run-26",
+      "entrypoint": "research/run-26/index.html"
+    },
+    {
       "run_id": "report-542057e993a1b6217c083141",
       "status": "completed",
       "answer_change": "meaningful_change",

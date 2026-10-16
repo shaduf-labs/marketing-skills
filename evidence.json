@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run26-copywriting-2-1-0-full",
+      "source_type": "original-repository-skill",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/12188f1e3d3d8538fd32a96c925a8f6d7641827e/skills/copywriting/SKILL.md",
+      "title": "Copywriting 2.1.0 full historical selected file",
+      "claim": "Full 260-line historical baseline used for six-area comparison; file-attributable commit does not prove latest main modifier.",
+      "accessed_at": "2026-10-16T08:35:55Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run26-copywriting-2-3-1-full",
+      "source_type": "original-repository-skill",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/copywriting/SKILL.md",
+      "title": "Mutable Copywriting selected text",
+      "claim": "Full 297-line mutable selected file displayed 2.3.1 on 16 October. Adds input diagnosis and point-edit changed-lines/reasons exception, supportable-claim handling, and a second-generation AI-tells pointer versus full 2.1.0 baseline. Latest SHA/date and full intermediate 2.2.0 delta not established.",
+      "accessed_at": "2026-10-16T08:35:55Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run26-copywriting-file-commit",
+      "source_type": "original-repository-commit",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/commit/12188f1e3d3d8538fd32a96c925a8f6d7641827e",
+      "title": "2 October Copywriting file-attributable commit",
+      "claim": "Identifies selected file as changed at the historical 2.1.0 baseline; not proof of latest main selected-file SHA/date.",
+      "accessed_at": "2026-10-16T08:35:55Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run26-copywriting-blob-crawl",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/SKILL.md",
+      "title": "Mutable Copywriting GitHub blob page",
+      "claim": "Search index still described 2.2.0 at a two-day crawl age, while opened page displayed 2.3.1 on 16 October. Crawl-age discrepancy is not two pinned current versions.",
+      "accessed_at": "2026-10-16T08:35:55Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run25-core-readme",
       "source_type": "original-repository-readme",
       "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/README.md",

@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "copywriting-source-delta-decision-boundary-2026-10-16",
+      "changed_at": "2026-10-16T08:35:55Z",
+      "summary": "Adds Run 26 Copywriting source-delta report and one record in each Research library view. Updates current-facing selected-text observation to mutable 2.3.1 on 16 October; 2.2.0 remains a dated 15 October observation. Compares full 2.1.0 and observed 2.3.1 endpoints while leaving exact full 2.1.0→2.2.0 delta partial. Clarifies input-dependent page draft or point edit and source claim directions versus pool proof, rights, CTA, rendered-page and publication gates. Four conditional active cards, two historical nonrecommendations and prior URLs remain; no package or host test.",
+      "path": "/p/marketing-skills/research/run-26"
+    },
+    {
       "change_id": "single-skill-install-documentation-boundary-2026-10-15",
       "changed_at": "2026-10-15T08:43:03Z",
       "summary": "Adds Run 25 and one Research library entry in List, Table and Calendar. Separates named-skill CLI and ZIP documentation from untested payload, cross-skill and tools resolution. Updates current Copywriting selected-text freshness to 2.2.0 and distinguishes its source-directed AI-tells self-check from optional style-only catalogue treatment. Four conditional cards, two historical nonrecommendations, owner-template-first and no-install/action stops remain.",
