@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-9ef9f220f46b116e1a7a28c7",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-17T08:30:00Z",
+      "completed_at": "2026-10-17T21:28:58Z",
+      "title": "Emails release-asset metadata and unresolved manifest boundary",
+      "summary": "GitHub lists original v2.11.37 emails-source.zip and a reported digest; tagged emails source displays 2.1.4. ZIP bytes and attached manifest were inaccessible, so no archive path is confirmed present or missing and no hash was locally computed. Historical mutable 2.1.3 observations remain dated. Conditional template-first local draft and separate recipient-policy/ESP stop remain; no install or host test.",
+      "report_path": "/p/marketing-skills/research/run-27",
+      "entrypoint": "research/run-27/index.html"
+    },
+    {
       "run_id": "report-1f9a546ebcc19a4588ae52c9",
       "status": "completed",
       "answer_change": "meaningful_change",

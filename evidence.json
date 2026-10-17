@@ -2,6 +2,106 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run27-release-metadata",
+      "source_type": "original-release-metadata",
+      "source_url": "https://api.github.com/repos/coreyhaines31/marketingskills/releases/tags/v2.11.37",
+      "title": "v2.11.37 release metadata",
+      "claim": "GitHub reports 15 October 2026 publication, target commit, immutable:false, emails-source.zip asset ID 644792940, 14,583 bytes and SHA-256 b605c474886414be0232034938e53effdf54112d690727f462fbb29304c0beaf. The digest was not computed from bytes.",
+      "accessed_at": "2026-10-17T21:28:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run27-zip-access",
+      "source_type": "original-release-asset",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/releases/download/v2.11.37/emails-source.zip",
+      "title": "emails-source.zip download",
+      "claim": "Published ZIP URL is listed, but binary could not be retrieved; no central-directory entries or local checksum were obtained.",
+      "accessed_at": "2026-10-17T21:28:58Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run27-manifest-access",
+      "source_type": "original-release-asset",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/releases/download/v2.11.37/source-manifest.json",
+      "title": "Attached source manifest",
+      "claim": "Release lists attached manifest with reported digest, but JSON body was inaccessible and no per-file comparison was made.",
+      "accessed_at": "2026-10-17T21:28:58Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run27-tagged-skill",
+      "source_type": "original-repository",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/v2.11.37/skills/emails/SKILL.md",
+      "title": "Tagged emails source 2.1.4",
+      "claim": "Tagged source displays version 2.1.4 and names three same-folder references, a Copywriting AI-tells cross-reference and separate implementation URLs; it does not establish ZIP inclusion or latest mutable main state.",
+      "accessed_at": "2026-10-17T21:28:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run27-tagged-sequence",
+      "source_type": "original-repository",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/v2.11.37/skills/emails/references/sequence-templates.md",
+      "title": "Tagged sequence templates",
+      "claim": "Tagged source path exists; selected ZIP inclusion unknown.",
+      "accessed_at": "2026-10-17T21:28:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run27-tagged-types",
+      "source_type": "original-repository",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/v2.11.37/skills/emails/references/email-types.md",
+      "title": "Tagged email types",
+      "claim": "Tagged source path exists; selected ZIP inclusion unknown.",
+      "accessed_at": "2026-10-17T21:28:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run27-tagged-guidelines",
+      "source_type": "original-repository",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/v2.11.37/skills/emails/references/copy-guidelines.md",
+      "title": "Tagged copy guidelines",
+      "claim": "Tagged source path exists; selected ZIP inclusion unknown.",
+      "accessed_at": "2026-10-17T21:28:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run27-cross-skill",
+      "source_type": "original-repository",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/v2.11.37/skills/copywriting/references/ai-tells.md",
+      "title": "Tagged cross-skill AI-tells",
+      "claim": "Path exists outside emails at tag; email source names it without embedding its full text. ZIP inclusion and host resolution unknown.",
+      "accessed_at": "2026-10-17T21:28:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run27-packaging-design",
+      "source_type": "original-repository",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/v2.11.37/docs/skill-release-packaging.md",
+      "title": "Tagged packaging design",
+      "claim": "Maintainer says source ZIP retains selected resource bytes, includes named skill and license, excludes other skills/tools, and may be replaced at same tag. Design is not an observed archive inventory.",
+      "accessed_at": "2026-10-17T21:28:58Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run27-tagged-license",
+      "source_type": "original-repository",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/v2.11.37/LICENSE",
+      "title": "Tagged repository license",
+      "claim": "License exists at tag; selected ZIP inclusion remains unknown.",
+      "accessed_at": "2026-10-17T21:28:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run26-copywriting-2-1-0-full",
       "source_type": "original-repository-skill",
       "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/12188f1e3d3d8538fd32a96c925a8f6d7641827e/skills/copywriting/SKILL.md",
