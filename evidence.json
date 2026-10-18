@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run28-emails-2-1-0",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/v2.11.8/skills/emails/SKILL.md",
+      "title": "Tagged emails 2.1.0 selected file",
+      "claim": "Complete 330-line selected file, blob SHA-1 6afcc8894a928653d7e7f8a0b8bbef871e08e32e; baseline for a net comparison, not package inventory.",
+      "accessed_at": "2026-10-18T08:38:28Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run28-emails-2-1-4",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/v2.11.37/skills/emails/SKILL.md",
+      "title": "Tagged emails 2.1.4 selected file",
+      "claim": "Complete 342-line selected file, blob SHA-1 e660baf4adf7430ff90bfbdeaf9a9ad101a2d2ed. Versus 2.1.0 it adds reference routing, Learnings use, outbound referral and mutable-main tool links; no new ESP mandate or proof gate.",
+      "accessed_at": "2026-10-18T08:38:28Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run28-emails-implementation-links",
+      "source_type": "original-repository-skill",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/v2.11.37/skills/emails/SKILL.md#L319-L330",
+      "title": "Tagged implementation link block",
+      "claim": "The registry and six guides use absolute mutable-main URLs, not tag-pinned targets; resolution and package inclusion unverified.",
+      "accessed_at": "2026-10-18T08:38:28Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run27-release-metadata",
       "source_type": "original-release-metadata",
       "source_url": "https://api.github.com/repos/coreyhaines31/marketingskills/releases/tags/v2.11.37",

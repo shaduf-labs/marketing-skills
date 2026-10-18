@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-d1410b21a808727b2a6d7daa",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-18T08:30:00Z",
+      "completed_at": "2026-10-18T08:38:28Z",
+      "title": "Tagged emails 2.1.0→2.1.4 selected-file delta",
+      "summary": "Complete tagged selected-file comparison finds reference-before-drafting, local Learnings use, outbound referral and mutable-main implementation links. The conditional owner-template-first local draft and separate recipient-policy/ESP stop remain; exact intermediate delta, package and outcome unverified.",
+      "report_path": "/p/marketing-skills/research/run-28",
+      "entrypoint": "research/run-28/index.html"
+    },
+    {
       "run_id": "report-9ef9f220f46b116e1a7a28c7",
       "status": "completed",
       "answer_change": "meaningful_change",

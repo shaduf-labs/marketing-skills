@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "emails-immutable-source-delta-2026-10-18",
+      "changed_at": "2026-10-18T08:38:28Z",
+      "summary": "Adds Run 28 and one Research-library record across List, Table and Calendar. Complete tagged emails 2.1.0→2.1.4 selected-file comparison finds reference-before-drafting, local Learnings use, outbound referral and mutable-main implementation links. The proposed five-email local Markdown draft stays owner-template-first; local reads and linked-tool/ESP actions need separate approval. Exact intermediate delta, archive inclusion, installation and efficacy remain unverified.",
+      "path": "/p/marketing-skills/research/run-28"
+    },
+    {
       "change_id": "emails-release-asset-boundary-2026-10-17",
       "changed_at": "2026-10-17T21:28:58Z",
       "summary": "Adds Run 27 and one Research-library entry in List, Table and Calendar. GitHub lists the original v2.11.37 emails-source.zip asset with reported SHA-256, and tagged emails source displays 2.1.4. ZIP bytes and manifest were inaccessible: no archive path is confirmed present or missing; no hash was locally computed. The earlier mutable 2.1.3 observation stays dated. Four conditional candidates, owner template first, draft-only email route and separate recipient-policy/ESP action stop remain; no install or host test.",

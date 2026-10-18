@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "default_page": "catalogue",
-  "meaningfully_updated_at": "2026-10-17T21:28:58Z",
+  "meaningfully_updated_at": "2026-10-18T08:38:28Z",
   "pages": [
     {
       "id": "catalogue",
@@ -9,7 +9,7 @@
       "label": "Skill catalogue",
       "icon": "compass",
       "group": "Explore",
-      "description": "Four active untested candidates; tagged emails 2.1.4 source and release-asset metadata observed 17 October, ZIP entries unknown.",
+      "description": "Four active untested candidates; complete tagged emails 2.1.0→2.1.4 selected-file delta observed 18 October, ZIP entries unknown.",
       "parent": null,
       "entrypoint": "index.html",
       "entrypoint_type": "html_fragment",
@@ -41,7 +41,7 @@
       "label": "Research library",
       "icon": "library",
       "group": "Research",
-      "description": "Twenty-seven dated reports, including the emails release-asset metadata and unresolved ZIP-manifest boundary.",
+      "description": "Twenty-eight dated reports, including the tagged emails selected-file comparison and unresolved archive boundary.",
       "parent": null,
       "entrypoint": "research/index.html",
       "entrypoint_type": "html_fragment",
