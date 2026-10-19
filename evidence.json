@@ -2,6 +2,116 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run29-marketingskills-category",
+      "source_type": "directory-category",
+      "source_url": "https://www.marketingskills.sh/category/content-marketing",
+      "title": "Content Marketing leaderboard",
+      "claim": "Category presents ranking and a 4.8 signal on the inspected result; rank calculation is not disclosed on this page.",
+      "accessed_at": "2026-10-19T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run29-marketingskills-result",
+      "source_type": "directory-result",
+      "source_url": "https://www.marketingskills.sh/coopersimson96/ai-content-system/content-scripting",
+      "title": "Short-form video script result",
+      "claim": "Displays Quality Score 4.8/5 and four dimensions; no selected source revision, package inventory or outcome test established.",
+      "accessed_at": "2026-10-19T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run29-marketingskills-home",
+      "source_type": "directory-methodology",
+      "source_url": "https://www.marketingskills.sh/",
+      "title": "marketingskills.sh home",
+      "claim": "Names four quality dimensions, but inspected home/category/result did not link scoring inputs, assessor, weights or rank rule.",
+      "accessed_at": "2026-10-19T08:38:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run29-skillsmarketing-index",
+      "source_type": "directory-index",
+      "source_url": "https://skills.marketing/skills",
+      "title": "skills.marketing index",
+      "claim": "Says topic grouping and A–Z ordering, not quality ranking.",
+      "accessed_at": "2026-10-19T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run29-skillsmarketing-result",
+      "source_type": "directory-result",
+      "source_url": "https://skills.marketing/skills/coreyhaines31-marketingskills--content-strategy--1mc0h19",
+      "title": "Content Strategy result",
+      "claim": "Shows quick answer, source link, stars, license and Safe label; does not verify selected revision or installed payload.",
+      "accessed_at": "2026-10-19T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run29-skillsmarketing-learn",
+      "source_type": "directory-documentation",
+      "source_url": "https://skills.marketing/learn",
+      "title": "skills.marketing Learn",
+      "claim": "Describes package and manual-copy methods; this is publisher guidance, not a tested install.",
+      "accessed_at": "2026-10-19T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run29-skillsmarketing-security",
+      "source_type": "directory-audit-detail",
+      "source_url": "https://skills.marketing/skills/coreyhaines31-marketingskills--content-strategy--1mc0h19/security",
+      "title": "Content Strategy Safe detail",
+      "claim": "Direct detail was inaccessible in the bounded read (broker Cache miss); security method cannot be inferred here.",
+      "accessed_at": "2026-10-19T08:38:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run29-skillssh-docs",
+      "source_type": "directory-documentation",
+      "source_url": "https://www.skills.sh/docs",
+      "title": "skills.sh docs",
+      "claim": "Describes site leaderboard as aggregate anonymous CLI install telemetry, not usage or outcomes; topic-list sort remains unspecified on inspected pages.",
+      "accessed_at": "2026-10-19T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run29-skillssh-topic",
+      "source_type": "directory-topic",
+      "source_url": "https://www.skills.sh/topic/marketing",
+      "title": "skills.sh Marketing topic",
+      "claim": "Lists marketing results; inspected page does not specify the topic-list sort rule.",
+      "accessed_at": "2026-10-19T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run29-skillssh-result",
+      "source_type": "directory-result",
+      "source_url": "https://www.skills.sh/coreyhaines31/marketingskills/copywriting",
+      "title": "Copywriting result",
+      "claim": "Displays install count, stars and three Pass badges; no selected source revision or full package/host clearance established.",
+      "accessed_at": "2026-10-19T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run29-skillssh-audit",
+      "source_type": "directory-audit-detail",
+      "source_url": "https://www.skills.sh/coreyhaines31/marketingskills/copywriting/security/agent-trust-hub",
+      "title": "Copywriting audit detail",
+      "claim": "Reports SAFE/Pass with analysis dated 16 October 2026; inspected detail did not identify analyzed source hash, package manifest or host-permission test.",
+      "accessed_at": "2026-10-19T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run28-emails-2-1-0",
       "source_type": "original-repository-skill",
       "source_url": "https://github.com/coreyhaines31/marketingskills/blob/v2.11.8/skills/emails/SKILL.md",

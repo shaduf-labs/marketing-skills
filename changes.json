@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "directory-signals-selection-evidence-2026-10-19",
+      "changed_at": "2026-10-19T08:38:00Z",
+      "summary": "Added a three-directory, one-result-each comparison and clarified that scores, alphabetical listings, install counts, stars and audit badges are leads, not this catalogue’s package, permission, fit or outcome verification. The four conditional cards and two historical nonrecommendations remain.",
+      "path": "/p/marketing-skills/research/run-29"
+    },
+    {
       "change_id": "emails-immutable-source-delta-2026-10-18",
       "changed_at": "2026-10-18T08:38:28Z",
       "summary": "Adds Run 28 and one Research-library record across List, Table and Calendar. Complete tagged emails 2.1.0→2.1.4 selected-file comparison finds reference-before-drafting, local Learnings use, outbound referral and mutable-main implementation links. The proposed five-email local Markdown draft stays owner-template-first; local reads and linked-tool/ESP actions need separate approval. Exact intermediate delta, archive inclusion, installation and efficacy remain unverified.",

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-54bd973ea329a92a5b8ee293",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-19T08:30:00Z",
+      "completed_at": "2026-10-19T08:38:00Z",
+      "title": "Directory signals versus selection evidence",
+      "summary": "Bounded three-site, one-result-per-site read distinguishes quality score, A–Z listing and safety label, and CLI-install telemetry with audit badges from source/package/host/outcome verification. Four conditional cards and two historical nonrecommendations remain.",
+      "report_path": "/p/marketing-skills/research/run-29",
+      "entrypoint": "research/run-29/index.html"
+    },
+    {
       "run_id": "report-d1410b21a808727b2a6d7daa",
       "status": "completed",
       "answer_change": "meaningful_change",
