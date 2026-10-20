@@ -2,6 +2,86 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run30-codex-skills",
+      "source_type": "host-documentation",
+      "source_url": "https://developers.openai.com/codex/skills",
+      "title": "Codex local skills",
+      "claim": "Documents local CLI/IDE discovery paths, invocation and optional supporting files; not Copywriting installation.",
+      "accessed_at": "2026-10-20T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run30-codex-approvals",
+      "source_type": "host-documentation",
+      "source_url": "https://learn.chatgpt.com/codex/agent-approvals-security",
+      "title": "Codex agent approvals",
+      "claim": "Documents workspace-write/on-request and automatic-review scope; effective target policy was not tested.",
+      "accessed_at": "2026-10-20T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run30-codex-sandbox",
+      "source_type": "host-documentation",
+      "source_url": "https://learn.chatgpt.com/codex/sandboxing",
+      "title": "Codex sandboxing",
+      "claim": "Documents sandbox and approval controls for file/network reach; not a per-skill safety result.",
+      "accessed_at": "2026-10-20T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run30-claude-skills",
+      "source_type": "host-documentation",
+      "source_url": "https://code.claude.com/docs/en/skills",
+      "title": "Claude Code skills",
+      "claim": "Documents local skills, invocation, supporting resources, dynamic shell context and allowed-tools; not installed Copywriting behavior.",
+      "accessed_at": "2026-10-20T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run30-claude-permissions",
+      "source_type": "host-documentation",
+      "source_url": "https://code.claude.com/docs/en/permissions",
+      "title": "Claude Code permissions",
+      "claim": "Documents modes and rule-dependent prompting; no universal per-read/script prompt can be inferred.",
+      "accessed_at": "2026-10-20T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run30-copywriting-selected",
+      "source_type": "selected-source",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/copywriting/SKILL.md",
+      "title": "Copywriting mutable selected source",
+      "claim": "Displayed 2.3.1 on 20 October and names local context and three references; selected-file observation is not full payload or latest pin.",
+      "accessed_at": "2026-10-20T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run30-maintainer-readme",
+      "source_type": "maintainer-documentation",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/README.md",
+      "title": "Core Haines README",
+      "claim": "Advertises the named-skill CLI command; command and payload were not executed or inspected.",
+      "accessed_at": "2026-10-20T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run30-zip-design",
+      "source_type": "maintainer-documentation",
+      "source_url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/docs/skill-release-packaging.md",
+      "title": "Single-skill ZIP design",
+      "claim": "Describes Claude-web upload and one-folder scope, with live upload unverified; not Claude Code install evidence.",
+      "accessed_at": "2026-10-20T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run29-marketingskills-category",
       "source_type": "directory-category",
       "source_url": "https://www.marketingskills.sh/category/content-marketing",

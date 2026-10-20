@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "copywriting-host-documentation-boundary-2026-10-20",
+      "changed_at": "2026-10-20T08:40:00Z",
+      "summary": "Adds Run 30 and one library record in List, Table and Calendar. Separates official Codex CLI/IDE and Claude Code skill/permission capabilities from maintainer named-skill and Claude-web ZIP claims; no installed payload or host behavior was tested. Copywriting remains conditional and template-first; four conditional cards and two historical nonrecommendations remain.",
+      "path": "/p/marketing-skills/research/run-30"
+    },
+    {
       "change_id": "directory-signals-selection-evidence-2026-10-19",
       "changed_at": "2026-10-19T08:38:00Z",
       "summary": "Added a three-directory, one-result-each comparison and clarified that scores, alphabetical listings, install counts, stars and audit badges are leads, not this catalogue’s package, permission, fit or outcome verification. The four conditional cards and two historical nonrecommendations remain.",

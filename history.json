@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-c472dafe53e3015662234c39",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-20T08:30:00Z",
+      "completed_at": "2026-10-20T08:40:00Z",
+      "title": "Copywriting host-documentation boundary",
+      "summary": "Official Codex CLI/IDE and Claude Code docs show different local paths, invocation, resources and permission stops. Named-skill and Claude-web ZIP claims do not verify the Copywriting installed payload in either host. Conditional template-first draft route and four conditional/two historical card decisions remain; no host or output test.",
+      "report_path": "/p/marketing-skills/research/run-30",
+      "entrypoint": "research/run-30/index.html"
+    },
+    {
       "run_id": "report-54bd973ea329a92a5b8ee293",
       "status": "completed",
       "answer_change": "meaningful_change",
