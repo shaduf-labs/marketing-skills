@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-251a931d97fe82b2471ca005",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-21T08:30:00Z",
+      "completed_at": "2026-10-21T08:40:00Z",
+      "title": "Copywriting pre-install evidence ledger",
+      "summary": "Five pre-install evidence gates separate source instructions, maintainer packaging claims, documented host capabilities and proposed human controls from observed behavior. No new source, payload, install, host invocation or draft was tested. Four conditional cards, two historical nonrecommendations and the template-first route remain unchanged.",
+      "report_path": "/p/marketing-skills/research/run-31",
+      "entrypoint": "research/run-31/index.html"
+    },
+    {
       "run_id": "report-c472dafe53e3015662234c39",
       "status": "completed",
       "answer_change": "meaningful_change",

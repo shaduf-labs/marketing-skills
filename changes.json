@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "copywriting-pre-install-evidence-ledger-2026-10-21",
+      "changed_at": "2026-10-21T08:40:00Z",
+      "summary": "Adds a dated Copywriting pre-install evidence ledger and one research-library record across List, Table and Calendar. Synthesizes existing source, packaging and host-documentation findings into five distinct gates; no new source or host was queried, and no payload or draft was tested. Four conditional cards and two historical nonrecommendations remain unchanged.",
+      "path": "/p/marketing-skills/research/run-31"
+    },
+    {
       "change_id": "copywriting-host-documentation-boundary-2026-10-20",
       "changed_at": "2026-10-20T08:40:00Z",
       "summary": "Adds Run 30 and one library record in List, Table and Calendar. Separates official Codex CLI/IDE and Claude Code skill/permission capabilities from maintainer named-skill and Claude-web ZIP claims; no installed payload or host behavior was tested. Copywriting remains conditional and template-first; four conditional cards and two historical nonrecommendations remain.",
