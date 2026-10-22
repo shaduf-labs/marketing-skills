@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run32-competitor-discovery-selected",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/research/competitor-discovery/SKILL.md",
+      "title": "Competitor Discovery selected instructions",
+      "claim": "The selected text describes sampled search leads, homepage/pricing-derived observations, provisional types and frequency order, then asks for confirmation; it does not output a competitor content inventory or validated threat rank.",
+      "accessed_at": "2026-10-22T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run32-content-strategy-selected",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/content/content-strategy/SKILL.md",
+      "title": "Content Strategy selected instructions",
+      "claim": "The selected text asks for customer questions, goals, existing content, resources and competitor context. Optional prior competitor-content-analysis is distinct from Competitor Discovery; its X/10 factors lack calibration in the selected text.",
+      "accessed_at": "2026-10-22T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run30-codex-skills",
       "source_type": "host-documentation",
       "source_url": "https://developers.openai.com/codex/skills",

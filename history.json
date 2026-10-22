@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-c6c1a27257b30a3351a96bd8",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-22T08:30:00Z",
+      "completed_at": "2026-10-22T08:40:00Z",
+      "title": "Competitor Discovery to Content Strategy: the handoff ceiling",
+      "summary": "Selected-source comparison permits a manual transfer of confirmed, dated competitor-site observations, not a two-skill chain. Discovery leads do not establish competitor content coverage, customer need, capacity or topic priority. Four conditional cards and two historical nonrecommendations remain; no skill was run.",
+      "report_path": "/p/marketing-skills/research/run-32",
+      "entrypoint": "research/run-32/index.html"
+    },
+    {
       "run_id": "report-251a931d97fe82b2471ca005",
       "status": "completed",
       "answer_change": "no_meaningful_change",

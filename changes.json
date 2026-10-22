@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "competitor-content-handoff-boundary-2026-10-22",
+      "changed_at": "2026-10-22T08:40:00Z",
+      "summary": "Added a dated source-text handoff audit and one library record in List, Table and Calendar. Clarifies that confirmed, dated competitor-site observations may enter a separate content brief; discovery rank, coverage, customer need and capacity do not transfer as priorities. Four conditional cards and two historical nonrecommendations remain. No skill or host was tested.",
+      "path": "/p/marketing-skills/research/run-32"
+    },
+    {
       "change_id": "copywriting-pre-install-evidence-ledger-2026-10-21",
       "changed_at": "2026-10-21T08:40:00Z",
       "summary": "Adds a dated Copywriting pre-install evidence ledger and one research-library record across List, Table and Calendar. Synthesizes existing source, packaging and host-documentation findings into five distinct gates; no new source or host was queried, and no payload or draft was tested. Four conditional cards and two historical nonrecommendations remain unchanged.",
