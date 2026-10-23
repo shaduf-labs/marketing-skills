@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-6a5c8de5d6bb03730c3e0b1a",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-23T08:30:00Z",
+      "completed_at": "2026-10-23T08:40:00Z",
+      "title": "Competitor Content Analysis optional-source boundary",
+      "summary": "Selected source describes a separate optional candidate inventory, not an automatic Content Strategy or Competitor Discovery step. Sampled URLs can inform a brief, while traffic estimates, gaps and impact order require dated evidence, paired coverage and content-owner review. Four conditional cards remain; no skill or site was tested.",
+      "report_path": "/p/marketing-skills/research/run-33",
+      "entrypoint": "research/run-33/index.html"
+    },
+    {
       "run_id": "report-c6c1a27257b30a3351a96bd8",
       "status": "completed",
       "answer_change": "meaningful_change",

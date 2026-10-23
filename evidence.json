@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run33-competitor-content-analysis-selected",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/research/competitor-content-analysis/SKILL.md",
+      "title": "Competitor Content Analysis selected instructions",
+      "claim": "Separate optional source instructs sitemap and page sampling, optional keyword-provider estimates, a content-gap table and ideas sorted by estimated impact. Its output footer does not require per-claim URLs, dates, market, coverage denominator, missing-data rule or impact rubric. The mutable source is not an immutable pin or tested output.",
+      "accessed_at": "2026-10-23T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run33-content-strategy-selected",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/content/content-strategy/SKILL.md",
+      "title": "Content Strategy selected instructions",
+      "claim": "Says previously run competitor-content-analysis output may be referenced; it does not include or automatically run that separate source. Its planning score is not calibrated by the optional input.",
+      "accessed_at": "2026-10-23T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run33-superamped-readme",
+      "source_type": "maintainer-documentation",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/README.md",
+      "title": "Superamped maintainer README",
+      "claim": "Lists Competitor Content Analysis separately from Content Strategy and Competitor Discovery, and treats third-party SEO figures as estimates. README descriptions do not verify package or integration behavior.",
+      "accessed_at": "2026-10-23T08:40:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run32-competitor-discovery-selected",
       "source_type": "selected-skill-source",
       "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/research/competitor-discovery/SKILL.md",
