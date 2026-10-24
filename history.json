@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-e23e120b2c9f91a12b21e582",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-24T08:30:00Z",
+      "completed_at": "2026-10-24T08:40:00Z",
+      "title": "Four active-card original-link and label check",
+      "summary": "Connector resolved four original selected files. Two primary emails links now cite tagged v2.11.37 to match 2.1.4 evidence; three other mutable links retain their labels. Browser origin response, package and host behavior remain unverified. Four conditional cards remain.",
+      "report_path": "/p/marketing-skills/research/run-34",
+      "entrypoint": "research/run-34/index.html"
+    },
+    {
       "run_id": "report-6a5c8de5d6bb03730c3e0b1a",
       "status": "completed",
       "answer_change": "meaningful_change",

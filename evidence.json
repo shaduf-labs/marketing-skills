@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run34-copywriting",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/SKILL.md",
+      "title": "Copywriting selected file",
+      "claim": "Connector returned version 2.3.1 and selected-file blob SHA-1 e70bd2e1f4e96cb94ef69b3899150950b0128be5. The mutable URL is not a latest path/date pin.",
+      "accessed_at": "2026-10-24T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run34-content-strategy",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/content/content-strategy/SKILL.md",
+      "title": "Content Strategy selected file",
+      "claim": "Connector returned source-declared version 1.0 and blob SHA-1 9ba65a2e2857a6fc825f35eb93a9b0ddc20a088a. Broker page age was two weeks, not fresh origin proof.",
+      "accessed_at": "2026-10-24T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run34-competitor-discovery",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/research/competitor-discovery/SKILL.md",
+      "title": "Competitor Discovery selected file",
+      "claim": "Connector returned source-declared version 1.0 and blob SHA-1 0d2124d008b8498be059c56d34d3fd45ecfae798. Broker page age was two weeks, not fresh origin proof.",
+      "accessed_at": "2026-10-24T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run34-emails-tag",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/v2.11.37/skills/emails/SKILL.md",
+      "title": "Tagged emails selected file",
+      "claim": "Connector resolved v2.11.37 and main to version 2.1.4, blob SHA-1 e660baf4adf7430ff90bfbdeaf9a9ad101a2d2ed in this check. A broker cache miss for tagged variants does not establish a broken GitHub path; tag citation matches the card evidence.",
+      "accessed_at": "2026-10-24T08:38:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run33-competitor-content-analysis-selected",
       "source_type": "selected-skill-source",
       "source_url": "https://github.com/superamped/ai-marketing-skills/blob/main/skills/research/competitor-content-analysis/SKILL.md",

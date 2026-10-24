@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "active-card-original-link-check-2026-10-24",
+      "changed_at": "2026-10-24T08:40:00Z",
+      "summary": "Aligned the two primary emails links with the inspected v2.11.37 selected file and added a dated four-card link check. Connector file resolution is not a browser redirect trace, full package or host test. Four conditional cards remain.",
+      "path": "/p/marketing-skills/research/run-34"
+    },
+    {
       "change_id": "competitor-content-analysis-source-boundary-2026-10-23",
       "changed_at": "2026-10-23T08:40:00Z",
       "summary": "Adds a dated selected-source audit and one Research-library record across List, Table and Calendar. Clarifies in the by-job view that Competitor Content Analysis is separate and optional, not included in Content Strategy. Its sampled inventory and estimated traffic, gaps and impact order require source, market, missing-data, paired-coverage and content-owner checks. Four conditional cards remain; no skill, host or target site was tested.",
