@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "social-content-draft-boundary-2026-10-27",
+      "changed_at": "2026-10-27T11:03:00Z",
+      "summary": "Adds a dated Social Content source and route-choice report. Original source supports local LinkedIn and X draft shapes, but a maintained template and reviewed prompt come first. Wider local-read and account actions are excluded; exact payload, host access, draft quality and outcomes were not tested. Four conditional cards and two historical nonrecommendations remain.",
+      "path": "/p/marketing-skills/research/run-35"
+    },
+    {
       "change_id": "active-card-original-link-check-2026-10-24",
       "changed_at": "2026-10-24T08:40:00Z",
       "summary": "Aligned the two primary emails links with the inspected v2.11.37 selected file and added a dated four-card link check. Connector file resolution is not a browser redirect trace, full package or host test. Four conditional cards remain.",

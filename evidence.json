@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run35-social-selected-file",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/social/SKILL.md",
+      "title": "Social Content selected file",
+      "claim": "The mutable main selected file displayed social version 2.4.0 and described blog-to-LinkedIn insight and blog-to-X takeaway-thread formats. It also directs local context reads and later scheduling, engagement and analytics; this is source instruction, not tested behavior.",
+      "accessed_at": "2026-10-27T11:00:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run35-post-templates",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/social/references/post-templates.md",
+      "title": "Social post templates",
+      "claim": "Generic LinkedIn and X skeletons include result and CTA placeholders and roughly seven- or eight-post X examples; they do not establish a short-thread requirement, approved claims or added value over an owner template.",
+      "accessed_at": "2026-10-27T11:00:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run35-platforms",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/social/references/platforms.md",
+      "title": "Platform guide",
+      "claim": "The source describes platform format, timing, cadence, reach and link-placement guidance; current platform policy and performance were not independently verified.",
+      "accessed_at": "2026-10-27T11:00:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run35-platform-limits",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/social/references/platform-limits.md",
+      "title": "Platform limits reference",
+      "claim": "A dated mutable third-party limits table was read; final platform constraints need current verification before publication.",
+      "accessed_at": "2026-10-27T11:00:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run35-x-algorithm",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/social/references/x-algorithm.md",
+      "title": "X algorithm note",
+      "claim": "A May 2026 interpretation says algorithm weights are withheld and reported numbers age fast; it is not current performance evidence.",
+      "accessed_at": "2026-10-27T11:00:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run34-copywriting",
       "source_type": "selected-skill-source",
       "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/SKILL.md",

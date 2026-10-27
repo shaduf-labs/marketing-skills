@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-b798cc820eb79cbb843d27d3",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-27T08:30:00Z",
+      "completed_at": "2026-10-27T11:03:00Z",
+      "title": "One approved article to two social drafts: source boundary",
+      "summary": "Social Content original source supports LinkedIn and X draft formats, but a maintained template and reviewed prompt remain first for one approved article. Wider local reads, account actions and source performance claims do not enter this job. No exact payload, host, draft or outcome test; four conditional cards and two historical nonrecommendations remain.",
+      "report_path": "/p/marketing-skills/research/run-35",
+      "entrypoint": "research/run-35/index.html"
+    },
+    {
       "run_id": "report-e23e120b2c9f91a12b21e582",
       "status": "completed",
       "answer_change": "meaningful_change",
