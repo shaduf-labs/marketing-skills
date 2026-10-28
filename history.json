@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-bf13e41b498b0e0d9a0bb703",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-28T08:30:00Z",
+      "completed_at": "2026-10-28T08:45:00Z",
+      "title": "Landing-page A/B-test preflight: source and power boundary",
+      "summary": "The ab-testing selected source offers planning prompts and an approximate sample table, not a page-specific statistical plan. Worksheet and named analyst first. Deployment, monitoring, inference and ship/stop remain separate; no test, result or winner. Four conditional cards and two historical nonrecommendations remain.",
+      "report_path": "/p/marketing-skills/research/run-36",
+      "entrypoint": "research/run-36/index.html"
+    },
+    {
       "run_id": "report-b798cc820eb79cbb843d27d3",
       "status": "completed",
       "answer_change": "meaningful_change",

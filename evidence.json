@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run36-ab-testing-selected-file",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ab-testing/SKILL.md",
+      "title": "A/B-testing selected file",
+      "claim": "Mutable main selected file displayed version 2.0.3 and describes hypothesis and metrics prompts, sample-size table, implementation, monitoring, interpretation and program cadence. It is source instruction, not installed behavior or statistical authority.",
+      "accessed_at": "2026-10-28T08:45:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run36-sample-guide",
+      "source_type": "selected-skill-reference",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ab-testing/references/sample-size-guide.md",
+      "title": "Sample-size guide",
+      "claim": "The linked guide describes two-sided α=.05, 80% power, rounded two-proportion per-arm table and duration heuristics. Its 25 cells were arithmetically plausible under a conventional equal-allocation normal approximation, not validated as a real experiment plan.",
+      "accessed_at": "2026-10-28T08:45:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run36-test-templates",
+      "source_type": "selected-skill-reference",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ab-testing/references/test-templates.md",
+      "title": "A/B-test templates",
+      "claim": "Template offers plan and result fields but also winner and implement labels. It carried a last-week crawl marker, so exact revision alignment with the selected file is unknown.",
+      "accessed_at": "2026-10-28T08:45:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run36-miller-method",
+      "source_type": "method-source",
+      "source_url": "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+      "title": "How Not to Run an A/B Test",
+      "claim": "Original methodological note explains why unplanned repeated significance looks inflate false positives and distinguishes planned sequential methods.",
+      "accessed_at": "2026-10-28T08:45:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run36-asa-pvalues",
+      "source_type": "method-source",
+      "source_url": "https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf",
+      "title": "ASA Statement on Statistical Significance and P-Values",
+      "claim": "The ASA statement says a p-value does not alone measure effect size or business importance and should not alone decide action.",
+      "accessed_at": "2026-10-28T08:45:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run36-statsmodels-power",
+      "source_type": "method-documentation",
+      "source_url": "https://www.statsmodels.org/stable/generated/statsmodels.stats.power.NormalIndPower.solve_power.html",
+      "title": "statsmodels NormalIndPower.solve_power",
+      "claim": "Official power API exposes effect size, α, power, allocation ratio and alternative as design inputs; no page-specific calculation was run.",
+      "accessed_at": "2026-10-28T08:45:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run35-social-selected-file",
       "source_type": "selected-skill-source",
       "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/social/SKILL.md",

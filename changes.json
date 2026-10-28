@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "ab-testing-preflight-boundary-2026-10-28",
+      "changed_at": "2026-10-28T08:45:00Z",
+      "summary": "Adds a dated ab-testing source audit and one permanent library record across List, Table and Calendar. The source can inform a planning memo, but its plausible rounded sample table is not a real power plan. Owner worksheet and named analyst first; no fifth card, live test, result or winner. Four conditional cards and two historical nonrecommendations remain.",
+      "path": "/p/marketing-skills/research/run-36"
+    },
+    {
       "change_id": "social-content-draft-boundary-2026-10-27",
       "changed_at": "2026-10-27T11:03:00Z",
       "summary": "Adds a dated Social Content source and route-choice report. Original source supports local LinkedIn and X draft shapes, but a maintained template and reviewed prompt come first. Wider local-read and account actions are excluded; exact payload, host access, draft quality and outcomes were not tested. Four conditional cards and two historical nonrecommendations remain.",
