@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "default_page": "catalogue",
-  "meaningfully_updated_at": "2026-10-28T08:45:00Z",
+  "meaningfully_updated_at": "2026-10-29T08:45:00Z",
   "pages": [
     {
       "id": "catalogue",
@@ -41,7 +41,7 @@
       "label": "Research library",
       "icon": "library",
       "group": "Research",
-      "description": "Thirty-six dated reports, including an A/B-test preflight and power boundary.",
+      "description": "Thirty-seven dated reports, including a one-artifact social-draft route comparison.",
       "parent": null,
       "entrypoint": "research/index.html",
       "entrypoint_type": "html_fragment",

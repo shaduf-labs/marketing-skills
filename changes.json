@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "social-draft-route-comparison-2026-10-29",
+      "changed_at": "2026-10-29T08:45:00Z",
+      "summary": "Adds a dated, one-artifact comparison of two manual local social-draft routes. Both needed numerical caveat corrections in unblinded self-review; no comparative advantage is established. Maintained template first, Social Content research lead only, four conditional cards and two historical nonrecommendations unchanged.",
+      "path": "/p/marketing-skills/research/run-37"
+    },
+    {
       "change_id": "ab-testing-preflight-boundary-2026-10-28",
       "changed_at": "2026-10-28T08:45:00Z",
       "summary": "Adds a dated ab-testing source audit and one permanent library record across List, Table and Calendar. The source can inform a planning memo, but its plausible rounded sample table is not a real power plan. Owner worksheet and named analyst first; no fifth card, live test, result or winner. Four conditional cards and two historical nonrecommendations remain.",

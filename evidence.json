@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run37-social-selected-file",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/social/SKILL.md",
+      "title": "Social Content selected file",
+      "claim": "Mutable main displayed 2.4.0; goal, audience, voice and repurposing passages shaped a manual local draft route. Scheduling and analytics routes were excluded, and no immutable revision or host behavior was established.",
+      "accessed_at": "2026-10-29T08:30:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run37-social-post-templates",
+      "source_type": "selected-skill-reference",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/social/references/post-templates.md",
+      "title": "Social Content post templates",
+      "claim": "Generic LinkedIn and X forms were used as shape references only. The source does not establish the exercise’s four-post rule, claim trace, exact link or review controls.",
+      "accessed_at": "2026-10-29T08:30:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run36-ab-testing-selected-file",
       "source_type": "selected-skill-source",
       "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ab-testing/SKILL.md",

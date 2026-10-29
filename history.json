@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-6f6bbf7135150c127814cb88",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-29T08:30:00.000Z",
+      "completed_at": "2026-10-29T08:45:00.000Z",
+      "title": "One A/B-test report, two local social-draft routes",
+      "summary": "One published report yielded a LinkedIn draft and four-post X thread by each of two manual routes. Both needed numeric caveat corrections in unblinded author review; no fidelity or reviewer-effort advantage was established. Maintained template first, Social Content research lead only; no fifth card.",
+      "report_path": "/p/marketing-skills/research/run-37",
+      "entrypoint": "research/run-37/index.html"
+    },
+    {
       "run_id": "report-bf13e41b498b0e0d9a0bb703",
       "status": "completed",
       "answer_change": "meaningful_change",
