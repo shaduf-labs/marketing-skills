@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-ad19cd1832edc74e73ae2566",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-30T08:30:00Z",
+      "completed_at": "2026-10-30T08:40:00Z",
+      "title": "Two local-to-connected job boundaries",
+      "summary": "Approved-article social drafts stop before any connected-channel action. Landing-page experiment preflight stops at a memo or explicit unknowns without real inputs. Buffer and Statsig vendor documentation describes later workflows, not tested gains or authority. Four conditional cards and two historical nonrecommendations remain.",
+      "report_path": "/p/marketing-skills/research/run-38",
+      "entrypoint": "research/run-38/index.html"
+    },
+    {
       "run_id": "report-6f6bbf7135150c127814cb88",
       "status": "completed",
       "answer_change": "meaningful_change",

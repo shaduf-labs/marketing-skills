@@ -2,6 +2,96 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run38-social-selected-file",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/social/SKILL.md",
+      "title": "Social Content selected file",
+      "claim": "Source describes article-to-LinkedIn/X adaptation and wider local-context, scheduling and analytics routes; pool local-draft controls are separate. Mutable source read did not establish exact package or host permissions.",
+      "accessed_at": "2026-10-30T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run38-ab-testing-selected-file",
+      "source_type": "selected-skill-source",
+      "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ab-testing/SKILL.md",
+      "title": "A/B-testing selected file",
+      "claim": "Source gives hypothesis and metric prompts plus illustrative sample and results language, not a page-specific power plan or ship authority.",
+      "accessed_at": "2026-10-30T08:40:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run38-buffer-approval",
+      "source_type": "vendor-documentation",
+      "source_url": "https://support.buffer.com/en-us/articles/requesting-approval-and-approving-draft-posts-57li7M8tDA",
+      "title": "Buffer draft approval documentation",
+      "claim": "Vendor describes connected drafts and Team-plan role-dependent approval. Account plan, role, rights review and source fidelity were not verified.",
+      "accessed_at": "2026-10-30T08:40:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run38-buffer-drafts",
+      "source_type": "vendor-documentation",
+      "source_url": "https://support.buffer.com/articles/saving-and-scheduling-draft-posts-CBLXg1yFXp",
+      "title": "Buffer draft scheduling documentation",
+      "claim": "Vendor distinguishes saving a draft from queueing a post; a connected draft is an external write.",
+      "accessed_at": "2026-10-30T08:40:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run38-statsig-power",
+      "source_type": "vendor-documentation",
+      "source_url": "https://docs.statsig.com/experiments/power-analysis",
+      "title": "Statsig Power Analysis",
+      "claim": "Vendor describes estimates from historical population and metric statistics under selected settings; no pool data or estimate was tested.",
+      "accessed_at": "2026-10-30T08:40:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run38-statsig-process",
+      "source_type": "vendor-documentation",
+      "source_url": "https://docs.statsig.com/experiments/process-overview",
+      "title": "Statsig experiment process",
+      "claim": "Vendor separates power analysis, configuration, code, prelaunch checks, launch, monitoring and results.",
+      "accessed_at": "2026-10-30T08:40:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run38-statsig-reviews",
+      "source_type": "vendor-documentation",
+      "source_url": "https://docs.statsig.com/experiments/reviews",
+      "title": "Statsig reviews",
+      "claim": "Vendor review hold depends on configuration and is distinct from commit; setup was not inspected.",
+      "accessed_at": "2026-10-30T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run38-statsig-framework",
+      "source_type": "vendor-documentation",
+      "source_url": "https://docs.statsig.com/experiments/templates/decision-framework",
+      "title": "Statsig decision framework",
+      "claim": "Vendor decision recommendation does not enforce ship logic or replace analyst/business review.",
+      "accessed_at": "2026-10-30T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run38-statsig-decision",
+      "source_type": "vendor-documentation",
+      "source_url": "https://docs.statsig.com/experiments/ending/make-decision",
+      "title": "Statsig Make a Decision",
+      "claim": "Vendor Make a Decision action can ship a selected group; it is outside preflight.",
+      "accessed_at": "2026-10-30T08:40:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run37-social-selected-file",
       "source_type": "selected-skill-source",
       "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/social/SKILL.md",

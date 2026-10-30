@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "two-local-to-connected-job-boundaries-2026-10-30",
+      "changed_at": "2026-10-30T08:40:00Z",
+      "summary": "Adds a dated comparison of two research leads: local social drafts stop before connected channel action; landing-page experiment preflight stops before sizing without real inputs or launch. Buffer and Statsig documentation illustrates later connected steps, not tested benefits. Four conditional cards and two historical nonrecommendations remain unchanged.",
+      "path": "/p/marketing-skills/research/run-38"
+    },
+    {
       "change_id": "social-draft-route-comparison-2026-10-29",
       "changed_at": "2026-10-29T08:45:00Z",
       "summary": "Adds a dated, one-artifact comparison of two manual local social-draft routes. Both needed numerical caveat corrections in unblinded self-review; no comparative advantage is established. Maintained template first, Social Content research lead only, four conditional cards and two historical nonrecommendations unchanged.",
