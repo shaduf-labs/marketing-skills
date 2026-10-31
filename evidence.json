@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "run39-google-gen",
+      "source_type": "vendor-documentation",
+      "source_url": "https://support.google.com/webmasters/answer/16984139?hl=en",
+      "title": "Google generative AI performance report",
+      "claim": "Reports page-level AI Overview/AI Mode impressions, not a citation ledger; worldwide rollout by 31 August 2026, canonical/aggregation, low-volume, preliminary and export-missingness limits.",
+      "accessed_at": "2026-10-31T08:55:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run39-google-ai-features",
+      "source_type": "vendor-documentation",
+      "source_url": "https://developers.google.com/search/docs/appearance/ai-features",
+      "title": "Google AI features and websites",
+      "claim": "Eligibility and page checks do not guarantee serving; links can vary by query and model.",
+      "accessed_at": "2026-10-31T08:55:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run39-bing-ai-performance",
+      "source_type": "vendor-documentation",
+      "source_url": "https://www.bing.com/webmasters/help/ai-performance-9f8e7d6c",
+      "title": "Bing Webmaster AI Performance",
+      "claim": "Pages view describes page-level visible citations on supported AI surfaces; aggregation/sampling, sparse-activity and individual-answer limits apply.",
+      "accessed_at": "2026-10-31T08:55:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run39-bing-preview",
+      "source_type": "vendor-documentation",
+      "source_url": "https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/",
+      "title": "Bing AI Performance public preview",
+      "claim": "Official announcement confirms URL-level citation counts and supported-surface preview, not rank or placement.",
+      "accessed_at": "2026-10-31T08:55:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run39-ga4-landing",
+      "source_type": "vendor-documentation",
+      "source_url": "https://support.google.com/analytics/answer/14292358?hl=en-GB",
+      "title": "GA4 landing page report",
+      "claim": "Landing page can be joined to session source/medium as a visit-referral proxy, not no-click exposure or citation proof.",
+      "accessed_at": "2026-10-31T08:55:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "run39-clarity-faq",
+      "source_type": "vendor-documentation",
+      "source_url": "https://learn.microsoft.com/en-us/clarity/faq/",
+      "title": "Microsoft Clarity FAQ",
+      "claim": "Google AI Overview and ordinary Google Search share google.com referrer; naive AI-referral separation is unreliable.",
+      "accessed_at": "2026-10-31T08:55:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "run38-social-selected-file",
       "source_type": "selected-skill-source",
       "source_url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/social/SKILL.md",

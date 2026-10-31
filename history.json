@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-0fa17a57758854421606cd53",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-31T08:33:00Z",
+      "completed_at": "2026-10-31T08:55:00Z",
+      "title": "One owned URL: AI-search evidence lanes",
+      "summary": "Official Google, Bing and first-party analytics documentation separates page diagnostics, Google generative impressions, Bing-supported citations, referral visits and sampled answer sightings. Use an owner-maintained evidence sheet; no property data or URL was examined. Four conditional cards and two historical nonrecommendations remain.",
+      "report_path": "/p/marketing-skills/research/run-39",
+      "entrypoint": "research/run-39/index.html"
+    },
+    {
       "run_id": "report-ad19cd1832edc74e73ae2566",
       "status": "completed",
       "answer_change": "meaningful_change",

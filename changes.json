@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "one-url-ai-search-evidence-2026-10-31",
+      "changed_at": "2026-10-31T08:55:00Z",
+      "summary": "Adds one report and Research library record for one-URL AI-search evidence. Page diagnostics, Google generative impressions, Bing-supported citations, referral visits and answer sightings stay separate. The unscored page checklist gains a compact measurement link; four conditional cards and two historical nonrecommendations remain.",
+      "path": "/p/marketing-skills/research/run-39"
+    },
+    {
       "change_id": "two-local-to-connected-job-boundaries-2026-10-30",
       "changed_at": "2026-10-30T08:40:00Z",
       "summary": "Adds a dated comparison of two research leads: local social drafts stop before connected channel action; landing-page experiment preflight stops before sizing without real inputs or launch. Buffer and Statsig documentation illustrates later connected steps, not tested benefits. Four conditional cards and two historical nonrecommendations remain unchanged.",
